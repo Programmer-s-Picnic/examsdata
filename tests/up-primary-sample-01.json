@@ -1,0 +1,20 @@
+{
+  "id": "up-primary-sample-01",
+  "title": "UP Primary Teacher Preparation Status Test",
+  "examId": "up-primary-teacher",
+  "durationMinutes": 10,
+  "negativeMarks": 0,
+  "languages": ["en"],
+  "questions": [
+    {"id":"cdp-001","subject":"Child Development & Pedagogy","question":"Which statement best describes child-centred teaching?","options":["The teacher speaks throughout the lesson","Children actively participate in learning","Every child receives identical work","Only textbook questions are discussed"],"answer":1,"explanation":"Child-centred teaching gives learners an active role and considers their needs and experiences."},
+    {"id":"cdp-002","subject":"Child Development & Pedagogy","question":"Formative assessment is mainly used to:","options":["Rank children permanently","Improve learning during instruction","Punish incomplete work","Replace classroom teaching"],"answer":1,"explanation":"Formative assessment provides feedback while learning is still taking place."},
+    {"id":"hin-001","subject":"Hindi","question":"‘सूर्य’ का पर्यायवाची शब्द कौन-सा है?","options":["पवन","रवि","नीर","धरती"],"answer":1,"explanation":"‘रवि’ सूर्य का पर्यायवाची है।"},
+    {"id":"hin-002","subject":"Hindi","question":"‘आँखों का तारा’ मुहावरे का सही अर्थ क्या है?","options":["बहुत चमकीला","बहुत प्रिय","बहुत दूर","बहुत क्रोधित"],"answer":1,"explanation":"‘आँखों का तारा’ का अर्थ बहुत प्रिय व्यक्ति होता है।"},
+    {"id":"eng-001","subject":"English","question":"Choose the correctly spelled word.","options":["Enviroment","Environment","Envirnoment","Enviornment"],"answer":1,"explanation":"Environment is the correct spelling."},
+    {"id":"eng-002","subject":"English","question":"Choose the correct plural form of ‘child’.","options":["Childs","Childes","Children","Childrens"],"answer":2,"explanation":"Children is the irregular plural of child."},
+    {"id":"math-001","subject":"Mathematics","question":"What is 25% of 240?","options":["40","50","60","80"],"answer":2,"explanation":"25% is one fourth, and 240 ÷ 4 = 60."},
+    {"id":"math-002","subject":"Mathematics","question":"A rectangle is 8 cm long and 5 cm wide. What is its perimeter?","options":["13 cm","26 cm","40 cm","80 cm"],"answer":1,"explanation":"Perimeter = 2 × (8 + 5) = 26 cm."},
+    {"id":"evs-001","subject":"Environmental Studies","question":"Which practice helps conserve water?","options":["Keeping taps running","Repairing leaking taps","Washing roads daily","Using more groundwater"],"answer":1,"explanation":"Repairing leaks prevents unnecessary loss of water."},
+    {"id":"evs-002","subject":"Environmental Studies","question":"Which organ helps us breathe?","options":["Heart","Stomach","Lungs","Kidneys"],"answer":2,"explanation":"The lungs are the primary organs of respiration."}
+  ]
+}
