@@ -1,5 +1,0 @@
-{
-  "notice": "Prototype account metadata only. Never add plain-text passwords, password hashes, mobile numbers, email addresses, tokens or other private student information to a GitHub-served JSON file.",
-  "storageMode": "browser-localStorage",
-  "users": []
-}
