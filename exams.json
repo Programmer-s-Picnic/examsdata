@@ -1,1 +1,61 @@
-{"exams":[{"id":"ctet-paper-1","name":"CTET Paper I — 22nd Edition","authority":"Central Board of Secondary Education","summary":"Teacher Eligibility Test for candidates intending to teach Classes I–V.","status":"scheduled","statusLabel":"Officially scheduled","statusClass":"confirmed","nextDate":"12–13 December 2026","schedule":{"Application window":"Closed","Reopened application window":"25 August–1 September 2026","Correction deadline":"10 September 2026","Examination":"12–13 December 2026","Exam-city information":"15 days before the examination","Admit card":"Two days before the examination"},"officialUrl":"https://ctet.nic.in/"},{"id":"uptet-paper-1","name":"UPTET Paper I","authority":"U.P. Examination Regulatory Authority","summary":"State Teacher Eligibility Test for the primary stage. No active official schedule is currently displayed.","status":"awaited","statusLabel":"Notification awaited","statusClass":"waiting","nextDate":null,"schedule":{"Application window":"Not announced","Examination":"Not announced","Official status":"Schedule activity closed"},"officialUrl":"https://updeled.gov.in/DefaultTET.aspx"},{"id":"up-primary-assistant-teacher","name":"UP Primary Assistant Teacher Recruitment","authority":"Uttar Pradesh recruiting authority","summary":"Appointment examination or selection process issued through a separate recruitment advertisement.","status":"awaited","statusLabel":"Official notification awaited","statusClass":"waiting","nextDate":null,"schedule":{"Advertisement":"Not verified","Application window":"Not announced","Examination":"Not announced"},"officialUrl":"https://upessc.up.gov.in/"}],"updatedAt":"2026-09-20T00:00:00Z"}
+{
+  "exams": [
+    {
+      "id": "up-police",
+      "name": "UP Police Constable & SI",
+      "authority": "Uttar Pradesh Police Recruitment Board",
+      "description": "Police recruitment preparation covering general knowledge, Hindi, numerical ability and reasoning.",
+      "status": "Recruitment cycle",
+      "negativeMarking": 0.5,
+      "icon": "police",
+      "subjects": ["General Knowledge", "Hindi", "Numerical Ability", "Reasoning"]
+    },
+    {
+      "id": "upsssc-pet",
+      "name": "UPSSSC PET",
+      "authority": "UPSSSC",
+      "description": "Preliminary eligibility test used for shortlisting across several Group C recruitments.",
+      "status": "Annual eligibility test",
+      "negativeMarking": 0.25,
+      "icon": "pet",
+      "subjects": ["General Knowledge", "Hindi", "Mathematics", "Reasoning"]
+    },
+    {
+      "id": "up-lekhpal",
+      "name": "UP Lekhpal",
+      "authority": "UPSSSC",
+      "description": "Revenue and land-record recruitment with PET shortlisting and village-development topics.",
+      "status": "PET-linked recruitment",
+      "negativeMarking": 0.25,
+      "icon": "land",
+      "subjects": ["Hindi", "Mathematics", "General Knowledge", "Village Development"]
+    },
+    {
+      "id": "teacher",
+      "name": "UP Super TET / UPTET",
+      "authority": "UP Education Service Selection Commission",
+      "description": "Primary and upper-primary teacher eligibility and assistant-teacher preparation.",
+      "status": "Notification awaited",
+      "negativeMarking": 0,
+      "icon": "teacher",
+      "subjects": ["Child Development", "Hindi", "English", "Mathematics", "EVS"]
+    },
+    {
+      "id": "up-vdo",
+      "name": "UP VDO",
+      "authority": "UPSSSC",
+      "description": "Village Development Officer preparation in Hindi, general intelligence and general knowledge.",
+      "status": "PET-linked recruitment",
+      "negativeMarking": 0.5,
+      "icon": "village",
+      "subjects": ["Hindi", "General Intelligence", "General Knowledge", "Rural Development"]
+    }
+  ],
+  "overlapGroups": [
+    {
+      "examIds": ["upsssc-pet", "up-lekhpal", "up-vdo"],
+      "subjects": ["Hindi", "General Knowledge", "Reasoning"],
+      "message": "Start with the common Hindi, general knowledge and reasoning foundation before moving to post-specific subjects."
+    }
+  ]
+}
