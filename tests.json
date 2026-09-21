@@ -105,7 +105,14 @@
           "correctOption": 1,
           "explanation": "Python lists use zero-based indexing, so index 0 contains the first item."
         }
-      ]
+      ],
+      "answerChecking": {
+        "allowedModes": [
+          "per-question",
+          "on-completion"
+        ],
+        "defaultMode": "on-completion"
+      }
     }
   ]
 }
