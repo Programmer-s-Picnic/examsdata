@@ -1,1 +1,111 @@
-{"tests":[{"id":"ctet-paper-1-sample-01","examId":"ctet-paper-1","title":"CTET Paper I Preparation Status Test","description":"A short diagnostic covering all five compulsory Paper I sections.","timingModes":["total","per-question","untimed"],"defaultTimingMode":"total","durationMinutes":10,"secondsPerQuestion":60,"access":"Free","negativeMarks":0,"questionIds":["cdp-001","cdp-002","hin-001","hin-002","eng-001","eng-002","math-001","math-002","evs-001","evs-002"]}]}
+{
+  "version": 1,
+  "tests": [
+    {
+      "id": "python-basics-sample-01",
+      "examId": "python-basics",
+      "title": "Python Basics Sample Test",
+      "description": "A five-question test covering variables, data types, conditions, loops and lists.",
+      "testType": "sample",
+      "access": "free",
+      "marksPerQuestion": 1,
+      "negativeMarks": 0,
+      "allowedModes": [
+        "total-timed",
+        "question-timed",
+        "untimed"
+      ],
+      "defaultMode": "total-timed",
+      "timing": {
+        "totalSeconds": 180,
+        "questionSeconds": 30,
+        "warningSeconds": 10,
+        "autoAdvance": true
+      },
+      "resultBands": [
+        {
+          "minPercent": 80,
+          "label": "Strong",
+          "message": "Excellent foundation. You are ready for a larger Python test."
+        },
+        {
+          "minPercent": 60,
+          "label": "Developing",
+          "message": "Good start. Revise the explanations for missed questions."
+        },
+        {
+          "minPercent": 0,
+          "label": "Needs practice",
+          "message": "Review Python basics and try the sample again."
+        }
+      ],
+      "questions": [
+        {
+          "id": "py-001",
+          "topic": "Variables",
+          "question": "Which statement correctly assigns the value 10 to x?",
+          "options": [
+            "x == 10",
+            "x = 10",
+            "10 = x",
+            "let x = 10"
+          ],
+          "correctOption": 1,
+          "explanation": "Python uses a single equals sign for assignment."
+        },
+        {
+          "id": "py-002",
+          "topic": "Data Types",
+          "question": "What is the output of: print(type(3.5).__name__)?",
+          "options": [
+            "int",
+            "float",
+            "double",
+            "number"
+          ],
+          "correctOption": 1,
+          "explanation": "A number containing a decimal point is a float in Python."
+        },
+        {
+          "id": "py-003",
+          "topic": "Conditions",
+          "question": "Which keyword starts a condition in Python?",
+          "options": [
+            "when",
+            "if",
+            "check",
+            "condition"
+          ],
+          "correctOption": 1,
+          "explanation": "Python conditional statements begin with the if keyword."
+        },
+        {
+          "id": "py-004",
+          "topic": "Loops",
+          "question": "How many times will this loop run: for i in range(3)?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "It never stops"
+          ],
+          "correctOption": 1,
+          "explanation": "range(3) produces 0, 1 and 2, so the loop runs three times."
+        },
+        {
+          "id": "py-005",
+          "topic": "Lists",
+          "question": "What is the value of numbers[0] when numbers = [5, 10, 15]?",
+          "options": [
+            "0",
+            "5",
+            "10",
+            "15"
+          ],
+          "correctOption": 1,
+          "explanation": "Python lists use zero-based indexing, so index 0 contains the first item."
+        }
+      ]
+    }
+  ]
+}
