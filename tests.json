@@ -1,118 +1,272 @@
 {
-  "version": 1,
   "tests": [
     {
       "id": "python-basics-sample-01",
-      "examId": "python-basics",
-      "title": "Python Basics Sample Test",
-      "description": "A five-question test covering variables, data types, conditions, loops and lists.",
-      "testType": "sample",
-      "access": "free",
-      "marksPerQuestion": 1,
-      "negativeMarks": 0,
-      "allowedModes": [
-        "total-timed",
-        "question-timed",
-        "untimed"
-      ],
+      "title": "Python Foundations — Diagnostic Test",
+      "description": "A beginner-friendly diagnostic covering variables, conditions, loops, lists and functions.",
+      "category": "Computer Science",
+      "difficulty": "Beginner",
+      "icon": "code",
+      "examIds": ["teacher", "upsssc-pet", "up-lekhpal", "up-vdo", "up-police"],
+      "totalMarks": 10,
+      "negativeMarking": 0,
+      "passPercent": 40,
       "defaultMode": "total-timed",
-      "timing": {
-        "totalSeconds": 180,
-        "questionSeconds": 30,
-        "warningSeconds": 10,
-        "autoAdvance": true
-      },
-      "resultBands": [
-        {
-          "minPercent": 80,
-          "label": "Strong",
-          "message": "Excellent foundation. You are ready for a larger Python test."
-        },
-        {
-          "minPercent": 60,
-          "label": "Developing",
-          "message": "Good start. Revise the explanations for missed questions."
-        },
-        {
-          "minPercent": 0,
-          "label": "Needs practice",
-          "message": "Review Python basics and try the sample again."
-        }
-      ],
+      "feedbackMode": "on-completion",
+      "timing": {"totalSeconds": 300, "questionSeconds": 35, "warningSeconds": 10},
       "questions": [
         {
-          "id": "py-001",
+          "id": "py-1",
           "topic": "Variables",
-          "question": "Which statement correctly assigns the value 10 to x?",
-          "options": [
-            "x == 10",
-            "x = 10",
-            "10 = x",
-            "let x = 10"
-          ],
+          "marks": 1,
+          "question": "What is printed by this Python code?",
+          "code": "x = 5\ny = 2\nprint(x + y * 3)",
+          "options": ["21", "11", "15", "7"],
           "correctOption": 1,
-          "explanation": "Python uses a single equals sign for assignment."
+          "explanation": "Multiplication is performed before addition: 2 × 3 = 6, then 5 + 6 = 11."
         },
         {
-          "id": "py-002",
+          "id": "py-2",
           "topic": "Data Types",
-          "question": "What is the output of: print(type(3.5).__name__)?",
-          "options": [
-            "int",
-            "float",
-            "double",
-            "number"
-          ],
-          "correctOption": 1,
-          "explanation": "A number containing a decimal point is a float in Python."
+          "marks": 1,
+          "question": "Which Python data type stores an ordered, changeable collection?",
+          "options": ["tuple", "set", "list", "str"],
+          "correctOption": 2,
+          "explanation": "A list is ordered and mutable, so its elements can be added, removed or changed."
         },
         {
-          "id": "py-003",
+          "id": "py-3",
           "topic": "Conditions",
-          "question": "Which keyword starts a condition in Python?",
-          "options": [
-            "when",
-            "if",
-            "check",
-            "condition"
-          ],
+          "marks": 1,
+          "question": "Which operator tests whether two Python values are equal?",
+          "options": ["=", "==", "!=", "is not"],
           "correctOption": 1,
-          "explanation": "Python conditional statements begin with the if keyword."
+          "explanation": "The == comparison operator checks value equality. A single = performs assignment."
         },
         {
-          "id": "py-004",
+          "id": "py-4",
           "topic": "Loops",
-          "question": "How many times will this loop run: for i in range(3)?",
-          "options": [
-            "2",
-            "3",
-            "4",
-            "It never stops"
-          ],
+          "marks": 1,
+          "question": "How many values are produced by range(2, 8, 2)?",
+          "options": ["2", "3", "4", "6"],
           "correctOption": 1,
-          "explanation": "range(3) produces 0, 1 and 2, so the loop runs three times."
+          "explanation": "The values are 2, 4 and 6. The stop value 8 is excluded."
         },
         {
-          "id": "py-005",
+          "id": "py-5",
           "topic": "Lists",
-          "question": "What is the value of numbers[0] when numbers = [5, 10, 15]?",
-          "options": [
-            "0",
-            "5",
-            "10",
-            "15"
-          ],
-          "correctOption": 1,
-          "explanation": "Python lists use zero-based indexing, so index 0 contains the first item."
+          "marks": 1,
+          "question": "What is the value of nums[-1] when nums = [10, 20, 30]?",
+          "options": ["10", "20", "30", "IndexError"],
+          "correctOption": 2,
+          "explanation": "A negative index counts from the end; -1 selects the final element, 30."
+        },
+        {
+          "id": "py-6",
+          "topic": "Functions",
+          "marks": 1,
+          "question": "Which keyword sends a value back from a Python function?",
+          "options": ["print", "yielding", "return", "send"],
+          "correctOption": 2,
+          "explanation": "The return statement ends the function call and provides a value to the caller."
+        },
+        {
+          "id": "py-7",
+          "topic": "Strings",
+          "marks": 2,
+          "question": "What does 'Himanshu'[0:3] evaluate to?",
+          "options": ["Him", "Hima", "iman", "shu"],
+          "correctOption": 0,
+          "explanation": "Slicing includes index 0 and stops before index 3, producing the characters H, i and m."
+        },
+        {
+          "id": "py-8",
+          "topic": "Loops",
+          "marks": 2,
+          "question": "Which loop is normally preferred when iterating directly over every item in a list?",
+          "options": ["for loop", "do-while loop", "repeat-until loop", "goto loop"],
+          "correctOption": 0,
+          "explanation": "Python's for loop iterates directly over items in an iterable and is the clearest choice here."
         }
-      ],
-      "answerChecking": {
-        "allowedModes": [
-          "per-question",
-          "on-completion"
-        ],
-        "defaultMode": "on-completion"
-      }
+      ]
+    },
+    {
+      "id": "teacher-child-development-01",
+      "title": "Child Development & Pedagogy — Practice Set 1",
+      "description": "Conceptual questions on development, inclusive education, assessment and classroom learning.",
+      "category": "Child Development",
+      "difficulty": "Moderate",
+      "icon": "teacher",
+      "examIds": ["teacher"],
+      "totalMarks": 10,
+      "negativeMarking": 0,
+      "passPercent": 60,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {"totalSeconds": 480, "questionSeconds": 45, "warningSeconds": 10},
+      "questions": [
+        {
+          "id": "cdp-1",
+          "topic": "Development",
+          "marks": 1,
+          "question": "Which statement best describes child development?",
+          "options": ["It is identical for every child", "It is continuous and influenced by many factors", "It stops after early childhood", "It depends only on heredity"],
+          "correctOption": 1,
+          "explanation": "Development is a continuous process shaped by the interaction of heredity, environment, experience and culture."
+        },
+        {
+          "id": "cdp-2",
+          "topic": "Learning",
+          "marks": 1,
+          "question": "A constructivist classroom primarily encourages learners to:",
+          "options": ["Memorise the teacher's notes", "Build knowledge through active experience", "Avoid discussing different answers", "Depend entirely on rewards"],
+          "correctOption": 1,
+          "explanation": "Constructivism treats learners as active meaning-makers who connect experience with prior knowledge."
+        },
+        {
+          "id": "cdp-3",
+          "topic": "Assessment",
+          "marks": 1,
+          "question": "Formative assessment is mainly used to:",
+          "options": ["Rank schools nationally", "Improve learning during instruction", "Award the final certificate", "Punish weak performance"],
+          "correctOption": 1,
+          "explanation": "Formative assessment gives timely evidence and feedback that teachers and learners use to improve ongoing learning."
+        },
+        {
+          "id": "cdp-4",
+          "topic": "Inclusive Education",
+          "marks": 1,
+          "question": "In an inclusive classroom, a teacher should:",
+          "options": ["Use exactly one method for everyone", "Separate all children with difficulties", "Adapt instruction to diverse learning needs", "Lower expectations for the entire class"],
+          "correctOption": 2,
+          "explanation": "Inclusive education provides access and participation by adapting teaching, materials and support to learner diversity."
+        },
+        {
+          "id": "cdp-5",
+          "topic": "Motivation",
+          "marks": 1,
+          "question": "Intrinsic motivation occurs when a learner studies because:",
+          "options": ["A prize is promised", "The activity is personally interesting", "A punishment is threatened", "Marks are publicly compared"],
+          "correctOption": 1,
+          "explanation": "Intrinsic motivation comes from interest, curiosity, enjoyment or personal value within the activity itself."
+        },
+        {
+          "id": "cdp-6",
+          "topic": "Intelligence",
+          "marks": 1,
+          "question": "Viewing intelligence as multidimensional means that:",
+          "options": ["Only language ability matters", "A single score defines all ability", "People can show different patterns of strengths", "Intelligence cannot develop"],
+          "correctOption": 2,
+          "explanation": "A multidimensional view recognises different cognitive strengths rather than reducing ability to one uniform capacity."
+        },
+        {
+          "id": "cdp-7",
+          "topic": "Classroom Practice",
+          "marks": 2,
+          "question": "A child repeatedly gives an unexpected answer. What should the teacher do first?",
+          "options": ["Label the child careless", "Ask the child to explain the reasoning", "Immediately provide the correct answer", "Ignore the response"],
+          "correctOption": 1,
+          "explanation": "Exploring the child's reasoning reveals misconceptions and provides useful evidence for appropriate teaching support."
+        },
+        {
+          "id": "cdp-8",
+          "topic": "Learning",
+          "marks": 2,
+          "question": "Scaffolding refers to:",
+          "options": ["Permanent help with every task", "Temporary support gradually removed as competence grows", "Giving easier work to selected children", "Assessing only through written tests"],
+          "correctOption": 1,
+          "explanation": "Scaffolding is responsive temporary assistance that is reduced as the learner gains independence."
+        }
+      ]
+    },
+    {
+      "id": "general-reasoning-01",
+      "title": "General Reasoning — Common Foundation",
+      "description": "A shared reasoning test useful for PET, Lekhpal, VDO and police recruitment preparation.",
+      "category": "Reasoning",
+      "difficulty": "Moderate",
+      "icon": "chart",
+      "examIds": ["upsssc-pet", "up-lekhpal", "up-vdo", "up-police"],
+      "totalMarks": 10,
+      "negativeMarking": 0.25,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {"totalSeconds": 420, "questionSeconds": 40, "warningSeconds": 10},
+      "questions": [
+        {
+          "id": "r-1",
+          "topic": "Series",
+          "marks": 1,
+          "question": "Find the next number: 3, 6, 12, 24, ?",
+          "options": ["30", "36", "42", "48"],
+          "correctOption": 3,
+          "explanation": "Each term is twice the preceding term, so 24 × 2 = 48."
+        },
+        {
+          "id": "r-2",
+          "topic": "Analogy",
+          "marks": 1,
+          "question": "Book is to Reading as Fork is to:",
+          "options": ["Drawing", "Writing", "Eating", "Walking"],
+          "correctOption": 2,
+          "explanation": "A book is commonly used for reading, while a fork is commonly used for eating."
+        },
+        {
+          "id": "r-3",
+          "topic": "Odd One Out",
+          "marks": 1,
+          "question": "Choose the item that does not belong: Square, Triangle, Circle, Cube.",
+          "options": ["Square", "Triangle", "Circle", "Cube"],
+          "correctOption": 3,
+          "explanation": "Cube is three-dimensional; the others are two-dimensional shapes."
+        },
+        {
+          "id": "r-4",
+          "topic": "Coding",
+          "marks": 1,
+          "question": "If CAT is coded as DBU, how is DOG coded using the same rule?",
+          "options": ["EPH", "CPF", "EOH", "FQI"],
+          "correctOption": 0,
+          "explanation": "Each letter is replaced with the next alphabetic letter: D→E, O→P, G→H."
+        },
+        {
+          "id": "r-5",
+          "topic": "Direction",
+          "marks": 1,
+          "question": "Ravi walks north, turns right, and then turns right again. Which direction is he facing?",
+          "options": ["North", "South", "East", "West"],
+          "correctOption": 1,
+          "explanation": "From north, the first right turn faces east; the next right turn faces south."
+        },
+        {
+          "id": "r-6",
+          "topic": "Classification",
+          "marks": 1,
+          "question": "Which word is different from the others?",
+          "options": ["Apple", "Mango", "Carrot", "Banana"],
+          "correctOption": 2,
+          "explanation": "Carrot is a vegetable; the other three are fruits."
+        },
+        {
+          "id": "r-7",
+          "topic": "Series",
+          "marks": 2,
+          "question": "Find the missing number: 2, 5, 10, 17, 26, ?",
+          "options": ["35", "36", "37", "38"],
+          "correctOption": 2,
+          "explanation": "The differences are consecutive odd numbers 3, 5, 7, 9, so the next difference is 11: 26 + 11 = 37."
+        },
+        {
+          "id": "r-8",
+          "topic": "Syllogism",
+          "marks": 2,
+          "question": "All roses are flowers. Some flowers fade quickly. Which conclusion must be true?",
+          "options": ["All roses fade quickly", "Some roses fade quickly", "Roses are flowers", "No flower is a rose"],
+          "correctOption": 2,
+          "explanation": "Only the original universal statement necessarily follows: every rose belongs to the class of flowers."
+        }
+      ]
     }
   ]
 }
