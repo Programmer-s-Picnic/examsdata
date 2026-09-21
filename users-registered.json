@@ -1,1 +1,32 @@
-{"storageMode":"public-demo-only","notice":"These are fictional demonstration accounts. Never add real student records, private contact details or production credentials to this public file.","users":[{"id":"demo-student-001","name":"Aarav Sharma","email":"aarav.demo@himanshuexams.test","mobile":"9000000001","passwordHash":"ff96673205dc722320598ebf8f88325b2ac56922d5a2164b5765868274bc0d73","targetExamId":"ctet-paper-1","role":"student","status":"active","demo":true},{"id":"demo-student-002","name":"Sana Khan","email":"sana.demo@himanshuexams.test","mobile":"9000000002","passwordHash":"b2a1f4fd0a460606b34c8913e2981dac8d2e283d778aba586c416ee2629bfa54","targetExamId":"uptet-paper-1","role":"student","status":"active","demo":true},{"id":"demo-teacher-001","name":"Demo Teacher","email":"teacher.demo@himanshuexams.test","mobile":"9000000003","passwordHash":"d041c3d3ca4ed64c5b54c5d807bd9a0bd2d6ae3609ecd2d06ac383db449360e1","targetExamId":"ctet-paper-1","role":"teacher","status":"active","demo":true}]}
+{
+  "users": [
+    {
+      "id": "student-001",
+      "studentId": "HE1001",
+      "name": "Demo Student",
+      "email": "student@example.com",
+      "mobile": "9876543210",
+      "passwordHash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+      "status": "active"
+    },
+    {
+      "id": "student-002",
+      "studentId": "HE1002",
+      "name": "Himanshu Kumar",
+      "email": "himanshu@example.com",
+      "mobile": "9123456780",
+      "passwordHash": "478cff657390f9bc8800ac47ec169f930ff64cab9c08207c8fa4ceb6d3917548",
+      "status": "active"
+    },
+    {
+      "id": "student-003",
+      "studentId": "HE1003",
+      "name": "Ananya Singh",
+      "email": "ananya@example.com",
+      "mobile": "9988776655",
+      "passwordHash": "6ba4e6e4c0f120a41b23d83d5bc5dec074558086b552d8e7b653ee2858f47318",
+      "status": "active"
+    }
+  ],
+  "warning": "Prototype-only SHA-256 hashes. Replace this client-side demonstration login with secure server-side authentication before production."
+}
