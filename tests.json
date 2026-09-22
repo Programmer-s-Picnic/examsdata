@@ -1,6 +1,39 @@
 {
   "tests": [
     {
+      "id": "common-foundation-diagnostic",
+      "title": "Common Foundation Diagnostic",
+      "description": "A short baseline assessment across Hindi, mathematics, reasoning and general knowledge.",
+      "category": "Diagnostic",
+      "difficulty": "Foundation",
+      "icon": "test",
+      "examIds": ["upsssc-pet", "up-lekhpal", "up-vdo", "up-police"],
+      "totalMarks": 16,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {"totalSeconds": 900, "questionSeconds": 60, "warningSeconds": 10},
+      "questions": [
+        {"id":"fd-1","topic":"Hindi","marks":1,"question":"'आकाश' का पर्यायवाची शब्द कौन-सा है?","options":["धरती","गगन","पवन","अग्नि"],"correctOption":1,"explanation":"'गगन' आकाश का पर्यायवाची शब्द है।"},
+        {"id":"fd-2","topic":"Hindi","marks":1,"question":"'लाभ' का विलोम शब्द चुनिए।","options":["हानि","धन","आय","व्यय"],"correctOption":0,"explanation":"'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।"},
+        {"id":"fd-3","topic":"Hindi","marks":1,"question":"शुद्ध वर्तनी वाला शब्द कौन-सा है?","options":["आशिर्वाद","आशीर्वाद","आर्शीवाद","आशीरवाद"],"correctOption":1,"explanation":"'आशीर्वाद' मानक और शुद्ध वर्तनी है।"},
+        {"id":"fd-4","topic":"Mathematics","marks":1,"question":"200 का 15 प्रतिशत कितना है?","options":["20","25","30","35"],"correctOption":2,"explanation":"15% of 200 = 200 × 15/100 = 30."},
+        {"id":"fd-5","topic":"Mathematics","marks":1,"question":"यदि 3x = 27, तो x का मान क्या है?","options":["6","8","9","12"],"correctOption":2,"explanation":"दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।"},
+        {"id":"fd-6","topic":"Mathematics","marks":1,"question":"12 और 18 का महत्तम समापवर्तक क्या है?","options":["3","6","9","12"],"correctOption":1,"explanation":"12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।"},
+        {"id":"fd-7","topic":"Reasoning","marks":1,"question":"श्रृंखला पूरी करें: 2, 6, 12, 20, ?","options":["26","28","30","32"],"correctOption":2,"explanation":"अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।"},
+        {"id":"fd-8","topic":"Reasoning","marks":1,"question":"यदि SOUTH को TPVUI लिखा जाए, तो NORTH का कूट क्या होगा?","options":["OPSUI","OPSTI","OQSVI","NPSUI"],"correctOption":0,"explanation":"हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।"},
+        {"id":"fd-9","topic":"Reasoning","marks":1,"question":"पुस्तक : पढ़ना :: भोजन : ?","options":["सोना","खाना","चलना","लिखना"],"correctOption":1,"explanation":"पुस्तक पढ़ी जाती है और भोजन खाया जाता है।"},
+        {"id":"fd-10","topic":"General Knowledge","marks":1,"question":"भारत का संविधान कब लागू हुआ?","options":["15 अगस्त 1947","26 जनवरी 1950","26 नवंबर 1949","2 अक्टूबर 1950"],"correctOption":1,"explanation":"भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"},
+        {"id":"fd-11","topic":"General Knowledge","marks":1,"question":"उत्तर प्रदेश की राजधानी क्या है?","options":["प्रयागराज","वाराणसी","कानपुर","लखनऊ"],"correctOption":3,"explanation":"लखनऊ उत्तर प्रदेश की राजधानी है।"},
+        {"id":"fd-12","topic":"General Knowledge","marks":1,"question":"पंचायती राज व्यवस्था की सबसे निचली इकाई कौन-सी है?","options":["जिला पंचायत","ग्राम पंचायत","नगर निगम","राज्यसभा"],"correctOption":1,"explanation":"ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।"},
+        {"id":"fd-13","topic":"Mathematics","marks":1,"question":"एक वस्तु का क्रय मूल्य ₹400 और विक्रय मूल्य ₹460 है। लाभ प्रतिशत क्या है?","options":["10%","12%","15%","20%"],"correctOption":2,"explanation":"लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"},
+        {"id":"fd-14","topic":"Reasoning","marks":1,"question":"रवि उत्तर की ओर चलता है, फिर दाएँ मुड़ता है। अब वह किस दिशा में है?","options":["पूर्व","पश्चिम","उत्तर","दक्षिण"],"correctOption":0,"explanation":"उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"},
+        {"id":"fd-15","topic":"Hindi","marks":1,"question":"'जो कभी न मरे' के लिए एक शब्द है:","options":["अजर","अमर","अटल","अनंत"],"correctOption":1,"explanation":"'अमर' का अर्थ है जो कभी न मरे।"},
+        {"id":"fd-16","topic":"General Knowledge","marks":1,"question":"भारत का राष्ट्रीय चिन्ह किस स्थान के सिंह स्तंभ से लिया गया है?","options":["सारनाथ","सांची","अयोध्या","कुशीनगर"],"correctOption":0,"explanation":"भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"}
+      ]
+    },
+    {
       "id": "python-basics-sample-01",
       "title": "Python Foundations — Diagnostic Test",
       "description": "A beginner-friendly diagnostic covering variables, conditions, loops, lists and functions.",
