@@ -3,17 +3,101 @@
     "name": "Himanshu Exams",
     "shortName": "HE",
     "tagline": "Prepare with purpose",
-    "description": "A focused examination platform for practice tests, clear feedback and measurable improvement."
+    "description": "Choose your examination, measure your preparation and understand what to improve next.",
+    "footerNote": "Independent preparation platform",
+    "officialSourcePolicy": "Dates, vacancies and notifications must be linked to an official source and display a verification date."
   },
-  "navigation": [
-    {"label": "Home", "route": "#/home", "icon": "home"},
-    {"label": "Tests", "route": "#/tests", "icon": "tests"},
-    {"label": "Results", "route": "#/results", "icon": "results"},
-    {"label": "Profile", "route": "#/profile", "icon": "profile"}
-  ],
+  "navigation": {
+    "public": [
+      {"label": "Exams", "route": "#/landing-exams"},
+      {"label": "Tests", "route": "#/login"},
+      {"label": "How It Works", "route": "#/landing-how"}
+    ],
+    "student": [
+      {"label": "Home", "route": "#/home", "icon": "home"},
+      {"label": "Tests", "route": "#/tests", "icon": "tests"},
+      {"label": "Results", "route": "#/results", "icon": "results"},
+      {"label": "Profile", "route": "#/profile", "icon": "profile"}
+    ],
+    "footer": [
+      {"label": "Exams", "route": "#/landing-exams"},
+      {"label": "Tests", "route": "#/tests"},
+      {"label": "Help", "route": "#/help"},
+      {"label": "Disclaimer", "route": "#/help"}
+    ]
+  },
+  "content": {
+    "verification": {
+      "label": "VERIFICATION POLICY",
+      "message": "Exam dates and vacancies are shown only when supported by an official source.",
+      "lastChecked": "2026-09-22"
+    },
+    "landing": {
+      "badge": "FOCUSED PREPARATION FOR UTTAR PRADESH EXAMS",
+      "titleBefore": "Prepare Smarter for",
+      "titleHighlight": "Government Exams",
+      "description": "Take focused practice tests, understand your weak subjects and follow a clear preparation path.",
+      "primaryAction": {"label": "Take Free Diagnostic Test", "route": "#/login"},
+      "secondaryAction": {"label": "Explore Examinations", "route": "#/landing-exams"},
+      "capabilities": [
+        {"value": "3", "label": "Timing modes"},
+        {"value": "2", "label": "Checking modes"},
+        {"valueFrom": "questionCount", "suffix": "+", "label": "Practice questions"},
+        {"value": "100%", "label": "Attempts autosaved"}
+      ],
+      "exams": {
+        "eyebrow": "TARGET EXAMINATIONS",
+        "title": "Choose the examination that matters to you",
+        "description": "Every status should be checked against an official notification before publication."
+      },
+      "diagnostic": {
+        "eyebrow": "START WITH CLARITY",
+        "title": "Free Common Foundation Diagnostic",
+        "description": "A short assessment that identifies your current strengths and the subject that needs attention first.",
+        "facts": ["15 minutes", "Common subjects", "Instant analysis", "No payment"],
+        "actionLabel": "Start diagnostic test"
+      },
+      "how": {
+        "eyebrow": "A CLEAR PREPARATION PATH",
+        "title": "From uncertainty to the right next step",
+        "steps": [
+          {"number": "01", "title": "Choose your exam", "description": "Select one or more target examinations and define your primary goal."},
+          {"number": "02", "title": "Take a test", "description": "Use total-timed, per-question or untimed practice."},
+          {"number": "03", "title": "Understand the result", "description": "Review accuracy, weak topics and clear answer explanations."},
+          {"number": "04", "title": "Practise what matters", "description": "Continue with the test recommended from your performance."}
+        ]
+      },
+      "finalCta": {
+        "title": "Your next test can reveal your next priority.",
+        "description": "Begin with a focused assessment and turn the result into a practical preparation decision.",
+        "label": "Start preparing",
+        "route": "#/login"
+      }
+    },
+    "login": {
+      "eyebrow": "STUDENT PORTAL",
+      "title": "Welcome back",
+      "description": "Continue your preparation with tests, feedback and a clear plan.",
+      "demoEmail": "student@example.com",
+      "demoPassword": "demo123"
+    },
+    "onboarding": {
+      "eyebrow": "YOUR PREPARATION, PERSONALISED",
+      "title": "Which exams are you preparing for?",
+      "titleHindi": "आप किन परीक्षाओं की तैयारी कर रहे हैं?",
+      "description": "Choose one or more exams. We will combine common subjects and recommend the most useful tests."
+    },
+    "dashboard": {
+      "eyebrow": "YOUR PREPARATION HUB",
+      "description": "One clear next step is better than ten unfinished plans.",
+      "recommendedTitle": "Keep your momentum",
+      "quickTitle": "Everything in one place"
+    }
+  },
   "features": {
     "sounds": true,
     "autosave": true,
-    "bilingualOnboarding": true
+    "bilingualOnboarding": true,
+    "publicLanding": true
   }
 }
