@@ -97,6 +97,16 @@
       "usedAt": [
         { "label": "Admin content browser", "url": "https://programmer-s-picnic.github.io/exams/#/admin", "note": "Builds the file list, documentation cards and source links." }
       ]
+    },
+    "favicon.svg": {
+      "purpose": "Browser-tab and bookmark icon for the Himanshu Exams website and test laboratory.",
+      "storedData": "Inline vector artwork combining an examination shield, open book and answer tick in the approved dark-green theme.",
+      "format": "SVG 1.1 vector image · viewBox 0 0 64 64",
+      "keys": { "asset": ["Root-relative identity: /exams/favicon.svg"], "referencedBy": ["index.html", "tests/index.html"] },
+      "usedAt": [
+        { "label": "Main website browser tab", "url": "https://programmer-s-picnic.github.io/exams/", "note": "Loaded through <link rel=icon>." },
+        { "label": "Python test lab browser tab", "url": "https://programmer-s-picnic.github.io/exams/tests/", "note": "Loaded from the shared root favicon." }
+      ]
     }
   },
   "relationships": [
@@ -111,6 +121,13 @@
     { "from": "content-manifest.json", "fromField": "fileDetails[path]", "to": "content-manifest.json", "toField": "files[].path", "cardinality": "one-to-one", "label": "documentation describes file" }
   ],
   "files": [
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "favicon.svg",
+      "label": "favicon.svg",
+      "url": "https://programmer-s-picnic.github.io/exams/favicon.svg"
+    },
     {
       "category": "JSON",
       "repository": "examsdata",
