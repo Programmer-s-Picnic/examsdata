@@ -11,6 +11,7 @@
       "purpose": "Defines the official-facing syllabus and exam pattern shown in each supported exam hub.",
       "storedData": "2 syllabus records with exam ID, paper, duration, question/mark totals, negative marking, source URL, sections and topic lists.",
       "format": "Object { syllabi: Syllabus[], updatedAt: ISO-8601 string }",
+      "keys": { "primary": ["syllabi[].examId"], "foreign": ["syllabi[].examId → exams.json/exams[].id"], "nested": ["syllabi[].sections[].id (section-local identifier)"] },
       "usedAt": [
         { "label": "Constable exam hub", "url": "https://programmer-s-picnic.github.io/exams/#/constable", "note": "Drives the syllabus, pattern and section information." },
         { "label": "Admin content browser", "url": "https://programmer-s-picnic.github.io/exams/#/admin", "note": "Tree and formatted JSON preview." }
@@ -20,6 +21,7 @@
       "purpose": "Master taxonomy for mapping reusable topics to an exam and subject.",
       "storedData": "8 topic records with topic ID, exam ID, subject ID, name, order and foundation level.",
       "format": "Object { topics: Topic[] }",
+      "keys": { "primary": ["topics[].id"], "foreign": ["topics[].examId → exams.json/exams[].id", "topics[].subjectId → exam-syllabus.json/syllabi[].sections[].id"], "alternate": ["examId + subjectId + order"] },
       "usedAt": [
         { "label": "Admin content browser", "url": "https://programmer-s-picnic.github.io/exams/#/admin", "note": "Currently available for inspection; not yet wired to a student page." }
       ]
@@ -28,6 +30,7 @@
       "purpose": "Reserved catalogue for verified previous-year examination papers.",
       "storedData": "An empty papers array and a verification notice; no paper has been published without a verified source.",
       "format": "Object { papers: OldPaper[], notice: string }",
+      "keys": { "primary": ["papers[].id (planned)"], "foreign": ["papers[].examId → exams.json/exams[].id (planned)"], "status": ["Schema reserved; papers[] is currently empty"] },
       "usedAt": [
         { "label": "Admin content browser", "url": "https://programmer-s-picnic.github.io/exams/#/admin", "note": "Reserved data source; no student-facing paper list yet." }
       ]
@@ -36,6 +39,7 @@
       "purpose": "Reusable bilingual question bank organised by exam, subject and topic.",
       "storedData": "10 English/Hindi MCQs with exam IDs, topic ID, difficulty, bilingual question/options/explanation and answer index.",
       "format": "Object { questions: BilingualTopicQuestion[] }",
+      "keys": { "primary": ["questions[].id"], "foreign": ["questions[].examIds[] → exams.json/exams[].id", "questions[].topicId → exam-topics.json/topics[].id"], "validation": ["answerIndex indexes options.en[] and options.hi[]"] },
       "usedAt": [
         { "label": "Admin content browser", "url": "https://programmer-s-picnic.github.io/exams/#/admin", "note": "Question-bank source retained for a future topic practice screen." }
       ]
@@ -44,6 +48,7 @@
       "purpose": "Defines available and coming-soon exams, official sources, stages and subject overlap.",
       "storedData": "5 exam records plus 1 overlap group; includes availability, authority, subjects, official document URLs, verification date and recruitment stages.",
       "format": "Object { exams: Exam[], overlapGroups: OverlapGroup[] }",
+      "keys": { "primary": ["exams[].id"], "referencedBy": ["tests[].examIds[]", "syllabi[].examId", "topics[].examId", "questions[].examIds[]", "papers[].examId"], "nested": ["sources[].url (document identity)"] },
       "usedAt": [
         { "label": "Public exam selector", "url": "https://programmer-s-picnic.github.io/exams/#/landing-exams", "note": "Shows Constable as selectable and other exams as coming soon." },
         { "label": "Constable exam hub", "url": "https://programmer-s-picnic.github.io/exams/#/constable", "note": "Supplies authority, stages, official notices and verified date." },
@@ -55,6 +60,7 @@
       "purpose": "Central site configuration and reusable copy so branding and navigation remain data-driven.",
       "storedData": "Site name/tagline/policy, public/student/footer navigation, landing/dashboard copy and feature descriptions.",
       "format": "Object { site, navigation, content, features }",
+      "keys": { "configuration": ["No relational primary key", "navigation.*[].route identifies an application route"], "referencedBy": ["Web shell, test lab and Flutter app"] },
       "usedAt": [
         { "label": "Main website", "url": "https://programmer-s-picnic.github.io/exams/", "note": "Branding, navigation and page copy." },
         { "label": "Python test lab", "url": "https://programmer-s-picnic.github.io/exams/tests/", "note": "Site title and branding." },
@@ -65,6 +71,7 @@
       "purpose": "Primary test catalogue and MCQ source used by both the website and mobile application.",
       "storedData": "9 tests containing availability, exam mapping, marks, pass percentage, negative marking, timing/feedback defaults and question-option-answer-explanation records.",
       "format": "Object { tests: Test[] }; each Test contains questions: Question[]",
+      "keys": { "primary": ["tests[].id"], "foreign": ["tests[].examIds[] → exams.json/exams[].id", "tests[].baseTestId → tests.json/tests[].id (self-reference, when present)"], "nested": ["tests[].questions[].id (unique inside a test)"] },
       "usedAt": [
         { "label": "Web test catalogue", "url": "https://programmer-s-picnic.github.io/exams/#/tests", "note": "Lists available and coming-soon tests." },
         { "label": "Constable practice", "url": "https://programmer-s-picnic.github.io/exams/#/constable", "note": "Supplies the implemented Constable test." },
@@ -76,6 +83,7 @@
       "purpose": "Prototype-only login fixture for demonstrating registered student authentication.",
       "storedData": "3 dummy users with ID, student ID, name, email, mobile, SHA-256 demonstration password hash and account status, plus a production-security warning.",
       "format": "Object { users: DemoUser[], warning: string }",
+      "keys": { "primary": ["users[].id"], "alternate": ["users[].studentId", "users[].email", "users[].mobile"], "security": ["Prototype identifiers only; production uniqueness must be server-enforced"] },
       "usedAt": [
         { "label": "Web login", "url": "https://programmer-s-picnic.github.io/exams/#/login", "note": "Client-side demonstration only; not production authentication." },
         { "label": "Flutter application", "url": "https://programmer-s-picnic.github.io/exams/releases/himanshu-exams.apk", "note": "Prototype student login dataset." }
@@ -85,11 +93,23 @@
       "purpose": "Self-documenting inventory that powers the read-only admin content browser.",
       "storedData": "Catalogue notes, per-file documentation, repository/path/category/raw URL and usage links for published project assets.",
       "format": "Object { title, updatedAt, notes[], fileDetails, files[] }",
+      "keys": { "primary": ["files[].repository + files[].path (composite)"], "foreign": ["fileDetails key → files[].path"], "alternate": ["files[].url"] },
       "usedAt": [
         { "label": "Admin content browser", "url": "https://programmer-s-picnic.github.io/exams/#/admin", "note": "Builds the file list, documentation cards and source links." }
       ]
     }
   },
+  "relationships": [
+    { "from": "tests.json", "fromField": "tests[].examIds[]", "to": "exams.json", "toField": "exams[].id", "cardinality": "many-to-many", "label": "tests belong to exams" },
+    { "from": "tests.json", "fromField": "tests[].baseTestId", "to": "tests.json", "toField": "tests[].id", "cardinality": "many-to-one", "label": "generated retest references base test" },
+    { "from": "exam-syllabus.json", "fromField": "syllabi[].examId", "to": "exams.json", "toField": "exams[].id", "cardinality": "one-to-one per exam", "label": "syllabus describes exam" },
+    { "from": "exam-topics.json", "fromField": "topics[].examId", "to": "exams.json", "toField": "exams[].id", "cardinality": "many-to-one", "label": "topics grouped by exam" },
+    { "from": "exam-topics.json", "fromField": "topics[].subjectId", "to": "exam-syllabus.json", "toField": "syllabi[].sections[].id", "cardinality": "many-to-one", "label": "topic belongs to syllabus section" },
+    { "from": "exams-topics-questions.json", "fromField": "questions[].examIds[]", "to": "exams.json", "toField": "exams[].id", "cardinality": "many-to-many", "label": "questions reusable across exams" },
+    { "from": "exams-topics-questions.json", "fromField": "questions[].topicId", "to": "exam-topics.json", "toField": "topics[].id", "cardinality": "many-to-one", "label": "question belongs to topic" },
+    { "from": "exams-old-papers.json", "fromField": "papers[].examId", "to": "exams.json", "toField": "exams[].id", "cardinality": "many-to-one (planned)", "label": "paper belongs to exam" },
+    { "from": "content-manifest.json", "fromField": "fileDetails[path]", "to": "content-manifest.json", "toField": "files[].path", "cardinality": "one-to-one", "label": "documentation describes file" }
+  ],
   "files": [
     {
       "category": "JSON",
