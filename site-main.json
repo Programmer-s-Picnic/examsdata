@@ -9,21 +9,71 @@
   },
   "navigation": {
     "public": [
-      {"label": "Exams", "route": "#/landing-exams"},
-      {"label": "Tests", "route": "#/login"},
-      {"label": "How It Works", "route": "#/landing-how"}
+      {
+        "label": "Exams",
+        "route": "#/landing-exams"
+      },
+      {
+        "label": "Tests",
+        "route": "#/login"
+      },
+      {
+        "label": "How It Works",
+        "route": "#/landing-how"
+      },
+      {
+        "label": "Content browser",
+        "route": "#/admin"
+      }
     ],
     "student": [
-      {"label": "Home", "route": "#/home", "icon": "home"},
-      {"label": "Tests", "route": "#/tests", "icon": "tests"},
-      {"label": "Results", "route": "#/results", "icon": "results"},
-      {"label": "Profile", "route": "#/profile", "icon": "profile"}
+      {
+        "label": "Home",
+        "route": "#/home",
+        "icon": "home"
+      },
+      {
+        "label": "Tests",
+        "route": "#/tests",
+        "icon": "tests"
+      },
+      {
+        "label": "Results",
+        "route": "#/results",
+        "icon": "results"
+      },
+      {
+        "label": "Profile",
+        "route": "#/profile",
+        "icon": "profile"
+      },
+      {
+        "label": "Admin content",
+        "route": "#/admin",
+        "icon": "test"
+      }
     ],
     "footer": [
-      {"label": "Exams", "route": "#/landing-exams"},
-      {"label": "Tests", "route": "#/tests"},
-      {"label": "Help", "route": "#/help"},
-      {"label": "Disclaimer", "route": "#/help"}
+      {
+        "label": "Exams",
+        "route": "#/landing-exams"
+      },
+      {
+        "label": "Tests",
+        "route": "#/tests"
+      },
+      {
+        "label": "Help",
+        "route": "#/help"
+      },
+      {
+        "label": "Disclaimer",
+        "route": "#/help"
+      },
+      {
+        "label": "Content browser",
+        "route": "#/admin"
+      }
     ]
   },
   "content": {
@@ -37,13 +87,32 @@
       "titleBefore": "Prepare Smarter for",
       "titleHighlight": "Government Exams",
       "description": "Take focused practice tests, understand your weak subjects and follow a clear preparation path.",
-      "primaryAction": {"label": "Take Free Diagnostic Test", "route": "#/login"},
-      "secondaryAction": {"label": "Explore Examinations", "route": "#/landing-exams"},
+      "primaryAction": {
+        "label": "Take Free Diagnostic Test",
+        "route": "#/login"
+      },
+      "secondaryAction": {
+        "label": "Explore Examinations",
+        "route": "#/landing-exams"
+      },
       "capabilities": [
-        {"value": "3", "label": "Timing modes"},
-        {"value": "2", "label": "Checking modes"},
-        {"valueFrom": "questionCount", "suffix": "+", "label": "Practice questions"},
-        {"value": "100%", "label": "Attempts autosaved"}
+        {
+          "value": "3",
+          "label": "Timing modes"
+        },
+        {
+          "value": "2",
+          "label": "Checking modes"
+        },
+        {
+          "valueFrom": "questionCount",
+          "suffix": "+",
+          "label": "Practice questions"
+        },
+        {
+          "value": "100%",
+          "label": "Attempts autosaved"
+        }
       ],
       "exams": {
         "eyebrow": "TARGET EXAMINATIONS",
@@ -52,19 +121,40 @@
       },
       "diagnostic": {
         "eyebrow": "START WITH CLARITY",
-        "title": "Free Common Foundation Diagnostic",
-        "description": "A short assessment that identifies your current strengths and the subject that needs attention first.",
-        "facts": ["15 minutes", "Common subjects", "Instant analysis", "No payment"],
+        "title": "Constable Sample Mixed Mock",
+        "description": "A short preparation sample across four subjects. This is not a full official-pattern mock.",
+        "facts": [
+          "16 questions",
+          "Four subjects",
+          "Instant analysis",
+          "No payment"
+        ],
         "actionLabel": "Start diagnostic test"
       },
       "how": {
         "eyebrow": "A CLEAR PREPARATION PATH",
         "title": "From uncertainty to the right next step",
         "steps": [
-          {"number": "01", "title": "Choose your exam", "description": "Select one or more target examinations and define your primary goal."},
-          {"number": "02", "title": "Take a test", "description": "Use total-timed, per-question or untimed practice."},
-          {"number": "03", "title": "Understand the result", "description": "Review accuracy, weak topics and clear answer explanations."},
-          {"number": "04", "title": "Practise what matters", "description": "Continue with the test recommended from your performance."}
+          {
+            "number": "01",
+            "title": "Choose your exam",
+            "description": "Select one or more target examinations and define your primary goal."
+          },
+          {
+            "number": "02",
+            "title": "Take a test",
+            "description": "Use total-timed, per-question or untimed practice."
+          },
+          {
+            "number": "03",
+            "title": "Understand the result",
+            "description": "Review accuracy, weak topics and clear answer explanations."
+          },
+          {
+            "number": "04",
+            "title": "Practise what matters",
+            "description": "Continue with the test recommended from your performance."
+          }
         ]
       },
       "finalCta": {
