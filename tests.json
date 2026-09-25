@@ -7,30 +7,247 @@
       "category": "Diagnostic",
       "difficulty": "Foundation",
       "icon": "test",
-      "examIds": ["upsssc-pet", "up-lekhpal", "up-vdo", "up-police"],
+      "examIds": [
+        "upsssc-pet",
+        "up-lekhpal",
+        "up-vdo",
+        "up-police"
+      ],
       "totalMarks": 16,
       "negativeMarking": 0,
       "passPercent": 50,
       "defaultMode": "total-timed",
       "feedbackMode": "on-completion",
-      "timing": {"totalSeconds": 900, "questionSeconds": 60, "warningSeconds": 10},
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
       "questions": [
-        {"id":"fd-1","topic":"Hindi","marks":1,"question":"'आकाश' का पर्यायवाची शब्द कौन-सा है?","options":["धरती","गगन","पवन","अग्नि"],"correctOption":1,"explanation":"'गगन' आकाश का पर्यायवाची शब्द है।"},
-        {"id":"fd-2","topic":"Hindi","marks":1,"question":"'लाभ' का विलोम शब्द चुनिए।","options":["हानि","धन","आय","व्यय"],"correctOption":0,"explanation":"'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।"},
-        {"id":"fd-3","topic":"Hindi","marks":1,"question":"शुद्ध वर्तनी वाला शब्द कौन-सा है?","options":["आशिर्वाद","आशीर्वाद","आर्शीवाद","आशीरवाद"],"correctOption":1,"explanation":"'आशीर्वाद' मानक और शुद्ध वर्तनी है।"},
-        {"id":"fd-4","topic":"Mathematics","marks":1,"question":"200 का 15 प्रतिशत कितना है?","options":["20","25","30","35"],"correctOption":2,"explanation":"15% of 200 = 200 × 15/100 = 30."},
-        {"id":"fd-5","topic":"Mathematics","marks":1,"question":"यदि 3x = 27, तो x का मान क्या है?","options":["6","8","9","12"],"correctOption":2,"explanation":"दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।"},
-        {"id":"fd-6","topic":"Mathematics","marks":1,"question":"12 और 18 का महत्तम समापवर्तक क्या है?","options":["3","6","9","12"],"correctOption":1,"explanation":"12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।"},
-        {"id":"fd-7","topic":"Reasoning","marks":1,"question":"श्रृंखला पूरी करें: 2, 6, 12, 20, ?","options":["26","28","30","32"],"correctOption":2,"explanation":"अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।"},
-        {"id":"fd-8","topic":"Reasoning","marks":1,"question":"यदि SOUTH को TPVUI लिखा जाए, तो NORTH का कूट क्या होगा?","options":["OPSUI","OPSTI","OQSVI","NPSUI"],"correctOption":0,"explanation":"हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।"},
-        {"id":"fd-9","topic":"Reasoning","marks":1,"question":"पुस्तक : पढ़ना :: भोजन : ?","options":["सोना","खाना","चलना","लिखना"],"correctOption":1,"explanation":"पुस्तक पढ़ी जाती है और भोजन खाया जाता है।"},
-        {"id":"fd-10","topic":"General Knowledge","marks":1,"question":"भारत का संविधान कब लागू हुआ?","options":["15 अगस्त 1947","26 जनवरी 1950","26 नवंबर 1949","2 अक्टूबर 1950"],"correctOption":1,"explanation":"भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"},
-        {"id":"fd-11","topic":"General Knowledge","marks":1,"question":"उत्तर प्रदेश की राजधानी क्या है?","options":["प्रयागराज","वाराणसी","कानपुर","लखनऊ"],"correctOption":3,"explanation":"लखनऊ उत्तर प्रदेश की राजधानी है।"},
-        {"id":"fd-12","topic":"General Knowledge","marks":1,"question":"पंचायती राज व्यवस्था की सबसे निचली इकाई कौन-सी है?","options":["जिला पंचायत","ग्राम पंचायत","नगर निगम","राज्यसभा"],"correctOption":1,"explanation":"ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।"},
-        {"id":"fd-13","topic":"Mathematics","marks":1,"question":"एक वस्तु का क्रय मूल्य ₹400 और विक्रय मूल्य ₹460 है। लाभ प्रतिशत क्या है?","options":["10%","12%","15%","20%"],"correctOption":2,"explanation":"लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"},
-        {"id":"fd-14","topic":"Reasoning","marks":1,"question":"रवि उत्तर की ओर चलता है, फिर दाएँ मुड़ता है। अब वह किस दिशा में है?","options":["पूर्व","पश्चिम","उत्तर","दक्षिण"],"correctOption":0,"explanation":"उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"},
-        {"id":"fd-15","topic":"Hindi","marks":1,"question":"'जो कभी न मरे' के लिए एक शब्द है:","options":["अजर","अमर","अटल","अनंत"],"correctOption":1,"explanation":"'अमर' का अर्थ है जो कभी न मरे।"},
-        {"id":"fd-16","topic":"General Knowledge","marks":1,"question":"भारत का राष्ट्रीय चिन्ह किस स्थान के सिंह स्तंभ से लिया गया है?","options":["सारनाथ","सांची","अयोध्या","कुशीनगर"],"correctOption":0,"explanation":"भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"}
+        {
+          "id": "fd-1",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'आकाश' का पर्यायवाची शब्द कौन-सा है?",
+          "options": [
+            "धरती",
+            "गगन",
+            "पवन",
+            "अग्नि"
+          ],
+          "correctOption": 1,
+          "explanation": "'गगन' आकाश का पर्यायवाची शब्द है।"
+        },
+        {
+          "id": "fd-2",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'लाभ' का विलोम शब्द चुनिए।",
+          "options": [
+            "हानि",
+            "धन",
+            "आय",
+            "व्यय"
+          ],
+          "correctOption": 0,
+          "explanation": "'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।"
+        },
+        {
+          "id": "fd-3",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "शुद्ध वर्तनी वाला शब्द कौन-सा है?",
+          "options": [
+            "आशिर्वाद",
+            "आशीर्वाद",
+            "आर्शीवाद",
+            "आशीरवाद"
+          ],
+          "correctOption": 1,
+          "explanation": "'आशीर्वाद' मानक और शुद्ध वर्तनी है।"
+        },
+        {
+          "id": "fd-4",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "200 का 15 प्रतिशत कितना है?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctOption": 2,
+          "explanation": "15% of 200 = 200 × 15/100 = 30."
+        },
+        {
+          "id": "fd-5",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "यदि 3x = 27, तो x का मान क्या है?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+          ],
+          "correctOption": 2,
+          "explanation": "दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।"
+        },
+        {
+          "id": "fd-6",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "12 और 18 का महत्तम समापवर्तक क्या है?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "12"
+          ],
+          "correctOption": 1,
+          "explanation": "12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।"
+        },
+        {
+          "id": "fd-7",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "श्रृंखला पूरी करें: 2, 6, 12, 20, ?",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+          ],
+          "correctOption": 2,
+          "explanation": "अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।"
+        },
+        {
+          "id": "fd-8",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "यदि SOUTH को TPVUI लिखा जाए, तो NORTH का कूट क्या होगा?",
+          "options": [
+            "OPSUI",
+            "OPSTI",
+            "OQSVI",
+            "NPSUI"
+          ],
+          "correctOption": 0,
+          "explanation": "हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।"
+        },
+        {
+          "id": "fd-9",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "पुस्तक : पढ़ना :: भोजन : ?",
+          "options": [
+            "सोना",
+            "खाना",
+            "चलना",
+            "लिखना"
+          ],
+          "correctOption": 1,
+          "explanation": "पुस्तक पढ़ी जाती है और भोजन खाया जाता है।"
+        },
+        {
+          "id": "fd-10",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "भारत का संविधान कब लागू हुआ?",
+          "options": [
+            "15 अगस्त 1947",
+            "26 जनवरी 1950",
+            "26 नवंबर 1949",
+            "2 अक्टूबर 1950"
+          ],
+          "correctOption": 1,
+          "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"
+        },
+        {
+          "id": "fd-11",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "उत्तर प्रदेश की राजधानी क्या है?",
+          "options": [
+            "प्रयागराज",
+            "वाराणसी",
+            "कानपुर",
+            "लखनऊ"
+          ],
+          "correctOption": 3,
+          "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है।"
+        },
+        {
+          "id": "fd-12",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "पंचायती राज व्यवस्था की सबसे निचली इकाई कौन-सी है?",
+          "options": [
+            "जिला पंचायत",
+            "ग्राम पंचायत",
+            "नगर निगम",
+            "राज्यसभा"
+          ],
+          "correctOption": 1,
+          "explanation": "ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।"
+        },
+        {
+          "id": "fd-13",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "एक वस्तु का क्रय मूल्य ₹400 और विक्रय मूल्य ₹460 है। लाभ प्रतिशत क्या है?",
+          "options": [
+            "10%",
+            "12%",
+            "15%",
+            "20%"
+          ],
+          "correctOption": 2,
+          "explanation": "लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"
+        },
+        {
+          "id": "fd-14",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "रवि उत्तर की ओर चलता है, फिर दाएँ मुड़ता है। अब वह किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर",
+            "दक्षिण"
+          ],
+          "correctOption": 0,
+          "explanation": "उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"
+        },
+        {
+          "id": "fd-15",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'जो कभी न मरे' के लिए एक शब्द है:",
+          "options": [
+            "अजर",
+            "अमर",
+            "अटल",
+            "अनंत"
+          ],
+          "correctOption": 1,
+          "explanation": "'अमर' का अर्थ है जो कभी न मरे।"
+        },
+        {
+          "id": "fd-16",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "भारत का राष्ट्रीय चिन्ह किस स्थान के सिंह स्तंभ से लिया गया है?",
+          "options": [
+            "सारनाथ",
+            "सांची",
+            "अयोध्या",
+            "कुशीनगर"
+          ],
+          "correctOption": 0,
+          "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
+        }
       ]
     },
     {
@@ -40,13 +257,23 @@
       "category": "Computer Science",
       "difficulty": "Beginner",
       "icon": "code",
-      "examIds": ["teacher", "upsssc-pet", "up-lekhpal", "up-vdo", "up-police"],
+      "examIds": [
+        "teacher",
+        "upsssc-pet",
+        "up-lekhpal",
+        "up-vdo",
+        "up-police"
+      ],
       "totalMarks": 10,
       "negativeMarking": 0,
       "passPercent": 40,
       "defaultMode": "total-timed",
       "feedbackMode": "on-completion",
-      "timing": {"totalSeconds": 300, "questionSeconds": 35, "warningSeconds": 10},
+      "timing": {
+        "totalSeconds": 300,
+        "questionSeconds": 35,
+        "warningSeconds": 10
+      },
       "questions": [
         {
           "id": "py-1",
@@ -54,7 +281,12 @@
           "marks": 1,
           "question": "What is printed by this Python code?",
           "code": "x = 5\ny = 2\nprint(x + y * 3)",
-          "options": ["21", "11", "15", "7"],
+          "options": [
+            "21",
+            "11",
+            "15",
+            "7"
+          ],
           "correctOption": 1,
           "explanation": "Multiplication is performed before addition: 2 × 3 = 6, then 5 + 6 = 11."
         },
@@ -63,7 +295,12 @@
           "topic": "Data Types",
           "marks": 1,
           "question": "Which Python data type stores an ordered, changeable collection?",
-          "options": ["tuple", "set", "list", "str"],
+          "options": [
+            "tuple",
+            "set",
+            "list",
+            "str"
+          ],
           "correctOption": 2,
           "explanation": "A list is ordered and mutable, so its elements can be added, removed or changed."
         },
@@ -72,7 +309,12 @@
           "topic": "Conditions",
           "marks": 1,
           "question": "Which operator tests whether two Python values are equal?",
-          "options": ["=", "==", "!=", "is not"],
+          "options": [
+            "=",
+            "==",
+            "!=",
+            "is not"
+          ],
           "correctOption": 1,
           "explanation": "The == comparison operator checks value equality. A single = performs assignment."
         },
@@ -81,7 +323,12 @@
           "topic": "Loops",
           "marks": 1,
           "question": "How many values are produced by range(2, 8, 2)?",
-          "options": ["2", "3", "4", "6"],
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
           "correctOption": 1,
           "explanation": "The values are 2, 4 and 6. The stop value 8 is excluded."
         },
@@ -90,7 +337,12 @@
           "topic": "Lists",
           "marks": 1,
           "question": "What is the value of nums[-1] when nums = [10, 20, 30]?",
-          "options": ["10", "20", "30", "IndexError"],
+          "options": [
+            "10",
+            "20",
+            "30",
+            "IndexError"
+          ],
           "correctOption": 2,
           "explanation": "A negative index counts from the end; -1 selects the final element, 30."
         },
@@ -99,7 +351,12 @@
           "topic": "Functions",
           "marks": 1,
           "question": "Which keyword sends a value back from a Python function?",
-          "options": ["print", "yielding", "return", "send"],
+          "options": [
+            "print",
+            "yielding",
+            "return",
+            "send"
+          ],
           "correctOption": 2,
           "explanation": "The return statement ends the function call and provides a value to the caller."
         },
@@ -108,7 +365,12 @@
           "topic": "Strings",
           "marks": 2,
           "question": "What does 'Himanshu'[0:3] evaluate to?",
-          "options": ["Him", "Hima", "iman", "shu"],
+          "options": [
+            "Him",
+            "Hima",
+            "iman",
+            "shu"
+          ],
           "correctOption": 0,
           "explanation": "Slicing includes index 0 and stops before index 3, producing the characters H, i and m."
         },
@@ -117,7 +379,12 @@
           "topic": "Loops",
           "marks": 2,
           "question": "Which loop is normally preferred when iterating directly over every item in a list?",
-          "options": ["for loop", "do-while loop", "repeat-until loop", "goto loop"],
+          "options": [
+            "for loop",
+            "do-while loop",
+            "repeat-until loop",
+            "goto loop"
+          ],
           "correctOption": 0,
           "explanation": "Python's for loop iterates directly over items in an iterable and is the clearest choice here."
         }
@@ -130,20 +397,31 @@
       "category": "Child Development",
       "difficulty": "Moderate",
       "icon": "teacher",
-      "examIds": ["teacher"],
+      "examIds": [
+        "teacher"
+      ],
       "totalMarks": 10,
       "negativeMarking": 0,
       "passPercent": 60,
       "defaultMode": "total-timed",
       "feedbackMode": "on-completion",
-      "timing": {"totalSeconds": 480, "questionSeconds": 45, "warningSeconds": 10},
+      "timing": {
+        "totalSeconds": 480,
+        "questionSeconds": 45,
+        "warningSeconds": 10
+      },
       "questions": [
         {
           "id": "cdp-1",
           "topic": "Development",
           "marks": 1,
           "question": "Which statement best describes child development?",
-          "options": ["It is identical for every child", "It is continuous and influenced by many factors", "It stops after early childhood", "It depends only on heredity"],
+          "options": [
+            "It is identical for every child",
+            "It is continuous and influenced by many factors",
+            "It stops after early childhood",
+            "It depends only on heredity"
+          ],
           "correctOption": 1,
           "explanation": "Development is a continuous process shaped by the interaction of heredity, environment, experience and culture."
         },
@@ -152,7 +430,12 @@
           "topic": "Learning",
           "marks": 1,
           "question": "A constructivist classroom primarily encourages learners to:",
-          "options": ["Memorise the teacher's notes", "Build knowledge through active experience", "Avoid discussing different answers", "Depend entirely on rewards"],
+          "options": [
+            "Memorise the teacher's notes",
+            "Build knowledge through active experience",
+            "Avoid discussing different answers",
+            "Depend entirely on rewards"
+          ],
           "correctOption": 1,
           "explanation": "Constructivism treats learners as active meaning-makers who connect experience with prior knowledge."
         },
@@ -161,7 +444,12 @@
           "topic": "Assessment",
           "marks": 1,
           "question": "Formative assessment is mainly used to:",
-          "options": ["Rank schools nationally", "Improve learning during instruction", "Award the final certificate", "Punish weak performance"],
+          "options": [
+            "Rank schools nationally",
+            "Improve learning during instruction",
+            "Award the final certificate",
+            "Punish weak performance"
+          ],
           "correctOption": 1,
           "explanation": "Formative assessment gives timely evidence and feedback that teachers and learners use to improve ongoing learning."
         },
@@ -170,7 +458,12 @@
           "topic": "Inclusive Education",
           "marks": 1,
           "question": "In an inclusive classroom, a teacher should:",
-          "options": ["Use exactly one method for everyone", "Separate all children with difficulties", "Adapt instruction to diverse learning needs", "Lower expectations for the entire class"],
+          "options": [
+            "Use exactly one method for everyone",
+            "Separate all children with difficulties",
+            "Adapt instruction to diverse learning needs",
+            "Lower expectations for the entire class"
+          ],
           "correctOption": 2,
           "explanation": "Inclusive education provides access and participation by adapting teaching, materials and support to learner diversity."
         },
@@ -179,7 +472,12 @@
           "topic": "Motivation",
           "marks": 1,
           "question": "Intrinsic motivation occurs when a learner studies because:",
-          "options": ["A prize is promised", "The activity is personally interesting", "A punishment is threatened", "Marks are publicly compared"],
+          "options": [
+            "A prize is promised",
+            "The activity is personally interesting",
+            "A punishment is threatened",
+            "Marks are publicly compared"
+          ],
           "correctOption": 1,
           "explanation": "Intrinsic motivation comes from interest, curiosity, enjoyment or personal value within the activity itself."
         },
@@ -188,7 +486,12 @@
           "topic": "Intelligence",
           "marks": 1,
           "question": "Viewing intelligence as multidimensional means that:",
-          "options": ["Only language ability matters", "A single score defines all ability", "People can show different patterns of strengths", "Intelligence cannot develop"],
+          "options": [
+            "Only language ability matters",
+            "A single score defines all ability",
+            "People can show different patterns of strengths",
+            "Intelligence cannot develop"
+          ],
           "correctOption": 2,
           "explanation": "A multidimensional view recognises different cognitive strengths rather than reducing ability to one uniform capacity."
         },
@@ -197,7 +500,12 @@
           "topic": "Classroom Practice",
           "marks": 2,
           "question": "A child repeatedly gives an unexpected answer. What should the teacher do first?",
-          "options": ["Label the child careless", "Ask the child to explain the reasoning", "Immediately provide the correct answer", "Ignore the response"],
+          "options": [
+            "Label the child careless",
+            "Ask the child to explain the reasoning",
+            "Immediately provide the correct answer",
+            "Ignore the response"
+          ],
           "correctOption": 1,
           "explanation": "Exploring the child's reasoning reveals misconceptions and provides useful evidence for appropriate teaching support."
         },
@@ -206,7 +514,12 @@
           "topic": "Learning",
           "marks": 2,
           "question": "Scaffolding refers to:",
-          "options": ["Permanent help with every task", "Temporary support gradually removed as competence grows", "Giving easier work to selected children", "Assessing only through written tests"],
+          "options": [
+            "Permanent help with every task",
+            "Temporary support gradually removed as competence grows",
+            "Giving easier work to selected children",
+            "Assessing only through written tests"
+          ],
           "correctOption": 1,
           "explanation": "Scaffolding is responsive temporary assistance that is reduced as the learner gains independence."
         }
@@ -219,20 +532,34 @@
       "category": "Reasoning",
       "difficulty": "Moderate",
       "icon": "chart",
-      "examIds": ["upsssc-pet", "up-lekhpal", "up-vdo", "up-police"],
+      "examIds": [
+        "upsssc-pet",
+        "up-lekhpal",
+        "up-vdo",
+        "up-police"
+      ],
       "totalMarks": 10,
       "negativeMarking": 0.25,
       "passPercent": 50,
       "defaultMode": "total-timed",
       "feedbackMode": "on-completion",
-      "timing": {"totalSeconds": 420, "questionSeconds": 40, "warningSeconds": 10},
+      "timing": {
+        "totalSeconds": 420,
+        "questionSeconds": 40,
+        "warningSeconds": 10
+      },
       "questions": [
         {
           "id": "r-1",
           "topic": "Series",
           "marks": 1,
           "question": "Find the next number: 3, 6, 12, 24, ?",
-          "options": ["30", "36", "42", "48"],
+          "options": [
+            "30",
+            "36",
+            "42",
+            "48"
+          ],
           "correctOption": 3,
           "explanation": "Each term is twice the preceding term, so 24 × 2 = 48."
         },
@@ -241,7 +568,12 @@
           "topic": "Analogy",
           "marks": 1,
           "question": "Book is to Reading as Fork is to:",
-          "options": ["Drawing", "Writing", "Eating", "Walking"],
+          "options": [
+            "Drawing",
+            "Writing",
+            "Eating",
+            "Walking"
+          ],
           "correctOption": 2,
           "explanation": "A book is commonly used for reading, while a fork is commonly used for eating."
         },
@@ -250,7 +582,12 @@
           "topic": "Odd One Out",
           "marks": 1,
           "question": "Choose the item that does not belong: Square, Triangle, Circle, Cube.",
-          "options": ["Square", "Triangle", "Circle", "Cube"],
+          "options": [
+            "Square",
+            "Triangle",
+            "Circle",
+            "Cube"
+          ],
           "correctOption": 3,
           "explanation": "Cube is three-dimensional; the others are two-dimensional shapes."
         },
@@ -259,7 +596,12 @@
           "topic": "Coding",
           "marks": 1,
           "question": "If CAT is coded as DBU, how is DOG coded using the same rule?",
-          "options": ["EPH", "CPF", "EOH", "FQI"],
+          "options": [
+            "EPH",
+            "CPF",
+            "EOH",
+            "FQI"
+          ],
           "correctOption": 0,
           "explanation": "Each letter is replaced with the next alphabetic letter: D→E, O→P, G→H."
         },
@@ -268,7 +610,12 @@
           "topic": "Direction",
           "marks": 1,
           "question": "Ravi walks north, turns right, and then turns right again. Which direction is he facing?",
-          "options": ["North", "South", "East", "West"],
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
           "correctOption": 1,
           "explanation": "From north, the first right turn faces east; the next right turn faces south."
         },
@@ -277,7 +624,12 @@
           "topic": "Classification",
           "marks": 1,
           "question": "Which word is different from the others?",
-          "options": ["Apple", "Mango", "Carrot", "Banana"],
+          "options": [
+            "Apple",
+            "Mango",
+            "Carrot",
+            "Banana"
+          ],
           "correctOption": 2,
           "explanation": "Carrot is a vegetable; the other three are fruits."
         },
@@ -286,7 +638,12 @@
           "topic": "Series",
           "marks": 2,
           "question": "Find the missing number: 2, 5, 10, 17, 26, ?",
-          "options": ["35", "36", "37", "38"],
+          "options": [
+            "35",
+            "36",
+            "37",
+            "38"
+          ],
           "correctOption": 2,
           "explanation": "The differences are consecutive odd numbers 3, 5, 7, 9, so the next difference is 11: 26 + 11 = 37."
         },
@@ -295,9 +652,577 @@
           "topic": "Syllogism",
           "marks": 2,
           "question": "All roses are flowers. Some flowers fade quickly. Which conclusion must be true?",
-          "options": ["All roses fade quickly", "Some roses fade quickly", "Roses are flowers", "No flower is a rose"],
+          "options": [
+            "All roses fade quickly",
+            "Some roses fade quickly",
+            "Roses are flowers",
+            "No flower is a rose"
+          ],
           "correctOption": 2,
           "explanation": "Only the original universal statement necessarily follows: every rose belongs to the class of flowers."
+        }
+      ]
+    },
+    {
+      "id": "up-police-constable-sample-mock",
+      "title": "UP Police Constable — Sample Mixed Mock",
+      "description": "A 16-question preparation sample across Hindi, mathematics, reasoning and general knowledge. It is not a full official-pattern mock.",
+      "category": "Constable Sample",
+      "difficulty": "Foundation",
+      "icon": "test",
+      "examIds": [
+        "up-police"
+      ],
+      "totalMarks": 16,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "questions": [
+        {
+          "id": "fd-1",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'आकाश' का पर्यायवाची शब्द कौन-सा है?",
+          "options": [
+            "धरती",
+            "गगन",
+            "पवन",
+            "अग्नि"
+          ],
+          "correctOption": 1,
+          "explanation": "'गगन' आकाश का पर्यायवाची शब्द है।"
+        },
+        {
+          "id": "fd-2",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'लाभ' का विलोम शब्द चुनिए।",
+          "options": [
+            "हानि",
+            "धन",
+            "आय",
+            "व्यय"
+          ],
+          "correctOption": 0,
+          "explanation": "'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।"
+        },
+        {
+          "id": "fd-3",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "शुद्ध वर्तनी वाला शब्द कौन-सा है?",
+          "options": [
+            "आशिर्वाद",
+            "आशीर्वाद",
+            "आर्शीवाद",
+            "आशीरवाद"
+          ],
+          "correctOption": 1,
+          "explanation": "'आशीर्वाद' मानक और शुद्ध वर्तनी है।"
+        },
+        {
+          "id": "fd-4",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "200 का 15 प्रतिशत कितना है?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctOption": 2,
+          "explanation": "15% of 200 = 200 × 15/100 = 30."
+        },
+        {
+          "id": "fd-5",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "यदि 3x = 27, तो x का मान क्या है?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+          ],
+          "correctOption": 2,
+          "explanation": "दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।"
+        },
+        {
+          "id": "fd-6",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "12 और 18 का महत्तम समापवर्तक क्या है?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "12"
+          ],
+          "correctOption": 1,
+          "explanation": "12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।"
+        },
+        {
+          "id": "fd-7",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "श्रृंखला पूरी करें: 2, 6, 12, 20, ?",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+          ],
+          "correctOption": 2,
+          "explanation": "अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।"
+        },
+        {
+          "id": "fd-8",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "यदि SOUTH को TPVUI लिखा जाए, तो NORTH का कूट क्या होगा?",
+          "options": [
+            "OPSUI",
+            "OPSTI",
+            "OQSVI",
+            "NPSUI"
+          ],
+          "correctOption": 0,
+          "explanation": "हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।"
+        },
+        {
+          "id": "fd-9",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "पुस्तक : पढ़ना :: भोजन : ?",
+          "options": [
+            "सोना",
+            "खाना",
+            "चलना",
+            "लिखना"
+          ],
+          "correctOption": 1,
+          "explanation": "पुस्तक पढ़ी जाती है और भोजन खाया जाता है।"
+        },
+        {
+          "id": "fd-10",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "भारत का संविधान कब लागू हुआ?",
+          "options": [
+            "15 अगस्त 1947",
+            "26 जनवरी 1950",
+            "26 नवंबर 1949",
+            "2 अक्टूबर 1950"
+          ],
+          "correctOption": 1,
+          "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"
+        },
+        {
+          "id": "fd-11",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "उत्तर प्रदेश की राजधानी क्या है?",
+          "options": [
+            "प्रयागराज",
+            "वाराणसी",
+            "कानपुर",
+            "लखनऊ"
+          ],
+          "correctOption": 3,
+          "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है।"
+        },
+        {
+          "id": "fd-12",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "पंचायती राज व्यवस्था की सबसे निचली इकाई कौन-सी है?",
+          "options": [
+            "जिला पंचायत",
+            "ग्राम पंचायत",
+            "नगर निगम",
+            "राज्यसभा"
+          ],
+          "correctOption": 1,
+          "explanation": "ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।"
+        },
+        {
+          "id": "fd-13",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "एक वस्तु का क्रय मूल्य ₹400 और विक्रय मूल्य ₹460 है। लाभ प्रतिशत क्या है?",
+          "options": [
+            "10%",
+            "12%",
+            "15%",
+            "20%"
+          ],
+          "correctOption": 2,
+          "explanation": "लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"
+        },
+        {
+          "id": "fd-14",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "रवि उत्तर की ओर चलता है, फिर दाएँ मुड़ता है। अब वह किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर",
+            "दक्षिण"
+          ],
+          "correctOption": 0,
+          "explanation": "उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"
+        },
+        {
+          "id": "fd-15",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'जो कभी न मरे' के लिए एक शब्द है:",
+          "options": [
+            "अजर",
+            "अमर",
+            "अटल",
+            "अनंत"
+          ],
+          "correctOption": 1,
+          "explanation": "'अमर' का अर्थ है जो कभी न मरे।"
+        },
+        {
+          "id": "fd-16",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "भारत का राष्ट्रीय चिन्ह किस स्थान के सिंह स्तंभ से लिया गया है?",
+          "options": [
+            "सारनाथ",
+            "सांची",
+            "अयोध्या",
+            "कुशीनगर"
+          ],
+          "correctOption": 0,
+          "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
+        }
+      ]
+    },
+    {
+      "id": "up-police-constable-hindi-practice",
+      "title": "Constable Hindi — Short Practice",
+      "description": "Short foundation practice; not an official-pattern exam.",
+      "category": "Constable Subject Practice",
+      "difficulty": "Foundation",
+      "icon": "test",
+      "examIds": [
+        "up-police"
+      ],
+      "totalMarks": 4,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {
+        "totalSeconds": 300,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "questions": [
+        {
+          "id": "fd-1",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'आकाश' का पर्यायवाची शब्द कौन-सा है?",
+          "options": [
+            "धरती",
+            "गगन",
+            "पवन",
+            "अग्नि"
+          ],
+          "correctOption": 1,
+          "explanation": "'गगन' आकाश का पर्यायवाची शब्द है।"
+        },
+        {
+          "id": "fd-2",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'लाभ' का विलोम शब्द चुनिए।",
+          "options": [
+            "हानि",
+            "धन",
+            "आय",
+            "व्यय"
+          ],
+          "correctOption": 0,
+          "explanation": "'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।"
+        },
+        {
+          "id": "fd-3",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "शुद्ध वर्तनी वाला शब्द कौन-सा है?",
+          "options": [
+            "आशिर्वाद",
+            "आशीर्वाद",
+            "आर्शीवाद",
+            "आशीरवाद"
+          ],
+          "correctOption": 1,
+          "explanation": "'आशीर्वाद' मानक और शुद्ध वर्तनी है।"
+        },
+        {
+          "id": "fd-15",
+          "topic": "Hindi",
+          "marks": 1,
+          "question": "'जो कभी न मरे' के लिए एक शब्द है:",
+          "options": [
+            "अजर",
+            "अमर",
+            "अटल",
+            "अनंत"
+          ],
+          "correctOption": 1,
+          "explanation": "'अमर' का अर्थ है जो कभी न मरे।"
+        }
+      ]
+    },
+    {
+      "id": "up-police-constable-mathematics-practice",
+      "title": "Constable Mathematics — Short Practice",
+      "description": "Short foundation practice; not an official-pattern exam.",
+      "category": "Constable Subject Practice",
+      "difficulty": "Foundation",
+      "icon": "test",
+      "examIds": [
+        "up-police"
+      ],
+      "totalMarks": 4,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {
+        "totalSeconds": 300,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "questions": [
+        {
+          "id": "fd-4",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "200 का 15 प्रतिशत कितना है?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctOption": 2,
+          "explanation": "15% of 200 = 200 × 15/100 = 30."
+        },
+        {
+          "id": "fd-5",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "यदि 3x = 27, तो x का मान क्या है?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+          ],
+          "correctOption": 2,
+          "explanation": "दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।"
+        },
+        {
+          "id": "fd-6",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "12 और 18 का महत्तम समापवर्तक क्या है?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "12"
+          ],
+          "correctOption": 1,
+          "explanation": "12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।"
+        },
+        {
+          "id": "fd-13",
+          "topic": "Mathematics",
+          "marks": 1,
+          "question": "एक वस्तु का क्रय मूल्य ₹400 और विक्रय मूल्य ₹460 है। लाभ प्रतिशत क्या है?",
+          "options": [
+            "10%",
+            "12%",
+            "15%",
+            "20%"
+          ],
+          "correctOption": 2,
+          "explanation": "लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"
+        }
+      ]
+    },
+    {
+      "id": "up-police-constable-reasoning-practice",
+      "title": "Constable Reasoning — Short Practice",
+      "description": "Short foundation practice; not an official-pattern exam.",
+      "category": "Constable Subject Practice",
+      "difficulty": "Foundation",
+      "icon": "test",
+      "examIds": [
+        "up-police"
+      ],
+      "totalMarks": 4,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {
+        "totalSeconds": 300,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "questions": [
+        {
+          "id": "fd-7",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "श्रृंखला पूरी करें: 2, 6, 12, 20, ?",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+          ],
+          "correctOption": 2,
+          "explanation": "अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।"
+        },
+        {
+          "id": "fd-8",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "यदि SOUTH को TPVUI लिखा जाए, तो NORTH का कूट क्या होगा?",
+          "options": [
+            "OPSUI",
+            "OPSTI",
+            "OQSVI",
+            "NPSUI"
+          ],
+          "correctOption": 0,
+          "explanation": "हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।"
+        },
+        {
+          "id": "fd-9",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "पुस्तक : पढ़ना :: भोजन : ?",
+          "options": [
+            "सोना",
+            "खाना",
+            "चलना",
+            "लिखना"
+          ],
+          "correctOption": 1,
+          "explanation": "पुस्तक पढ़ी जाती है और भोजन खाया जाता है।"
+        },
+        {
+          "id": "fd-14",
+          "topic": "Reasoning",
+          "marks": 1,
+          "question": "रवि उत्तर की ओर चलता है, फिर दाएँ मुड़ता है। अब वह किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर",
+            "दक्षिण"
+          ],
+          "correctOption": 0,
+          "explanation": "उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"
+        }
+      ]
+    },
+    {
+      "id": "up-police-constable-general-knowledge-practice",
+      "title": "Constable General Knowledge — Short Practice",
+      "description": "Short foundation practice; not an official-pattern exam.",
+      "category": "Constable Subject Practice",
+      "difficulty": "Foundation",
+      "icon": "test",
+      "examIds": [
+        "up-police"
+      ],
+      "totalMarks": 4,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {
+        "totalSeconds": 300,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "questions": [
+        {
+          "id": "fd-10",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "भारत का संविधान कब लागू हुआ?",
+          "options": [
+            "15 अगस्त 1947",
+            "26 जनवरी 1950",
+            "26 नवंबर 1949",
+            "2 अक्टूबर 1950"
+          ],
+          "correctOption": 1,
+          "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"
+        },
+        {
+          "id": "fd-11",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "उत्तर प्रदेश की राजधानी क्या है?",
+          "options": [
+            "प्रयागराज",
+            "वाराणसी",
+            "कानपुर",
+            "लखनऊ"
+          ],
+          "correctOption": 3,
+          "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है।"
+        },
+        {
+          "id": "fd-12",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "पंचायती राज व्यवस्था की सबसे निचली इकाई कौन-सी है?",
+          "options": [
+            "जिला पंचायत",
+            "ग्राम पंचायत",
+            "नगर निगम",
+            "राज्यसभा"
+          ],
+          "correctOption": 1,
+          "explanation": "ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।"
+        },
+        {
+          "id": "fd-16",
+          "topic": "General Knowledge",
+          "marks": 1,
+          "question": "भारत का राष्ट्रीय चिन्ह किस स्थान के सिंह स्तंभ से लिया गया है?",
+          "options": [
+            "सारनाथ",
+            "सांची",
+            "अयोध्या",
+            "कुशीनगर"
+          ],
+          "correctOption": 0,
+          "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
         }
       ]
     }
