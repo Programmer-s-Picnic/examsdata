@@ -2,7 +2,8 @@
   "exams": [
     {
       "id": "up-police",
-      "name": "UP Police Constable & SI",
+      "name": "UP Police Constable",
+      "available": true,
       "authority": "Uttar Pradesh Police Recruitment Board",
       "description": "Police recruitment preparation covering general knowledge, Hindi, numerical ability and reasoning.",
       "status": "Recruitment cycle",
@@ -12,6 +13,7 @@
     },
     {
       "id": "upsssc-pet",
+      "available": false,
       "name": "UPSSSC PET",
       "authority": "UPSSSC",
       "description": "Preliminary eligibility test used for shortlisting across several Group C recruitments.",
@@ -22,6 +24,7 @@
     },
     {
       "id": "up-lekhpal",
+      "available": false,
       "name": "UP Lekhpal",
       "authority": "UPSSSC",
       "description": "Revenue and land-record recruitment with PET shortlisting and village-development topics.",
@@ -32,6 +35,7 @@
     },
     {
       "id": "teacher",
+      "available": false,
       "name": "UP Super TET / UPTET",
       "authority": "UP Education Service Selection Commission",
       "description": "Primary and upper-primary teacher eligibility and assistant-teacher preparation.",
@@ -42,6 +46,7 @@
     },
     {
       "id": "up-vdo",
+      "available": false,
       "name": "UP VDO",
       "authority": "UPSSSC",
       "description": "Village Development Officer preparation in Hindi, general intelligence and general knowledge.",
