@@ -9,7 +9,49 @@
       "status": "Recruitment cycle",
       "negativeMarking": 0.5,
       "icon": "police",
-      "subjects": ["General Knowledge", "Hindi", "Numerical Ability", "Reasoning"]
+      "subjects": [
+        "General Knowledge",
+        "Hindi",
+        "Numerical Ability",
+        "Reasoning"
+      ],
+      "sources": [
+        {
+          "label": "Recruitment notification (31 Dec 2025)",
+          "url": "https://uppbpb.gov.in/FilesUploaded/Notice/CONSTABLE-VIGYAPTIc7be0cc8-3365-471e-9237-447c528d341a.pdf"
+        },
+        {
+          "label": "Corrigendum (5 Jan 2026)",
+          "url": "https://uppbpb.gov.in/FilesUploaded/Notice/20260105182150533dbb2e665-07ea-428e-972a-9f75e7701fcf.pdf"
+        },
+        {
+          "label": "Official recruitment rules",
+          "url": "https://uppbpb.gov.in/Home/Manual_Detail?categoryId=40&noticeId=30"
+        },
+        {
+          "label": "Current board notices",
+          "url": "https://uppbpb.gov.in/Home/Notice"
+        }
+      ],
+      "verifiedAt": "2026-09-25",
+      "stages": [
+        {
+          "name": "Written examination",
+          "description": "Practise with subject tests and review the applicable official notification for the exam pattern."
+        },
+        {
+          "name": "Document verification",
+          "description": "Check the official notice for the required documents and schedule."
+        },
+        {
+          "name": "Physical standard test",
+          "description": "Consult the applicable notice for category-specific standards."
+        },
+        {
+          "name": "Physical efficiency test",
+          "description": "Consult the applicable notice for the current criteria and schedule."
+        }
+      ]
     },
     {
       "id": "upsssc-pet",
@@ -20,7 +62,12 @@
       "status": "Annual eligibility test",
       "negativeMarking": 0.25,
       "icon": "pet",
-      "subjects": ["General Knowledge", "Hindi", "Mathematics", "Reasoning"]
+      "subjects": [
+        "General Knowledge",
+        "Hindi",
+        "Mathematics",
+        "Reasoning"
+      ]
     },
     {
       "id": "up-lekhpal",
@@ -31,7 +78,12 @@
       "status": "PET-linked recruitment",
       "negativeMarking": 0.25,
       "icon": "land",
-      "subjects": ["Hindi", "Mathematics", "General Knowledge", "Village Development"]
+      "subjects": [
+        "Hindi",
+        "Mathematics",
+        "General Knowledge",
+        "Village Development"
+      ]
     },
     {
       "id": "teacher",
@@ -42,7 +94,13 @@
       "status": "Notification awaited",
       "negativeMarking": 0,
       "icon": "teacher",
-      "subjects": ["Child Development", "Hindi", "English", "Mathematics", "EVS"]
+      "subjects": [
+        "Child Development",
+        "Hindi",
+        "English",
+        "Mathematics",
+        "EVS"
+      ]
     },
     {
       "id": "up-vdo",
@@ -53,13 +111,26 @@
       "status": "PET-linked recruitment",
       "negativeMarking": 0.5,
       "icon": "village",
-      "subjects": ["Hindi", "General Intelligence", "General Knowledge", "Rural Development"]
+      "subjects": [
+        "Hindi",
+        "General Intelligence",
+        "General Knowledge",
+        "Rural Development"
+      ]
     }
   ],
   "overlapGroups": [
     {
-      "examIds": ["upsssc-pet", "up-lekhpal", "up-vdo"],
-      "subjects": ["Hindi", "General Knowledge", "Reasoning"],
+      "examIds": [
+        "upsssc-pet",
+        "up-lekhpal",
+        "up-vdo"
+      ],
+      "subjects": [
+        "Hindi",
+        "General Knowledge",
+        "Reasoning"
+      ],
       "message": "Start with the common Hindi, general knowledge and reasoning foundation before moving to post-specific subjects."
     }
   ]
