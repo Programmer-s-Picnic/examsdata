@@ -1,0 +1,270 @@
+{
+  "title": "Himanshu Exams content inventory",
+  "updatedAt": "2026-09-25",
+  "notes": [
+    "The website uses inline SVG icons; it does not currently load a separate photo.",
+    "Image files listed here are Flutter app icons and launch assets.",
+    "This is a read-only catalogue. GitHub Pages cannot provide secure admin access or server-side editing."
+  ],
+  "files": [
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "exam-syllabus.json",
+      "label": "exam-syllabus.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/exam-syllabus.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "exam-topics.json",
+      "label": "exam-topics.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/exam-topics.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "exams-old-papers.json",
+      "label": "exams-old-papers.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/exams-old-papers.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "exams-topics-questions.json",
+      "label": "exams-topics-questions.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/exams-topics-questions.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "exams.json",
+      "label": "exams.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/exams.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "site-main.json",
+      "label": "site-main.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/site-main.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "tests.json",
+      "label": "tests.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/tests.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "users-registered.json",
+      "label": "users-registered.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/users-registered.json"
+    },
+    {
+      "category": "JSON",
+      "repository": "examsdata",
+      "path": "content-manifest.json",
+      "label": "content-manifest.json",
+      "url": "https://raw.githubusercontent.com/Programmer-s-Picnic/examsdata/main/content-manifest.json"
+    },
+    {
+      "category": "CSS",
+      "repository": "exams",
+      "path": "assets/styles.css",
+      "label": "styles.css",
+      "url": "https://programmer-s-picnic.github.io/exams/assets/styles.css"
+    },
+    {
+      "category": "CSS",
+      "repository": "exams",
+      "path": "tests/styles.css",
+      "label": "styles.css",
+      "url": "https://programmer-s-picnic.github.io/exams/tests/styles.css"
+    },
+    {
+      "category": "JavaScript",
+      "repository": "exams",
+      "path": "assets/api.js",
+      "label": "api.js",
+      "url": "https://programmer-s-picnic.github.io/exams/assets/api.js"
+    },
+    {
+      "category": "JavaScript",
+      "repository": "exams",
+      "path": "assets/app.js",
+      "label": "app.js",
+      "url": "https://programmer-s-picnic.github.io/exams/assets/app.js"
+    },
+    {
+      "category": "JavaScript",
+      "repository": "exams",
+      "path": "assets/test-engine.js",
+      "label": "test-engine.js",
+      "url": "https://programmer-s-picnic.github.io/exams/assets/test-engine.js"
+    },
+    {
+      "category": "JavaScript",
+      "repository": "exams",
+      "path": "tests/app.js",
+      "label": "app.js",
+      "url": "https://programmer-s-picnic.github.io/exams/tests/app.js"
+    },
+    {
+      "category": "HTML",
+      "repository": "exams",
+      "path": "footer.html",
+      "label": "footer.html",
+      "url": "https://programmer-s-picnic.github.io/exams/footer.html"
+    },
+    {
+      "category": "HTML",
+      "repository": "exams",
+      "path": "header.html",
+      "label": "header.html",
+      "url": "https://programmer-s-picnic.github.io/exams/header.html"
+    },
+    {
+      "category": "HTML",
+      "repository": "exams",
+      "path": "index.html",
+      "label": "index.html",
+      "url": "https://programmer-s-picnic.github.io/exams/index.html"
+    },
+    {
+      "category": "HTML",
+      "repository": "exams",
+      "path": "tests/index.html",
+      "label": "index.html",
+      "url": "https://programmer-s-picnic.github.io/exams/tests/index.html"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png",
+      "label": "Icon-App-1024x1024@1x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png",
+      "label": "Icon-App-20x20@1x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png",
+      "label": "Icon-App-20x20@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png",
+      "label": "Icon-App-20x20@3x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png",
+      "label": "Icon-App-29x29@1x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png",
+      "label": "Icon-App-29x29@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png",
+      "label": "Icon-App-29x29@3x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png",
+      "label": "Icon-App-40x40@1x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png",
+      "label": "Icon-App-40x40@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png",
+      "label": "Icon-App-40x40@3x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png",
+      "label": "Icon-App-60x60@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
+      "label": "Icon-App-60x60@3x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png",
+      "label": "Icon-App-76x76@1x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png",
+      "label": "Icon-App-76x76@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png",
+      "label": "Icon-App-83.5x83.5@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
+      "label": "LaunchImage.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png",
+      "label": "LaunchImage@2x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png"
+    },
+    {
+      "category": "Images",
+      "repository": "exams",
+      "path": "flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png",
+      "label": "LaunchImage@3x.png",
+      "url": "https://programmer-s-picnic.github.io/exams/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png"
+    }
+  ]
+}
