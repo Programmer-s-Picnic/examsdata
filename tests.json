@@ -249,7 +249,12 @@
           "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": 1,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     },
     {
       "id": "python-basics-sample-01",
@@ -390,7 +395,12 @@
           "explanation": "Python's for loop iterates directly over items in an iterable and is the clearest choice here."
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": null,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     },
     {
       "id": "teacher-child-development-01",
@@ -526,7 +536,12 @@
           "explanation": "Scaffolding is responsive temporary assistance that is reduced as the learner gains independence."
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": null,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     },
     {
       "id": "general-reasoning-01",
@@ -665,7 +680,12 @@
           "explanation": "Only the original universal statement necessarily follows: every rose belongs to the class of flowers."
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": null,
+        "incorrect": -0.25,
+        "unanswered": 0
+      }
     },
     {
       "id": "up-police-constable-sample-mock",
@@ -677,8 +697,8 @@
       "examIds": [
         "up-police"
       ],
-      "totalMarks": 16,
-      "negativeMarking": 0,
+      "totalMarks": 32,
+      "negativeMarking": 0.5,
       "passPercent": 50,
       "defaultMode": "total-timed",
       "feedbackMode": "on-completion",
@@ -691,7 +711,7 @@
         {
           "id": "fd-1",
           "topic": "Hindi",
-          "marks": 1,
+          "marks": 2,
           "question": "'आकाश' का पर्यायवाची शब्द कौन-सा है?",
           "options": [
             "धरती",
@@ -705,7 +725,7 @@
         {
           "id": "fd-2",
           "topic": "Hindi",
-          "marks": 1,
+          "marks": 2,
           "question": "'लाभ' का विलोम शब्द चुनिए।",
           "options": [
             "हानि",
@@ -719,7 +739,7 @@
         {
           "id": "fd-3",
           "topic": "Hindi",
-          "marks": 1,
+          "marks": 2,
           "question": "शुद्ध वर्तनी वाला शब्द कौन-सा है?",
           "options": [
             "आशिर्वाद",
@@ -733,7 +753,7 @@
         {
           "id": "fd-4",
           "topic": "Mathematics",
-          "marks": 1,
+          "marks": 2,
           "question": "200 का 15 प्रतिशत कितना है?",
           "options": [
             "20",
@@ -747,7 +767,7 @@
         {
           "id": "fd-5",
           "topic": "Mathematics",
-          "marks": 1,
+          "marks": 2,
           "question": "यदि 3x = 27, तो x का मान क्या है?",
           "options": [
             "6",
@@ -761,7 +781,7 @@
         {
           "id": "fd-6",
           "topic": "Mathematics",
-          "marks": 1,
+          "marks": 2,
           "question": "12 और 18 का महत्तम समापवर्तक क्या है?",
           "options": [
             "3",
@@ -775,7 +795,7 @@
         {
           "id": "fd-7",
           "topic": "Reasoning",
-          "marks": 1,
+          "marks": 2,
           "question": "श्रृंखला पूरी करें: 2, 6, 12, 20, ?",
           "options": [
             "26",
@@ -789,7 +809,7 @@
         {
           "id": "fd-8",
           "topic": "Reasoning",
-          "marks": 1,
+          "marks": 2,
           "question": "यदि SOUTH को TPVUI लिखा जाए, तो NORTH का कूट क्या होगा?",
           "options": [
             "OPSUI",
@@ -803,7 +823,7 @@
         {
           "id": "fd-9",
           "topic": "Reasoning",
-          "marks": 1,
+          "marks": 2,
           "question": "पुस्तक : पढ़ना :: भोजन : ?",
           "options": [
             "सोना",
@@ -817,7 +837,7 @@
         {
           "id": "fd-10",
           "topic": "General Knowledge",
-          "marks": 1,
+          "marks": 2,
           "question": "भारत का संविधान कब लागू हुआ?",
           "options": [
             "15 अगस्त 1947",
@@ -831,7 +851,7 @@
         {
           "id": "fd-11",
           "topic": "General Knowledge",
-          "marks": 1,
+          "marks": 2,
           "question": "उत्तर प्रदेश की राजधानी क्या है?",
           "options": [
             "प्रयागराज",
@@ -845,7 +865,7 @@
         {
           "id": "fd-12",
           "topic": "General Knowledge",
-          "marks": 1,
+          "marks": 2,
           "question": "पंचायती राज व्यवस्था की सबसे निचली इकाई कौन-सी है?",
           "options": [
             "जिला पंचायत",
@@ -859,7 +879,7 @@
         {
           "id": "fd-13",
           "topic": "Mathematics",
-          "marks": 1,
+          "marks": 2,
           "question": "एक वस्तु का क्रय मूल्य ₹400 और विक्रय मूल्य ₹460 है। लाभ प्रतिशत क्या है?",
           "options": [
             "10%",
@@ -873,7 +893,7 @@
         {
           "id": "fd-14",
           "topic": "Reasoning",
-          "marks": 1,
+          "marks": 2,
           "question": "रवि उत्तर की ओर चलता है, फिर दाएँ मुड़ता है। अब वह किस दिशा में है?",
           "options": [
             "पूर्व",
@@ -887,7 +907,7 @@
         {
           "id": "fd-15",
           "topic": "Hindi",
-          "marks": 1,
+          "marks": 2,
           "question": "'जो कभी न मरे' के लिए एक शब्द है:",
           "options": [
             "अजर",
@@ -901,7 +921,7 @@
         {
           "id": "fd-16",
           "topic": "General Knowledge",
-          "marks": 1,
+          "marks": 2,
           "question": "भारत का राष्ट्रीय चिन्ह किस स्थान के सिंह स्तंभ से लिया गया है?",
           "options": [
             "सारनाथ",
@@ -913,7 +933,12 @@
           "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
         }
       ],
-      "available": true
+      "available": true,
+      "marking": {
+        "correct": 2,
+        "incorrect": -0.5,
+        "unanswered": 0
+      }
     },
     {
       "id": "up-police-constable-hindi-practice",
@@ -993,7 +1018,12 @@
           "explanation": "'अमर' का अर्थ है जो कभी न मरे।"
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": 1,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     },
     {
       "id": "up-police-constable-mathematics-practice",
@@ -1073,7 +1103,12 @@
           "explanation": "लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": 1,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     },
     {
       "id": "up-police-constable-reasoning-practice",
@@ -1153,7 +1188,12 @@
           "explanation": "उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": 1,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     },
     {
       "id": "up-police-constable-general-knowledge-practice",
@@ -1233,7 +1273,12 @@
           "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
         }
       ],
-      "available": false
+      "available": false,
+      "marking": {
+        "correct": 1,
+        "incorrect": -0.0,
+        "unanswered": 0
+      }
     }
   ]
 }
