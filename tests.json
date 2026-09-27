@@ -689,8 +689,8 @@
     },
     {
       "id": "up-police-constable-sample-mock",
-      "title": "UP Police Constable — Sample Mixed Mock",
-      "description": "A 16-question preparation sample across Hindi, mathematics, reasoning and general knowledge. It is not a full official-pattern mock.",
+      "title": "UP Police Constable · Free Diagnostic Sample",
+      "description": "A provisional 16-question diagnostic sample across four subjects. It has not been validated against a complete previous-year paper.",
       "category": "Constable Sample",
       "difficulty": "Foundation",
       "icon": "test",
@@ -720,7 +720,13 @@
             "अग्नि"
           ],
           "correctOption": 1,
-          "explanation": "'गगन' आकाश का पर्यायवाची शब्द है।"
+          "explanation": "'गगन' आकाश का पर्यायवाची शब्द है।",
+          "subjectId": "hindi",
+          "topicId": "vocabulary",
+          "topicName": "Vocabulary",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-2",
@@ -734,7 +740,13 @@
             "व्यय"
           ],
           "correctOption": 0,
-          "explanation": "'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।"
+          "explanation": "'लाभ' का विपरीत अर्थ देने वाला शब्द 'हानि' है।",
+          "subjectId": "hindi",
+          "topicId": "vocabulary",
+          "topicName": "Vocabulary",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-3",
@@ -748,7 +760,13 @@
             "आशीरवाद"
           ],
           "correctOption": 1,
-          "explanation": "'आशीर्वाद' मानक और शुद्ध वर्तनी है।"
+          "explanation": "'आशीर्वाद' मानक और शुद्ध वर्तनी है।",
+          "subjectId": "hindi",
+          "topicId": "grammar",
+          "topicName": "Grammar",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-4",
@@ -762,7 +780,13 @@
             "35"
           ],
           "correctOption": 2,
-          "explanation": "15% of 200 = 200 × 15/100 = 30."
+          "explanation": "15% of 200 = 200 × 15/100 = 30.",
+          "subjectId": "numerical",
+          "topicId": "percentages-and-ratios",
+          "topicName": "Percentages and ratios",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-5",
@@ -776,7 +800,13 @@
             "12"
           ],
           "correctOption": 2,
-          "explanation": "दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।"
+          "explanation": "दोनों पक्षों को 3 से भाग देने पर x = 9 मिलता है।",
+          "subjectId": "numerical",
+          "topicId": "arithmetic",
+          "topicName": "Arithmetic",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-6",
@@ -790,7 +820,13 @@
             "12"
           ],
           "correctOption": 1,
-          "explanation": "12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।"
+          "explanation": "12 और 18 दोनों को विभाजित करने वाली सबसे बड़ी संख्या 6 है।",
+          "subjectId": "numerical",
+          "topicId": "arithmetic",
+          "topicName": "Arithmetic",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-7",
@@ -804,7 +840,13 @@
             "32"
           ],
           "correctOption": 2,
-          "explanation": "अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।"
+          "explanation": "अंतर 4, 6, 8 हैं; अगला अंतर 10 होगा, इसलिए उत्तर 30 है।",
+          "subjectId": "reasoning",
+          "topicId": "series",
+          "topicName": "Series",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-8",
@@ -818,7 +860,13 @@
             "NPSUI"
           ],
           "correctOption": 0,
-          "explanation": "हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।"
+          "explanation": "हर अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर से बदला गया है।",
+          "subjectId": "reasoning",
+          "topicId": "direction-and-coding",
+          "topicName": "Direction and coding",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-9",
@@ -832,7 +880,13 @@
             "लिखना"
           ],
           "correctOption": 1,
-          "explanation": "पुस्तक पढ़ी जाती है और भोजन खाया जाता है।"
+          "explanation": "पुस्तक पढ़ी जाती है और भोजन खाया जाता है।",
+          "subjectId": "reasoning",
+          "topicId": "analogies",
+          "topicName": "Analogies",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-10",
@@ -846,7 +900,13 @@
             "2 अक्टूबर 1950"
           ],
           "correctOption": 1,
-          "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"
+          "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।",
+          "subjectId": "general-knowledge",
+          "topicId": "indian-history-and-polity",
+          "topicName": "Indian history and polity",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-11",
@@ -860,7 +920,13 @@
             "लखनऊ"
           ],
           "correctOption": 3,
-          "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है।"
+          "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है।",
+          "subjectId": "general-knowledge",
+          "topicId": "uttar-pradesh-general-knowledge",
+          "topicName": "Uttar Pradesh general knowledge",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-12",
@@ -874,7 +940,13 @@
             "राज्यसभा"
           ],
           "correctOption": 1,
-          "explanation": "ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।"
+          "explanation": "ग्रामीण पंचायती राज व्यवस्था में ग्राम पंचायत स्थानीय स्तर की मूल इकाई है।",
+          "subjectId": "general-knowledge",
+          "topicId": "indian-history-and-polity",
+          "topicName": "Indian history and polity",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-13",
@@ -888,7 +960,13 @@
             "20%"
           ],
           "correctOption": 2,
-          "explanation": "लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।"
+          "explanation": "लाभ ₹60 है। लाभ प्रतिशत = 60/400 × 100 = 15%।",
+          "subjectId": "numerical",
+          "topicId": "percentages-and-ratios",
+          "topicName": "Percentages and ratios",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-14",
@@ -902,7 +980,13 @@
             "दक्षिण"
           ],
           "correctOption": 0,
-          "explanation": "उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।"
+          "explanation": "उत्तर की ओर मुख किए व्यक्ति का दायाँ पक्ष पूर्व होता है।",
+          "subjectId": "reasoning",
+          "topicId": "direction-and-coding",
+          "topicName": "Direction and coding",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-15",
@@ -916,7 +1000,13 @@
             "अनंत"
           ],
           "correctOption": 1,
-          "explanation": "'अमर' का अर्थ है जो कभी न मरे।"
+          "explanation": "'अमर' का अर्थ है जो कभी न मरे।",
+          "subjectId": "hindi",
+          "topicId": "vocabulary",
+          "topicName": "Vocabulary",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         },
         {
           "id": "fd-16",
@@ -930,7 +1020,13 @@
             "कुशीनगर"
           ],
           "correctOption": 0,
-          "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।"
+          "explanation": "भारत का राष्ट्रीय चिन्ह सारनाथ स्थित अशोक के सिंह स्तंभ से लिया गया है।",
+          "subjectId": "general-knowledge",
+          "topicId": "indian-history-and-polity",
+          "topicName": "Indian history and polity",
+          "difficulty": "foundation",
+          "contentStatus": "sample-reviewed-for-structure",
+          "origin": "original-practice-question"
         }
       ],
       "available": true,
@@ -938,6 +1034,25 @@
         "correct": 2,
         "incorrect": -0.5,
         "unanswered": 0
+      },
+      "type": "diagnostic",
+      "examId": "up-police",
+      "paperVersion": "sample-1",
+      "patternStatus": "provisional-sample",
+      "pattern": {
+        "basis": "Preparation sample; previous-year pattern review pending",
+        "durationMinutes": 15,
+        "questionCount": 16,
+        "subjectQuestions": {
+          "general-knowledge": 4,
+          "hindi": 4,
+          "numerical": 4,
+          "reasoning": 4
+        },
+        "difficultyMix": {
+          "foundation": 16
+        },
+        "isOfficialPattern": false
       }
     },
     {

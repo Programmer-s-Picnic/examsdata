@@ -14,6 +14,10 @@
         "route": "#/landing-exams"
       },
       {
+        "label": "Free diagnostic",
+        "route": "#/diagnostic"
+      },
+      {
         "label": "Tests",
         "route": "#/login"
       },
@@ -36,6 +40,11 @@
         "label": "Tests",
         "route": "#/tests",
         "icon": "tests"
+      },
+      {
+        "label": "Diagnostic",
+        "route": "#/diagnostic",
+        "icon": "chart"
       },
       {
         "label": "Results",
@@ -121,15 +130,15 @@
       },
       "diagnostic": {
         "eyebrow": "START WITH CLARITY",
-        "title": "Constable Sample Mixed Mock",
-        "description": "A short preparation sample across four subjects. This is not a full official-pattern mock.",
+        "title": "Free Constable Diagnostic Sample",
+        "description": "Choose an exam, attempt the available sample, and receive a subject-wise report. Previous-year pattern validation is pending.",
         "facts": [
           "16 questions",
           "Four subjects",
           "Instant analysis",
           "No payment"
         ],
-        "actionLabel": "Start diagnostic test"
+        "actionLabel": "Take Free Diagnostic Test"
       },
       "how": {
         "eyebrow": "A CLEAR PREPARATION PATH",
