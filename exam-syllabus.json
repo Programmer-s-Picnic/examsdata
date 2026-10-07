@@ -240,8 +240,15 @@
           ]
         }
       ],
-      "note": "Verified from the official UPPRPB Direct Recruitment-2025 notification, Appendix 1 (pages 28–29). Current written-exam process: 150 objective questions, 300 marks, 2 hours, +2 per correct answer and no negative marking."
+      "note": "Verified from the official UPPRPB Direct Recruitment-2025 notification, Appendix 1 (pages 28–29). Current written-exam process: 150 objective questions, 300 marks, 2 hours, +2 per correct answer and no negative marking.",
+      "adminValidation": {
+        "status": "pending",
+        "validatedBy": null,
+        "validatedAt": null,
+        "note": "Official syllabus import requires exam-site admin validation before student publication."
+      },
+      "sourceDisplayPolicy": "government-only"
     }
   ],
-  "updatedAt": "2026-10-07T10:30:00Z"
+  "updatedAt": "2026-10-07T11:30:00Z"
 }
