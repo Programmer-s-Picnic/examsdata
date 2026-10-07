@@ -504,7 +504,18 @@
       ],
       "durationMinutes": 24,
       "marksPerQuestion": 2,
-      "negativeMarking": 0
+      "negativeMarking": 0,
+      "documentType": "exam-paper",
+      "testEnabled": true,
+      "testConfig": {
+        "durationMinutes": 24,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
+      }
     },
     {
       "id": "up-police-2026-06-08-s2",
@@ -525,6 +536,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "exam-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -546,6 +569,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "exam-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -567,6 +602,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "exam-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -588,6 +635,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "exam-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -609,6 +668,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "exam-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -630,6 +701,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -651,6 +734,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -672,6 +767,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -693,6 +800,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -714,6 +833,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -735,6 +866,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -756,6 +899,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -777,6 +932,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -798,6 +965,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     },
     {
@@ -819,6 +998,18 @@
         "validatedBy": null,
         "validatedAt": null,
         "note": "Imported data requires exam-site admin validation before student publication."
+      },
+      "documentType": "previous-year-paper",
+      "testEnabled": true,
+      "questions": [],
+      "testConfig": {
+        "durationMinutes": null,
+        "questionSeconds": 48,
+        "correctMarks": 2,
+        "wrongMarks": 0,
+        "unansweredMarks": 0,
+        "defaultMode": "total-timed",
+        "feedbackMode": "on-completion"
       }
     }
   ],
@@ -852,6 +1043,6 @@
       "sourceType": "government"
     }
   ],
-  "policy": "Public source links are shown only for government documents or Wayback snapshots of original government URLs. Other imported data may be stored without source attribution but remains hidden from students until approved by an exam-site admin.",
-  "updatedAt": "2026-10-07T12:10:00Z"
+  "policy": "Validated document records may include a questions array. When testEnabled is true and the record is approved, the same questions are published as a readable question set and as an attemptable test. Public source links remain restricted to government URLs or Wayback snapshots of original government URLs.",
+  "updatedAt": "2026-10-07T12:55:00Z"
 }
