@@ -60,6 +60,11 @@
         "label": "Admin content",
         "route": "#/admin",
         "icon": "test"
+      },
+      {
+        "label": "How to use",
+        "route": "#/help",
+        "icon": "teacher"
       }
     ],
     "footer": [
@@ -72,11 +77,11 @@
         "route": "#/tests"
       },
       {
-        "label": "Help",
+        "label": "How to use",
         "route": "#/help"
       },
       {
-        "label": "Disclaimer",
+        "label": "How to use",
         "route": "#/help"
       },
       {
@@ -191,6 +196,19 @@
       "description": "One clear next step is better than ten unfinished plans.",
       "recommendedTitle": "Keep your momentum",
       "quickTitle": "Everything in one place"
+    },
+    "studentGuide": {
+      "title": "How to use Himanshu Exams",
+      "workflow": [
+        "Sign in",
+        "Choose your exam",
+        "Read admin-validated syllabus",
+        "Review previous-paper information",
+        "Practise by topic or subject",
+        "Take timed mocks/diagnostics",
+        "Review results and retake weak areas"
+      ],
+      "validationNote": "Imported syllabus and previous-paper records are shown only after exam-site-admin approval."
     }
   },
   "features": {
