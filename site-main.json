@@ -2,9 +2,9 @@
   "site": {
     "name": "UP NaukriGuru",
     "shortName": "UP",
-    "tagline": "Uttar Pradesh Exam Prep Superapp",
-    "description": "Choose your examination, measure your preparation and understand what to improve next.",
-    "footerNote": "Independent preparation platform",
+    "tagline": "Uttar Pradesh Exam Preparation",
+    "description": "Prepare for Uttar Pradesh government examinations with focused practice, mock tests, previous papers and performance analysis.",
+    "footerNote": "Focused exam preparation",
     "officialSourcePolicy": "Dates, vacancies and notifications must be linked to an official source and display a verification date."
   },
   "navigation": {
@@ -18,16 +18,8 @@
         "route": "#/diagnostic"
       },
       {
-        "label": "Tests",
-        "route": "#/login"
-      },
-      {
         "label": "How It Works",
         "route": "#/landing-how"
-      },
-      {
-        "label": "Content browser",
-        "route": "#/admin"
       }
     ],
     "student": [
@@ -52,19 +44,14 @@
         "icon": "results"
       },
       {
-        "label": "Profile",
-        "route": "#/profile",
-        "icon": "profile"
-      },
-      {
-        "label": "Admin content",
-        "route": "#/admin",
-        "icon": "test"
-      },
-      {
         "label": "How to use",
         "route": "#/help",
         "icon": "teacher"
+      },
+      {
+        "label": "Profile",
+        "route": "#/profile",
+        "icon": "profile"
       }
     ],
     "footer": [
@@ -79,23 +66,10 @@
       {
         "label": "How to use",
         "route": "#/help"
-      },
-      {
-        "label": "How to use",
-        "route": "#/help"
-      },
-      {
-        "label": "Content browser",
-        "route": "#/admin"
       }
     ]
   },
   "content": {
-    "verification": {
-      "label": "VERIFICATION POLICY",
-      "message": "Exam dates and vacancies are shown only when supported by an official source.",
-      "lastChecked": "2026-09-22"
-    },
     "landing": {
       "badge": "FOCUSED PREPARATION FOR UTTAR PRADESH EXAMS",
       "titleBefore": "Prepare Smarter for",
@@ -131,12 +105,12 @@
       "exams": {
         "eyebrow": "TARGET EXAMINATIONS",
         "title": "Choose the examination that matters to you",
-        "description": "Every status should be checked against an official notification before publication."
+        "description": "Choose an examination to view preparation resources, syllabus, tests and progress."
       },
       "diagnostic": {
         "eyebrow": "START WITH CLARITY",
-        "title": "Free Constable Diagnostic Sample",
-        "description": "Choose an exam, attempt the available sample, and receive a subject-wise report. Previous-year pattern validation is pending.",
+        "title": "Free Constable Diagnostic Test",
+        "description": "Take a short diagnostic test and receive a subject-wise performance report with focus areas.",
         "facts": [
           "16 questions",
           "Four subjects",
@@ -181,9 +155,7 @@
     "login": {
       "eyebrow": "STUDENT PORTAL",
       "title": "Welcome back",
-      "description": "Continue your preparation with tests, feedback and a clear plan.",
-      "demoEmail": "student@example.com",
-      "demoPassword": "demo123"
+      "description": "Continue your preparation with tests, feedback and a clear plan."
     },
     "onboarding": {
       "eyebrow": "YOUR PREPARATION, PERSONALISED",
@@ -193,22 +165,21 @@
     },
     "dashboard": {
       "eyebrow": "YOUR PREPARATION HUB",
-      "description": "One clear next step is better than ten unfinished plans.",
-      "recommendedTitle": "Keep your momentum",
-      "quickTitle": "Everything in one place"
+      "description": "Track your tests, results and current preparation priorities.",
+      "recommendedTitle": "Recommended next step",
+      "quickTitle": "Quick access"
     },
     "studentGuide": {
       "title": "How to use Himanshu Exams",
       "workflow": [
         "Sign in",
         "Choose your exam",
-        "Read admin-validated syllabus",
-        "Review previous-paper information",
+        "Review the syllabus",
+        "Browse previous papers",
         "Practise by topic or subject",
-        "Take timed mocks/diagnostics",
+        "Take timed mock and diagnostic tests",
         "Review results and retake weak areas"
-      ],
-      "validationNote": "Imported syllabus and previous-paper records are shown only after exam-site-admin approval."
+      ]
     }
   },
   "features": {
