@@ -4,40 +4,36 @@
       "id": "up-police",
       "name": "UP Police Constable",
       "available": true,
-      "authority": "Uttar Pradesh Police Recruitment Board",
+      "authority": "Uttar Pradesh Police Recruitment & Promotion Board (UPPRPB)",
       "description": "Police recruitment preparation covering general knowledge, Hindi, numerical ability and reasoning.",
-      "status": "Recruitment cycle",
-      "negativeMarking": 0.5,
+      "status": "Direct Recruitment 2025 · written exam held 8–10 Jun 2026",
+      "negativeMarking": 0,
       "icon": "police",
       "subjects": [
         "General Knowledge",
-        "Hindi",
-        "Numerical Ability",
-        "Reasoning"
+        "General Hindi",
+        "Numerical and Mental Ability",
+        "Mental Aptitude, I.Q. and Reasoning Ability"
       ],
       "sources": [
         {
-          "label": "Recruitment notification (31 Dec 2025)",
+          "label": "Official recruitment notification & syllabus (Appendix 1, pp. 28–29)",
           "url": "https://uppbpb.gov.in/FilesUploaded/Notice/CONSTABLE-VIGYAPTIc7be0cc8-3365-471e-9237-447c528d341a.pdf"
         },
         {
-          "label": "Corrigendum (5 Jan 2026)",
-          "url": "https://uppbpb.gov.in/FilesUploaded/Notice/20260105182150533dbb2e665-07ea-428e-972a-9f75e7701fcf.pdf"
+          "label": "Official written-exam process / OMR instructions",
+          "url": "https://uppbpb.gov.in/FilesUploaded/Notice/CONST-25OMRVIGGYAPTI05-02-2026590e47bd-d973-4a45-9007-b2a0a048b4f4.pdf"
         },
         {
-          "label": "Official syllabus portal",
-          "url": "https://uppbpb.gov.in/Home/Syllabus"
+          "label": "Official final answer-key notice for 8–10 Jun 2026",
+          "url": "https://uppbpb.gov.in/FilesUploaded/Notice/vig2_31072026f7873deb-f863-429b-8521-ca638d9af54a.pdf"
         },
         {
-          "label": "Official recruitment rules",
-          "url": "https://uppbpb.gov.in/Home/Manual_Detail?categoryId=40&noticeId=30"
-        },
-        {
-          "label": "Current board notices",
+          "label": "Official UPPRPB notices",
           "url": "https://uppbpb.gov.in/Home/Notice"
         }
       ],
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-10-07",
       "stages": [
         {
           "name": "Written examination",
