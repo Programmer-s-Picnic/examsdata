@@ -18,8 +18,493 @@
         "status": "pending",
         "validatedBy": null,
         "validatedAt": null,
-        "note": "Imported data requires exam-site admin validation before student publication."
-      }
+        "note": "30 questions imported for admin review. Approval publishes the question list and generated PYQ test."
+      },
+      "questions": [
+        {
+          "id": "up-police-2026-06-08-s1-q001",
+          "number": 1,
+          "subjectId": "numerical",
+          "topic": "Algebra",
+          "question": "m का मान ज्ञात कीजिए: m - 2/3 = 5/6 + 1/2",
+          "options": [
+            "2",
+            "4",
+            "3/4",
+            "1/2"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q002",
+          "number": 2,
+          "subjectId": "numerical",
+          "topic": "Time and Distance",
+          "question": "दो स्टेशन A और B एक सीधी रेखा पर 210 किमी की दूरी पर हैं। एक ट्रेन सुबह 7 बजे A से 35 किमी/घंटा की चाल से B की ओर चलती है। दूसरी ट्रेन सुबह 8 बजे B से 40 किमी/घंटा की चाल से A की ओर चलती है। वे किस समय मिलेंगी?",
+          "options": [
+            "सुबह 9 बजे",
+            "सुबह 10:20 बजे",
+            "सुबह 9:33 बजे",
+            "सुबह 10 बजे"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q003",
+          "number": 3,
+          "subjectId": "numerical",
+          "topic": "Algebra",
+          "question": "यदि 3x - 7y = 14 और x/(x+y) = 7/9 है, तो xy का मान क्या है?",
+          "options": [
+            "56",
+            "48",
+            "81",
+            "65"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q004",
+          "number": 4,
+          "subjectId": "numerical",
+          "topic": "Profit and Loss",
+          "question": "एक व्यापारी ₹18,960 में एक वस्तु खरीदता है और इसे 15% हानि पर बेचता है। वस्तु का विक्रय मूल्य क्या है?",
+          "options": [
+            "₹16,275",
+            "₹14,106",
+            "₹16,116",
+            "₹14,450"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q005",
+          "number": 5,
+          "subjectId": "numerical",
+          "topic": "Profit and Loss",
+          "question": "एक दुकानदार ने ₹15,400 में एक टेलीविजन खरीदा और इसे ₹18,060 में बेच दिया। लाभ और लाभ प्रतिशत की गणना कीजिए।",
+          "options": [
+            "लाभ = ₹2,500, लाभ % = 15.50%",
+            "लाभ = ₹2,600, लाभ % = 16.88%",
+            "लाभ = ₹2,560, लाभ % = 16.10%",
+            "लाभ = ₹2,660, लाभ % = 17.27%"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q006",
+          "number": 6,
+          "subjectId": "numerical",
+          "topic": "Average",
+          "question": "छह संख्याओं का औसत 12 है। उनमें से दो का औसत 6.5 है जबकि अन्य दो का औसत 4.5 है। शेष दो संख्याओं का औसत क्या है?",
+          "options": [
+            "25",
+            "45",
+            "18",
+            "34"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q007",
+          "number": 7,
+          "subjectId": "numerical",
+          "topic": "Partnership",
+          "question": "A और B ने एक व्यवसाय में क्रमशः 3:2 के अनुपात में धन निवेश किया। यदि वर्ष के अंत में कुल लाभ ₹7,000 है, तो लाभ में A का हिस्सा ज्ञात कीजिए।",
+          "options": [
+            "₹4,200",
+            "₹4,450",
+            "₹4,150",
+            "₹4,600"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q008",
+          "number": 8,
+          "subjectId": "numerical",
+          "topic": "Ratio and Proportion",
+          "question": "दूध और पानी के मिश्रण में दूध और पानी का अनुपात 3:1 है। यदि मिश्रण की कुल मात्रा 48 लीटर है, तो दूध की मात्रा कितनी है?",
+          "options": [
+            "34 लीटर",
+            "20 लीटर",
+            "30 लीटर",
+            "36 लीटर"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q009",
+          "number": 9,
+          "subjectId": "numerical",
+          "topic": "Ratio and Proportion",
+          "question": "दो संख्याओं का योग 72 है और उनका अनुपात 2:4 है। सबसे छोटी संख्या ज्ञात कीजिए।",
+          "options": [
+            "22",
+            "20",
+            "18",
+            "24"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q010",
+          "number": 10,
+          "subjectId": "numerical",
+          "topic": "Mensuration",
+          "question": "एक समचतुर्भुज में एक विकर्ण 40 सेमी है और दूसरा विकर्ण पहले विकर्ण के आधे से 22 सेमी लंबा है। प्रत्येक भुजा की लंबाई ज्ञात कीजिए।",
+          "options": [
+            "12 सेमी",
+            "16 सेमी",
+            "25 सेमी",
+            "29 सेमी"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q011",
+          "number": 11,
+          "subjectId": "numerical",
+          "topic": "Compound Interest",
+          "question": "रिया एक बचत खाते में ₹10,000 निवेश करती है, जिस पर 8% वार्षिक चक्रवृद्धि ब्याज मिलता है और ब्याज वार्षिक संयोजित होता है। 3 वर्ष बाद खाते में कितनी राशि होगी?",
+          "options": [
+            "₹12,597.12",
+            "₹12,845.34",
+            "₹12,333.21",
+            "₹12,450.23"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q012",
+          "number": 12,
+          "subjectId": "numerical",
+          "topic": "Mensuration",
+          "question": "एक बक्से की लंबाई 11.1 सेमी, चौड़ाई 5.5 सेमी और ऊँचाई 7.7 सेमी है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+          "options": [
+            "374.8 वर्ग सेमी",
+            "377.74 वर्ग सेमी",
+            "365.47 वर्ग सेमी",
+            "357.4 वर्ग सेमी"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q013",
+          "number": 13,
+          "subjectId": "numerical",
+          "topic": "Profit and Loss",
+          "question": "एक दुकानदार वस्तु का अंकित मूल्य क्रय मूल्य से 25% अधिक रखता है और अंकित मूल्य पर 10% छूट देता है। लाभ प्रतिशत कितना होगा?",
+          "options": [
+            "15%",
+            "12.5%",
+            "14%",
+            "19.3%"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q014",
+          "number": 14,
+          "subjectId": "numerical",
+          "topic": "Number System",
+          "question": "(478749)^(1×5×2×4) के विस्तार में इकाई का अंक क्या है?",
+          "options": [
+            "1",
+            "3",
+            "9",
+            "4"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q015",
+          "number": 15,
+          "subjectId": "numerical",
+          "topic": "HCF and LCM",
+          "question": "15 के दो गुणजों का LCM 1200 है। यदि पहली संख्या 75 है, तो दूसरी संख्या कौन-सी हो सकती है?",
+          "options": [
+            "240",
+            "290",
+            "260",
+            "280"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q016",
+          "number": 16,
+          "subjectId": "numerical",
+          "topic": "HCF and LCM",
+          "question": "यदि दो संख्याओं का HCF 16 है, तो निम्नलिखित में से कौन-सा मान उनका LCM कभी नहीं हो सकता?",
+          "options": [
+            "80",
+            "112",
+            "134",
+            "48"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q017",
+          "number": 17,
+          "subjectId": "numerical",
+          "topic": "Percentage",
+          "question": "यदि किसी संख्या का 20% = 50 है, तो उस संख्या का 125% क्या होगा?",
+          "options": [
+            "292.5",
+            "312.5",
+            "322.5",
+            "252.5"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q018",
+          "number": 18,
+          "subjectId": "numerical",
+          "topic": "Simple Interest",
+          "question": "3 वर्ष की अवधि में 11% वार्षिक ब्याज दर से ₹49,000 के मूलधन पर साधारण ब्याज ज्ञात कीजिए।",
+          "options": [
+            "₹16,170",
+            "₹39,000",
+            "₹11,700",
+            "₹53,900"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q019",
+          "number": 19,
+          "subjectId": "numerical",
+          "topic": "HCF and LCM",
+          "question": "तीन क्रमागत सम संख्याओं का महत्तम समापवर्तक क्या होगा?",
+          "options": [
+            "8",
+            "2",
+            "6",
+            "4"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q020",
+          "number": 20,
+          "subjectId": "general-knowledge",
+          "topic": "Indian Economy",
+          "question": "भारत में रेपो दर कौन-सा संगठन निर्धारित करता है?",
+          "options": [
+            "नीति आयोग",
+            "भारतीय प्रतिभूति और विनिमय बोर्ड",
+            "भारतीय रिज़र्व बैंक",
+            "वित्त मंत्रालय"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q021",
+          "number": 21,
+          "subjectId": "general-knowledge",
+          "topic": "Commerce and Trade",
+          "question": "भारत में विदेशी व्यापार को कौन-सा संगठन नियंत्रित करता है?",
+          "options": [
+            "SEBI",
+            "RBI",
+            "DGFT",
+            "NABARD"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q022",
+          "number": 22,
+          "subjectId": "general-knowledge",
+          "topic": "Geography",
+          "question": "कंवर झील भारत के किस राज्य में स्थित है?",
+          "options": [
+            "मध्य प्रदेश",
+            "पश्चिम बंगाल",
+            "बिहार",
+            "कर्नाटक"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q023",
+          "number": 23,
+          "subjectId": "general-knowledge",
+          "topic": "Current Affairs",
+          "question": "भारत में कौन-सा राज्य समान नागरिक संहिता (UCC) विधेयक, 2026 पारित करने वाला दूसरा राज्य बन गया?",
+          "options": [
+            "महाराष्ट्र",
+            "मध्य प्रदेश",
+            "गुजरात",
+            "उत्तराखंड"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q024",
+          "number": 24,
+          "subjectId": "general-knowledge",
+          "topic": "Police Administration",
+          "question": "पुलिस अनुसंधान एवं विकास ब्यूरो की स्थापना किस वर्ष हुई थी?",
+          "options": [
+            "1995",
+            "1960",
+            "1970",
+            "1985"
+          ],
+          "correctOption": 2,
+          "marks": 2,
+          "explanation": "Correct answer: C."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q025",
+          "number": 25,
+          "subjectId": "general-knowledge",
+          "topic": "World Geography",
+          "question": "निम्नलिखित में से कौन-सी नदी पेरिस शहर से होकर बहती है?",
+          "options": [
+            "अमेज़ॉन",
+            "लोआर",
+            "डेन्यूब",
+            "सीन"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q026",
+          "number": 26,
+          "subjectId": "general-knowledge",
+          "topic": "Indian Constitution",
+          "question": "भारत के प्रधानमंत्री की नियुक्ति भारतीय संविधान के किस अनुच्छेद के अंतर्गत होती है?",
+          "options": [
+            "अनुच्छेद 75(1)",
+            "अनुच्छेद 72",
+            "अनुच्छेद 87(1)",
+            "अनुच्छेद 79"
+          ],
+          "correctOption": 0,
+          "marks": 2,
+          "explanation": "Correct answer: A."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q027",
+          "number": 27,
+          "subjectId": "general-knowledge",
+          "topic": "Social Media",
+          "question": "कौन-सा प्लेटफॉर्म मुख्य रूप से पेशेवर नेटवर्किंग के लिए उपयोग किया जाता है?",
+          "options": [
+            "इंस्टाग्राम",
+            "लिंक्डइन",
+            "फेसबुक",
+            "स्नैपचैट"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q028",
+          "number": 28,
+          "subjectId": "general-knowledge",
+          "topic": "Environment",
+          "question": "निम्नलिखित में से कौन-सी पर्यावरणीय समस्या मुख्य रूप से ग्रीनहाउस गैसों के उत्सर्जन के कारण होती है?",
+          "options": [
+            "ओज़ोन अवक्षय",
+            "अम्ल वर्षा",
+            "वनोन्मूलन",
+            "वैश्विक तापन"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q029",
+          "number": 29,
+          "subjectId": "general-knowledge",
+          "topic": "Indian Constitution",
+          "question": "भारतीय संविधान की किस अनुसूची में राज्य सभा में राज्यों और केंद्रशासित प्रदेशों के लिए सीटों के आबंटन से संबंधित प्रावधान हैं?",
+          "options": [
+            "पाँचवीं अनुसूची",
+            "चौथी अनुसूची",
+            "नौवीं अनुसूची",
+            "दसवीं अनुसूची"
+          ],
+          "correctOption": 1,
+          "marks": 2,
+          "explanation": "Correct answer: B."
+        },
+        {
+          "id": "up-police-2026-06-08-s1-q030",
+          "number": 30,
+          "subjectId": "general-knowledge",
+          "topic": "World History",
+          "question": "लास्को गुफाएँ किस देश में स्थित हैं?",
+          "options": [
+            "स्पेन",
+            "जर्मनी",
+            "इटली",
+            "फ्रांस"
+          ],
+          "correctOption": 3,
+          "marks": 2,
+          "explanation": "Correct answer: D."
+        }
+      ],
+      "durationMinutes": 24,
+      "marksPerQuestion": 2,
+      "negativeMarking": 0
     },
     {
       "id": "up-police-2026-06-08-s2",
@@ -368,5 +853,5 @@
     }
   ],
   "policy": "Public source links are shown only for government documents or Wayback snapshots of original government URLs. Other imported data may be stored without source attribution but remains hidden from students until approved by an exam-site admin.",
-  "updatedAt": "2026-10-07T11:30:00Z"
+  "updatedAt": "2026-10-07T12:10:00Z"
 }
