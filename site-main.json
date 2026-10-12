@@ -74,7 +74,7 @@
       "badge": "FOCUSED PREPARATION FOR UTTAR PRADESH EXAMS",
       "titleBefore": "Prepare Smarter for",
       "titleHighlight": "Government Exams",
-      "description": "Take unlimited free diagnostics with complete reports, shown once and never stored for guests. Explore your weak subjects and prepare with practice sessions.",
+      "description": "Try a free general reasoning diagnostic without logging in. Sign in for exam-specific diagnostics with randomized questions, saved reports and focused practice.",
       "primaryAction": {
         "label": "Take Free Diagnostic Test",
         "route": "#/diagnostic"
@@ -109,14 +109,14 @@
       },
       "diagnostic": {
         "eyebrow": "START WITH CLARITY",
-        "title": "Free Constable Diagnostic Test",
-        "description": "Take the free diagnostic as often as you wish without logging in. View your full report and answer review immediately; nothing is saved for guests.",
+        "title": "General Reasoning — Free Guest Diagnostic",
+        "description": "Guests may take a general reasoning test repeatedly, see a full report immediately, and leave without storing results. Signed-in students receive diagnostics tailored to their selected examination.",
         "facts": [
-          "16 questions",
-          "Unlimited retakes",
-          "Full reports",
-          "Nothing saved for guests",
-          "No login required"
+          "General reasoning for guests",
+          "Unlimited guest attempts",
+          "Exam-specific tests after login",
+          "Randomized signed-in MCQs",
+          "No guest results saved"
         ],
         "actionLabel": "Take Unlimited Free Diagnostics"
       },
@@ -148,7 +148,7 @@
       },
       "finalCta": {
         "title": "Your next test can reveal your next priority.",
-        "description": "Take a free diagnostic whenever you wish; your full result is available without login.",
+        "description": "Start with general reasoning as a guest, or sign in for a diagnostic tailored to your selected examination.",
         "label": "Start preparing",
         "route": "#/diagnostic"
       }
@@ -156,7 +156,7 @@
     "login": {
       "eyebrow": "STUDENT PORTAL",
       "title": "Welcome back",
-      "description": "Continue your preparation with tests, feedback and a clear plan."
+      "description": "Sign in for a diagnostic tailored to your selected exam, with randomized questions and saved results."
     },
     "onboarding": {
       "eyebrow": "YOUR PREPARATION, PERSONALISED",
