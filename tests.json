@@ -1,6 +1,309 @@
 {
   "tests": [
     {
+      "id": "guest-general-reasoning-diagnostic",
+      "title": "General Reasoning — Free Guest Diagnostic",
+      "description": "An introductory general reasoning assessment covering number series, verbal reasoning, coding and directions. Not tailored to a particular examination.",
+      "category": "General Reasoning",
+      "difficulty": "Foundation",
+      "icon": "chart",
+      "examIds": [],
+      "examId": null,
+      "audience": "guest",
+      "type": "diagnostic",
+      "paperVersion": "guest-general-reasoning-v1",
+      "totalMarks": 16,
+      "negativeMarking": 0,
+      "passPercent": 50,
+      "defaultMode": "total-timed",
+      "feedbackMode": "on-completion",
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "gr-01",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "number-series",
+          "topicName": "Number Series",
+          "marks": 1,
+          "question": "Find the next number: 2, 6, 12, 20, 30, ? ",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "correctOption": 2,
+          "explanation": "The differences are 4, 6, 8 and 10; the next difference is 12, so 30 + 12 = 42."
+        },
+        {
+          "id": "gr-02",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "number-series",
+          "topicName": "Number Series",
+          "marks": 1,
+          "question": "Find the next number: 5, 10, 20, 40, ? ",
+          "options": [
+            "60",
+            "70",
+            "80",
+            "100"
+          ],
+          "correctOption": 2,
+          "explanation": "Every number is double the previous one. 40 × 2 = 80."
+        },
+        {
+          "id": "gr-03",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "number-series",
+          "topicName": "Number Series",
+          "marks": 1,
+          "question": "Find the next number: 1, 4, 9, 16, 25, ? ",
+          "options": [
+            "30",
+            "36",
+            "42",
+            "49"
+          ],
+          "correctOption": 1,
+          "explanation": "These are squares of consecutive numbers from 1 to 5. The next is 6² = 36."
+        },
+        {
+          "id": "gr-04",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "number-series",
+          "topicName": "Number Series",
+          "marks": 1,
+          "question": "Find the next number: 81, 27, 9, 3, ? ",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "6"
+          ],
+          "correctOption": 1,
+          "explanation": "Each term is divided by 3. Thus 3 ÷ 3 = 1."
+        },
+        {
+          "id": "gr-05",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "verbal-reasoning",
+          "topicName": "Verbal Reasoning",
+          "marks": 1,
+          "question": "Bird is to Nest as Bee is to: ",
+          "options": [
+            "Web",
+            "Hive",
+            "Kennel",
+            "Burrow"
+          ],
+          "correctOption": 1,
+          "explanation": "A bird lives in a nest, and bees live in a hive."
+        },
+        {
+          "id": "gr-06",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "verbal-reasoning",
+          "topicName": "Verbal Reasoning",
+          "marks": 1,
+          "question": "Carpenter is to Wood as Mason is to: ",
+          "options": [
+            "Thread",
+            "Paper",
+            "Brick",
+            "Cloth"
+          ],
+          "correctOption": 2,
+          "explanation": "A carpenter works with wood, while a mason works with bricks."
+        },
+        {
+          "id": "gr-07",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "verbal-reasoning",
+          "topicName": "Verbal Reasoning",
+          "marks": 1,
+          "question": "Choose the odd one out: Mercury, Venus, Earth, Sun.",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Sun"
+          ],
+          "correctOption": 3,
+          "explanation": "The Sun is a star, whereas Mercury, Venus and Earth are planets."
+        },
+        {
+          "id": "gr-08",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "verbal-reasoning",
+          "topicName": "Verbal Reasoning",
+          "marks": 1,
+          "question": "Choose the odd one out: Triangle, Square, Circle, Pentagon.",
+          "options": [
+            "Triangle",
+            "Square",
+            "Circle",
+            "Pentagon"
+          ],
+          "correctOption": 2,
+          "explanation": "A circle has no straight sides, whereas the others are polygons."
+        },
+        {
+          "id": "gr-09",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "coding-decoding",
+          "topicName": "Coding and Decoding",
+          "marks": 1,
+          "question": "If CAT is written as DBU, how is DOG written using the same rule?",
+          "options": [
+            "EPH",
+            "CPH",
+            "EOG",
+            "FPH"
+          ],
+          "correctOption": 0,
+          "explanation": "Every letter is replaced by the next alphabet letter: D→E, O→P and G→H."
+        },
+        {
+          "id": "gr-10",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "coding-decoding",
+          "topicName": "Coding and Decoding",
+          "marks": 1,
+          "question": "If GAME is written as HBNF, how is FISH written?",
+          "options": [
+            "GJTI",
+            "GJSH",
+            "EHRG",
+            "HJTI"
+          ],
+          "correctOption": 0,
+          "explanation": "Advance each letter by one: F→G, I→J, S→T, H→I."
+        },
+        {
+          "id": "gr-11",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "coding-decoding",
+          "topicName": "Coding and Decoding",
+          "marks": 1,
+          "question": "If BAT is coded as CBU, what is the code for MAP?",
+          "options": [
+            "NBQ",
+            "LBP",
+            "NAQ",
+            "MBQ"
+          ],
+          "correctOption": 0,
+          "explanation": "Each letter shifts one place forward: M→N, A→B and P→Q."
+        },
+        {
+          "id": "gr-12",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "coding-decoding",
+          "topicName": "Coding and Decoding",
+          "marks": 1,
+          "question": "If MANGO becomes NBOHP, what does PEAR become?",
+          "options": [
+            "QFBS",
+            "QDBS",
+            "PFBS",
+            "QEBS"
+          ],
+          "correctOption": 0,
+          "explanation": "Replace each letter by its successor: P→Q, E→F, A→B, R→S."
+        },
+        {
+          "id": "gr-13",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "directions-logic",
+          "topicName": "Directions and Logic",
+          "marks": 1,
+          "question": "You are facing north. You turn right, then turn left. Which direction are you facing?",
+          "options": [
+            "South",
+            "East",
+            "North",
+            "West"
+          ],
+          "correctOption": 2,
+          "explanation": "Right from north is east; left from east is north."
+        },
+        {
+          "id": "gr-14",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "directions-logic",
+          "topicName": "Directions and Logic",
+          "marks": 1,
+          "question": "You are facing west. You turn left twice. Which direction are you now facing?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "correctOption": 2,
+          "explanation": "Left from west is south and left from south is east."
+        },
+        {
+          "id": "gr-15",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "directions-logic",
+          "topicName": "Directions and Logic",
+          "marks": 1,
+          "question": "All roses are flowers. All flowers are plants. Which conclusion definitely follows?",
+          "options": [
+            "All plants are roses",
+            "All roses are plants",
+            "No flowers are plants",
+            "All flowers are roses"
+          ],
+          "correctOption": 1,
+          "explanation": "If every rose is a flower and every flower is a plant, every rose must be a plant."
+        },
+        {
+          "id": "gr-16",
+          "topic": "Reasoning",
+          "subjectId": "reasoning",
+          "topicId": "directions-logic",
+          "topicName": "Directions and Logic",
+          "marks": 1,
+          "question": "In a queue, R stands before S, and S stands before T. Which statement must be true?",
+          "options": [
+            "T stands before R",
+            "S stands after T",
+            "R stands before T",
+            "R and T share a position"
+          ],
+          "correctOption": 2,
+          "explanation": "Order is R, then S, then T, so R must be before T."
+        }
+      ],
+      "available": true
+    },
+    {
       "id": "common-foundation-diagnostic",
       "title": "Common Foundation Diagnostic",
       "description": "A short baseline assessment across Hindi, mathematics, reasoning and general knowledge.",
@@ -252,7 +555,7 @@
       "available": false,
       "marking": {
         "correct": 1,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     },
@@ -398,7 +701,7 @@
       "available": false,
       "marking": {
         "correct": null,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     },
@@ -539,7 +842,7 @@
       "available": false,
       "marking": {
         "correct": null,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     },
@@ -1053,7 +1356,8 @@
           "foundation": 16
         },
         "isOfficialPattern": false
-      }
+      },
+      "audience": "student"
     },
     {
       "id": "up-police-constable-hindi-practice",
@@ -1136,7 +1440,7 @@
       "available": false,
       "marking": {
         "correct": 1,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     },
@@ -1221,7 +1525,7 @@
       "available": false,
       "marking": {
         "correct": 1,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     },
@@ -1306,7 +1610,7 @@
       "available": false,
       "marking": {
         "correct": 1,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     },
@@ -1391,7 +1695,7 @@
       "available": false,
       "marking": {
         "correct": 1,
-        "incorrect": -0.0,
+        "incorrect": 0,
         "unanswered": 0
       }
     }
