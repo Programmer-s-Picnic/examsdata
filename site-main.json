@@ -74,10 +74,10 @@
       "badge": "FOCUSED PREPARATION FOR UTTAR PRADESH EXAMS",
       "titleBefore": "Prepare Smarter for",
       "titleHighlight": "Government Exams",
-      "description": "Take focused practice tests, understand your weak subjects and follow a clear preparation path.",
+      "description": "Take unlimited free diagnostics with complete reports, explore your weak subjects, and follow a focused preparation path.",
       "primaryAction": {
         "label": "Take Free Diagnostic Test",
-        "route": "#/login"
+        "route": "#/diagnostic"
       },
       "secondaryAction": {
         "label": "Explore Examinations",
@@ -110,14 +110,14 @@
       "diagnostic": {
         "eyebrow": "START WITH CLARITY",
         "title": "Free Constable Diagnostic Test",
-        "description": "Take a short diagnostic test and receive a subject-wise performance report with focus areas.",
+        "description": "Take a free Constable diagnostic as many times as you wish, without registering or logging in. Get a full performance report after every attempt.",
         "facts": [
           "16 questions",
-          "Four subjects",
-          "Instant analysis",
-          "No payment"
+          "Unlimited retakes",
+          "Full reports",
+          "No login required"
         ],
-        "actionLabel": "Take Free Diagnostic Test"
+        "actionLabel": "Take Unlimited Free Diagnostics"
       },
       "how": {
         "eyebrow": "A CLEAR PREPARATION PATH",
@@ -147,9 +147,9 @@
       },
       "finalCta": {
         "title": "Your next test can reveal your next priority.",
-        "description": "Begin with a focused assessment and turn the result into a practical preparation decision.",
+        "description": "Take a free diagnostic whenever you wish; your full result is available without login.",
         "label": "Start preparing",
-        "route": "#/login"
+        "route": "#/diagnostic"
       }
     },
     "login": {
