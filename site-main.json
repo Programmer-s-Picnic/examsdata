@@ -74,7 +74,7 @@
       "badge": "FOCUSED PREPARATION FOR UTTAR PRADESH EXAMS",
       "titleBefore": "Prepare Smarter for",
       "titleHighlight": "Government Exams",
-      "description": "Take unlimited free diagnostics with complete reports, explore your weak subjects, and follow a focused preparation path.",
+      "description": "Take unlimited free diagnostics with complete reports, shown once and never stored for guests. Explore your weak subjects and prepare with practice sessions.",
       "primaryAction": {
         "label": "Take Free Diagnostic Test",
         "route": "#/diagnostic"
@@ -98,8 +98,8 @@
           "label": "Practice questions"
         },
         {
-          "value": "100%",
-          "label": "Attempts autosaved"
+          "value": "0",
+          "label": "Guest results stored"
         }
       ],
       "exams": {
@@ -110,11 +110,12 @@
       "diagnostic": {
         "eyebrow": "START WITH CLARITY",
         "title": "Free Constable Diagnostic Test",
-        "description": "Take a free Constable diagnostic as many times as you wish, without registering or logging in. Get a full performance report after every attempt.",
+        "description": "Take the free diagnostic as often as you wish without logging in. View your full report and answer review immediately; nothing is saved for guests.",
         "facts": [
           "16 questions",
           "Unlimited retakes",
           "Full reports",
+          "Nothing saved for guests",
           "No login required"
         ],
         "actionLabel": "Take Unlimited Free Diagnostics"
