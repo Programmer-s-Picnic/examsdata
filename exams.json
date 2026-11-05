@@ -31,6 +31,10 @@
         {
           "label": "Official UPPRPB notices",
           "url": "https://uppbpb.gov.in/Home/Notice"
+        },
+        {
+          "label": "Official 5 Jan 2026 age-relaxation corrigendum (Recruitment 2025 only)",
+          "url": "https://uppbpb.gov.in/FilesUploaded/Notice/20260105182150533dbb2e665-07ea-428e-972a-9f75e7701fcf.pdf"
         }
       ],
       "verifiedAt": "2026-11-05",
@@ -169,7 +173,31 @@
           "focus": "Final revision",
           "activities": "Take original 150-question mocks B and C, revise notes, practice OMR marking and review official notices"
         }
-      ]
+      ],
+      "recruitment2025": {
+        "noticeDate": "2025-12-31",
+        "posts": 32679,
+        "status": "Final selection results published 14 October 2026",
+        "examDates": "8–10 June 2026",
+        "educationalQualification": "Intermediate / Class 12 or equivalent from a legally established or government-recognised board; appearing candidates were ineligible under the 2025 notice",
+        "fee": {
+          "generalEwsObcINR": 500,
+          "scStINR": 400
+        },
+        "ageAsOf": "2025-07-01",
+        "oneTimeUpperAgeRelaxationYears": 3,
+        "ageAfterCorrigendum": {
+          "maleGeneralEws": "18–25 years",
+          "femaleGeneralEws": "18–28 years",
+          "maleObcScSt": "18–30 years",
+          "femaleObcScSt": "18–33 years"
+        },
+        "note": "These ages include the one-time three-year 05-01-2026 relaxation for recruitment 2025, plus five years for eligible SC/ST/OBC applicants. Age boundaries and extra rules differ for other groups and future recruitments.",
+        "applicationPeriod": "31 December 2025 to 30 January 2026",
+        "payMatrix": "Level 3, ₹21,700–₹69,100 per month (basic pay matrix; allowances separate)",
+        "applicationSource": "https://uppbpb.gov.in/FilesUploaded/Notice/CONSTABLE-VIGYAPTIc7be0cc8-3365-471e-9237-447c528d341a.pdf",
+        "ageCorrigendumSource": "https://uppbpb.gov.in/FilesUploaded/Notice/20260105182150533dbb2e665-07ea-428e-972a-9f75e7701fcf.pdf"
+      }
     },
     {
       "id": "upsssc-pet",
