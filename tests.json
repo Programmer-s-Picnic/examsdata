@@ -1698,6 +1698,4218 @@
         "incorrect": 0,
         "unanswered": 0
       }
+    },
+    {
+      "id": "topic-seed-up-police-synonyms",
+      "title": "UP Police · पर्यायवाची शब्द · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "General Hindi",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-synonyms-q01",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'अग्नि' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "अनल",
+            "नीर",
+            "अरण्य",
+            "गिरि"
+          ],
+          "correctOption": 0,
+          "explanation": "'अनल' शब्द 'अग्नि' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q02",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'आकाश' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "वसुंधरा",
+            "गगन",
+            "समीर",
+            "नरेश"
+          ],
+          "correctOption": 1,
+          "explanation": "'गगन' शब्द 'आकाश' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q03",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'कमल' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "शशि",
+            "सरिता",
+            "पंकज",
+            "निशा"
+          ],
+          "correctOption": 2,
+          "explanation": "'पंकज' शब्द 'कमल' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q04",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'सूर्य' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "अरण्य",
+            "गिरि",
+            "नयन",
+            "दिनकर"
+          ],
+          "correctOption": 3,
+          "explanation": "'दिनकर' शब्द 'सूर्य' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q05",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'जल' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "नीर",
+            "समीर",
+            "नरेश",
+            "सागर"
+          ],
+          "correctOption": 0,
+          "explanation": "'नीर' शब्द 'जल' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q06",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'पृथ्वी' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "सरिता",
+            "वसुंधरा",
+            "निशा",
+            "अनल"
+          ],
+          "correctOption": 1,
+          "explanation": "'वसुंधरा' शब्द 'पृथ्वी' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q07",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'चंद्रमा' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "गिरि",
+            "नयन",
+            "शशि",
+            "गगन"
+          ],
+          "correctOption": 2,
+          "explanation": "'शशि' शब्द 'चंद्रमा' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q08",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'वन' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "नरेश",
+            "सागर",
+            "पंकज",
+            "अरण्य"
+          ],
+          "correctOption": 3,
+          "explanation": "'अरण्य' शब्द 'वन' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q09",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'पवन' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "समीर",
+            "निशा",
+            "अनल",
+            "दिनकर"
+          ],
+          "correctOption": 0,
+          "explanation": "'समीर' शब्द 'पवन' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q10",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'नदी' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "नयन",
+            "सरिता",
+            "गगन",
+            "नीर"
+          ],
+          "correctOption": 1,
+          "explanation": "'सरिता' शब्द 'नदी' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q11",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'पर्वत' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "सागर",
+            "पंकज",
+            "गिरि",
+            "वसुंधरा"
+          ],
+          "correctOption": 2,
+          "explanation": "'गिरि' शब्द 'पर्वत' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q12",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'राजा' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "अनल",
+            "दिनकर",
+            "शशि",
+            "नरेश"
+          ],
+          "correctOption": 3,
+          "explanation": "'नरेश' शब्द 'राजा' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q13",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'रात्रि' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "निशा",
+            "गगन",
+            "नीर",
+            "अरण्य"
+          ],
+          "correctOption": 0,
+          "explanation": "'निशा' शब्द 'रात्रि' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q14",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'आँख' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "पंकज",
+            "नयन",
+            "वसुंधरा",
+            "समीर"
+          ],
+          "correctOption": 1,
+          "explanation": "'नयन' शब्द 'आँख' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-synonyms-q15",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "पर्यायवाची शब्द",
+          "topicName": "पर्यायवाची शब्द",
+          "topicId": "synonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'समुद्र' का पर्यायवाची शब्द चुनिए।",
+          "options": [
+            "दिनकर",
+            "शशि",
+            "सागर",
+            "सरिता"
+          ],
+          "correctOption": 2,
+          "explanation": "'सागर' शब्द 'समुद्र' का समानार्थी है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-antonyms",
+      "title": "UP Police · विलोम शब्द · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "General Hindi",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-antonyms-q01",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'दिन' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "रात",
+            "हार",
+            "अवनति",
+            "शत्रु"
+          ],
+          "correctOption": 0,
+          "explanation": "'रात' का अर्थ 'दिन' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q02",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'लाभ' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "प्रस्थान",
+            "हानि",
+            "दुःख",
+            "परतंत्र"
+          ],
+          "correctOption": 1,
+          "explanation": "'हानि' का अर्थ 'लाभ' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q03",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'सत्य' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "अस्त",
+            "नवीन",
+            "असत्य",
+            "कृपण"
+          ],
+          "correctOption": 2,
+          "explanation": "'असत्य' का अर्थ 'सत्य' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q04",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'जीत' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "अवनति",
+            "शत्रु",
+            "सूक्ष्म",
+            "हार"
+          ],
+          "correctOption": 3,
+          "explanation": "'हार' का अर्थ 'जीत' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q05",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "'आगमन' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "प्रस्थान",
+            "दुःख",
+            "परतंत्र",
+            "अधिक"
+          ],
+          "correctOption": 0,
+          "explanation": "'प्रस्थान' का अर्थ 'आगमन' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q06",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'उदय' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "नवीन",
+            "अस्त",
+            "कृपण",
+            "अंत"
+          ],
+          "correctOption": 1,
+          "explanation": "'अस्त' का अर्थ 'उदय' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q07",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'उन्नति' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "शत्रु",
+            "सूक्ष्म",
+            "अवनति",
+            "रात"
+          ],
+          "correctOption": 2,
+          "explanation": "'अवनति' का अर्थ 'उन्नति' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q08",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'सुख' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "परतंत्र",
+            "अधिक",
+            "हानि",
+            "दुःख"
+          ],
+          "correctOption": 3,
+          "explanation": "'दुःख' का अर्थ 'सुख' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q09",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'प्राचीन' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "नवीन",
+            "कृपण",
+            "अंत",
+            "असत्य"
+          ],
+          "correctOption": 0,
+          "explanation": "'नवीन' का अर्थ 'प्राचीन' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q10",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "'मित्र' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "सूक्ष्म",
+            "शत्रु",
+            "रात",
+            "हार"
+          ],
+          "correctOption": 1,
+          "explanation": "'शत्रु' का अर्थ 'मित्र' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q11",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'स्वतंत्र' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "अधिक",
+            "हानि",
+            "परतंत्र",
+            "प्रस्थान"
+          ],
+          "correctOption": 2,
+          "explanation": "'परतंत्र' का अर्थ 'स्वतंत्र' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q12",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'उदार' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "अंत",
+            "असत्य",
+            "अस्त",
+            "कृपण"
+          ],
+          "correctOption": 3,
+          "explanation": "'कृपण' का अर्थ 'उदार' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q13",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'स्थूल' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "सूक्ष्म",
+            "रात",
+            "हार",
+            "अवनति"
+          ],
+          "correctOption": 0,
+          "explanation": "'सूक्ष्म' का अर्थ 'स्थूल' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q14",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'अल्प' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "हानि",
+            "अधिक",
+            "प्रस्थान",
+            "दुःख"
+          ],
+          "correctOption": 1,
+          "explanation": "'अधिक' का अर्थ 'अल्प' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-antonyms-q15",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "विलोम शब्द",
+          "topicName": "विलोम शब्द",
+          "topicId": "antonyms",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "'आरंभ' का विलोम शब्द कौन-सा है?",
+          "options": [
+            "असत्य",
+            "अस्त",
+            "अंत",
+            "नवीन"
+          ],
+          "correctOption": 2,
+          "explanation": "'अंत' का अर्थ 'आरंभ' के विपरीत है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-spelling",
+      "title": "UP Police · शुद्ध वर्तनी · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "General Hindi",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-spelling-q01",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "आशीर्वाद",
+            "आशिर्वाद",
+            "आशीरवाद",
+            "आशीर्वद"
+          ],
+          "correctOption": 0,
+          "explanation": "'आशीर्वाद' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q02",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "विध्यालय",
+            "विद्यालय",
+            "विद्याल्य",
+            "विधयालय"
+          ],
+          "correctOption": 1,
+          "explanation": "'विद्यालय' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q03",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "आवशकता",
+            "आवश्यक्ता",
+            "आवश्यकता",
+            "आवशयकता"
+          ],
+          "correctOption": 2,
+          "explanation": "'आवश्यकता' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q04",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "व्यवसथा",
+            "व्यवश्था",
+            "व्यवस्ठा",
+            "व्यवस्था"
+          ],
+          "correctOption": 3,
+          "explanation": "'व्यवस्था' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q05",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "स्वास्थ्य",
+            "स्वास्थय",
+            "स्वासथ्य",
+            "स्वास्थ"
+          ],
+          "correctOption": 0,
+          "explanation": "'स्वास्थ्य' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q06",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "सवतंत्रता",
+            "स्वतंत्रता",
+            "स्वतन्तरता",
+            "सवतन्त्रता"
+          ],
+          "correctOption": 1,
+          "explanation": "'स्वतंत्रता' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q07",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "प्रतियोगीता",
+            "प्रतीयोगिता",
+            "प्रतियोगिता",
+            "प्रतियागिता"
+          ],
+          "correctOption": 2,
+          "explanation": "'प्रतियोगिता' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q08",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "अभयास",
+            "अभियास",
+            "अभ्यास्स",
+            "अभ्यास"
+          ],
+          "correctOption": 3,
+          "explanation": "'अभ्यास' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q09",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "वैज्ञानिक",
+            "वेज्ञानिक",
+            "वैग्यानिक",
+            "वैज्ञानीक"
+          ],
+          "correctOption": 0,
+          "explanation": "'वैज्ञानिक' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q10",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "प्रोतसाहन",
+            "प्रोत्साहन",
+            "प्रोत्साहान",
+            "प्रोत्तसाहन"
+          ],
+          "correctOption": 1,
+          "explanation": "'प्रोत्साहन' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q11",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "उपल्बधि",
+            "उपलव्धि",
+            "उपलब्धि",
+            "उपलबधी"
+          ],
+          "correctOption": 2,
+          "explanation": "'उपलब्धि' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q12",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "प्रतिश्ठा",
+            "प्रतीष्ठा",
+            "प्रतिष्ठां",
+            "प्रतिष्ठा"
+          ],
+          "correctOption": 3,
+          "explanation": "'प्रतिष्ठा' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q13",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "परिस्थिति",
+            "परिसथिति",
+            "परीस्थिति",
+            "परिस्तिथि"
+          ],
+          "correctOption": 0,
+          "explanation": "'परिस्थिति' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q14",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "दाइत्व",
+            "दायित्व",
+            "दायीत्व",
+            "दायीत्त्व"
+          ],
+          "correctOption": 1,
+          "explanation": "'दायित्व' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-spelling-q15",
+          "subject": "General Hindi",
+          "subjectId": "hindi",
+          "topic": "शुद्ध वर्तनी",
+          "topicName": "शुद्ध वर्तनी",
+          "topicId": "spelling",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "निम्न में से शुद्ध वर्तनी वाला शब्द चुनिए।",
+          "options": [
+            "अनूशासन",
+            "अनुशाशन",
+            "अनुशासन",
+            "अनुसासन"
+          ],
+          "correctOption": 2,
+          "explanation": "'अनुशासन' की वर्तनी सही है; अन्य विकल्पों में अक्षर अथवा मात्रा की त्रुटि है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-constitution",
+      "title": "UP Police · भारतीय संविधान · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "General Knowledge",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-constitution-q01",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "भारतीय संविधान कब लागू हुआ?",
+          "options": [
+            "26 जनवरी 1950",
+            "15 अगस्त 1947",
+            "26 नवंबर 1949",
+            "2 अक्टूबर 1950"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: 26 जनवरी 1950। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q02",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "संविधान सभा के स्थायी अध्यक्ष कौन थे?",
+          "options": [
+            "डॉ. बी. आर. आंबेडकर",
+            "डॉ. राजेंद्र प्रसाद",
+            "जवाहरलाल नेहरू",
+            "सरदार पटेल"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: डॉ. राजेंद्र प्रसाद। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q03",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "संविधान की प्रारूप समिति के अध्यक्ष कौन थे?",
+          "options": [
+            "डॉ. राजेंद्र प्रसाद",
+            "के. एम. मुंशी",
+            "डॉ. बी. आर. आंबेडकर",
+            "मौलाना आजाद"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: डॉ. बी. आर. आंबेडकर। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q04",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "भारतीय संविधान में मौलिक अधिकार किस भाग में हैं?",
+          "options": [
+            "भाग I",
+            "भाग II",
+            "भाग IV",
+            "भाग III"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: भाग III। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q05",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "राज्य के नीति निर्देशक तत्व किस भाग में हैं?",
+          "options": [
+            "भाग IV",
+            "भाग II",
+            "भाग III",
+            "भाग V"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: भाग IV। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q06",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारतीय संविधान में मौलिक कर्तव्यों का उल्लेख किस अनुच्छेद में है?",
+          "options": [
+            "अनुच्छेद 21",
+            "अनुच्छेद 51A",
+            "अनुच्छेद 32",
+            "अनुच्छेद 368"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: अनुच्छेद 51A। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q07",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारतीय संसद के दो सदन कौन-से हैं?",
+          "options": [
+            "विधानसभा और परिषद",
+            "लोकसभा और विधानसभा",
+            "लोकसभा और राज्यसभा",
+            "राज्यसभा और ग्रामसभा"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: लोकसभा और राज्यसभा। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q08",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारत के राष्ट्रपति का सामान्य कार्यकाल कितना है?",
+          "options": [
+            "3 वर्ष",
+            "4 वर्ष",
+            "6 वर्ष",
+            "5 वर्ष"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: 5 वर्ष। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q09",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "राष्ट्रीय आपातकाल से संबंधित अनुच्छेद कौन-सा है?",
+          "options": [
+            "अनुच्छेद 352",
+            "अनुच्छेद 280",
+            "अनुच्छेद 324",
+            "अनुच्छेद 368"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: अनुच्छेद 352। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q10",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "संविधान का अनुच्छेद 21 मुख्यतः किस अधिकार का संरक्षण करता है?",
+          "options": [
+            "संपत्ति की विरासत",
+            "जीवन और व्यक्तिगत स्वतंत्रता",
+            "संसद में मतदान",
+            "राज्यपाल की नियुक्ति"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: जीवन और व्यक्तिगत स्वतंत्रता। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q11",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "भारत के निर्वाचन आयोग से संबंधित अनुच्छेद कौन-सा है?",
+          "options": [
+            "अनुच्छेद 280",
+            "अनुच्छेद 352",
+            "अनुच्छेद 324",
+            "अनुच्छेद 51A"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: अनुच्छेद 324। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q12",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "संविधान संशोधन की प्रक्रिया किस अनुच्छेद में है?",
+          "options": [
+            "अनुच्छेद 14",
+            "अनुच्छेद 19",
+            "अनुच्छेद 32",
+            "अनुच्छेद 368"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: अनुच्छेद 368। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q13",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "भारत में GST से जुड़ा प्रमुख संवैधानिक संशोधन कौन-सा है?",
+          "options": [
+            "101वाँ संशोधन",
+            "42वाँ संशोधन",
+            "61वाँ संशोधन",
+            "73वाँ संशोधन"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: 101वाँ संशोधन। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q14",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "वित्त आयोग की व्यवस्था किस अनुच्छेद में है?",
+          "options": [
+            "अनुच्छेद 324",
+            "अनुच्छेद 280",
+            "अनुच्छेद 352",
+            "अनुच्छेद 368"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: अनुच्छेद 280। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-constitution-q15",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारतीय संविधान",
+          "topicName": "भारतीय संविधान",
+          "topicId": "constitution",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "मतदान की न्यूनतम आयु 21 से 18 वर्ष करने वाला संशोधन कौन-सा था?",
+          "options": [
+            "42वाँ संशोधन",
+            "44वाँ संशोधन",
+            "61वाँ संशोधन",
+            "86वाँ संशोधन"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: 61वाँ संशोधन। यह भारतीय संविधान से संबंधित स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-modern-history",
+      "title": "UP Police · आधुनिक भारतीय इतिहास · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "General Knowledge",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-modern-history-q01",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "1857 का व्यापक विद्रोह किस वर्ष आरंभ हुआ?",
+          "options": [
+            "1857",
+            "1757",
+            "1885",
+            "1905"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: 1857। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q02",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "महात्मा गांधी ने दांडी यात्रा किस वर्ष शुरू की?",
+          "options": [
+            "1919",
+            "1930",
+            "1920",
+            "1942"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: 1930। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q03",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ?",
+          "options": [
+            "1930",
+            "1935",
+            "1942",
+            "1947"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: 1942। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q04",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "जलियाँवाला बाग हत्याकांड किस वर्ष हुआ?",
+          "options": [
+            "1905",
+            "1928",
+            "1942",
+            "1919"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: 1919। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q05",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "असहयोग आंदोलन किस वर्ष प्रारंभ हुआ?",
+          "options": [
+            "1920",
+            "1905",
+            "1911",
+            "1935"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: 1920। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q06",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "साइमन कमीशन भारत कब आया?",
+          "options": [
+            "1919",
+            "1928",
+            "1930",
+            "1946"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: 1928। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q07",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई?",
+          "options": [
+            "1857",
+            "1905",
+            "1885",
+            "1919"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: 1885। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q08",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारतीय राष्ट्रीय कांग्रेस के प्रथम अध्यक्ष कौन थे?",
+          "options": [
+            "दादाभाई नौरोजी",
+            "बाल गंगाधर तिलक",
+            "महात्मा गांधी",
+            "डब्ल्यू. सी. बनर्जी"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: डब्ल्यू. सी. बनर्जी। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q09",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारतीय राष्ट्रीय कांग्रेस का पहला अधिवेशन किस शहर में हुआ?",
+          "options": [
+            "बंबई (मुंबई)",
+            "कलकत्ता (कोलकाता)",
+            "लाहौर",
+            "इलाहाबाद (प्रयागराज)"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: बंबई (मुंबई)। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q10",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "चंपारण सत्याग्रह किस वर्ष हुआ?",
+          "options": [
+            "1905",
+            "1917",
+            "1922",
+            "1930"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: 1917। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q11",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "महात्मा गांधी दक्षिण अफ्रीका से भारत किस वर्ष लौटे?",
+          "options": [
+            "1905",
+            "1919",
+            "1915",
+            "1925"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: 1915। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q12",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "बंगाल विभाजन और स्वदेशी आंदोलन का प्रमुख वर्ष कौन-सा है?",
+          "options": [
+            "1885",
+            "1917",
+            "1930",
+            "1905"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: 1905। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q13",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "पूना समझौता किस वर्ष हुआ?",
+          "options": [
+            "1932",
+            "1916",
+            "1920",
+            "1942"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: 1932। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q14",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "लखनऊ समझौता (कांग्रेस और मुस्लिम लीग) किस वर्ष हुआ?",
+          "options": [
+            "1905",
+            "1916",
+            "1928",
+            "1946"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: 1916। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-modern-history-q15",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "आधुनिक भारतीय इतिहास",
+          "topicName": "आधुनिक भारतीय इतिहास",
+          "topicId": "modern-history",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "आज़ाद हिंद फ़ौज का नेतृत्व 1943 में किसने संभाला?",
+          "options": [
+            "भगत सिंह",
+            "राजगुरु",
+            "सुभाष चंद्र बोस",
+            "लाला लाजपत राय"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: सुभाष चंद्र बोस। यह भारतीय स्वतंत्रता आंदोलन के इतिहास का महत्वपूर्ण तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-geography",
+      "title": "UP Police · भारत का भूगोल · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "General Knowledge",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-geography-q01",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+          "options": [
+            "राजस्थान",
+            "उत्तर प्रदेश",
+            "मध्य प्रदेश",
+            "महाराष्ट्र"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: राजस्थान। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q02",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "उत्तर प्रदेश की राजधानी क्या है?",
+          "options": [
+            "कानपुर",
+            "लखनऊ",
+            "प्रयागराज",
+            "वाराणसी"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: लखनऊ। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q03",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "वाराणसी नगर किस प्रमुख नदी के किनारे है?",
+          "options": [
+            "यमुना",
+            "गोमती",
+            "गंगा",
+            "घाघरा"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: गंगा। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q04",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "भारत का मानक देशांतर कौन-सा है?",
+          "options": [
+            "68°30′ पूर्व",
+            "75°30′ पूर्व",
+            "90°30′ पूर्व",
+            "82°30′ पूर्व"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: 82°30′ पूर्व। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q05",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "कर्क रेखा लगभग किस अक्षांश पर स्थित है?",
+          "options": [
+            "23½° उत्तर",
+            "0°",
+            "66½° उत्तर",
+            "23½° दक्षिण"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: 23½° उत्तर। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q06",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारत के पश्चिम में कौन-सा सागर है?",
+          "options": [
+            "लाल सागर",
+            "अरब सागर",
+            "बंगाल की खाड़ी",
+            "दक्षिण चीन सागर"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: अरब सागर। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q07",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "भारत के पूर्व में कौन-सी खाड़ी है?",
+          "options": [
+            "अरब सागर",
+            "फ़ारस की खाड़ी",
+            "बंगाल की खाड़ी",
+            "अदन की खाड़ी"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: बंगाल की खाड़ी। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q08",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "सुंदरबन किस नदी तंत्र के डेल्टा क्षेत्र से संबंधित हैं?",
+          "options": [
+            "नर्मदा-ताप्ती",
+            "कावेरी",
+            "गोदावरी-कृष्णा",
+            "गंगा-ब्रह्मपुत्र"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: गंगा-ब्रह्मपुत्र। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q09",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "काली मिट्टी किस फसल के लिए विशेष रूप से उपयुक्त मानी जाती है?",
+          "options": [
+            "कपास",
+            "चाय",
+            "जूट",
+            "रबर"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: कपास। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q10",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "पश्चिमी घाट को किस अन्य नाम से जाना जाता है?",
+          "options": [
+            "अरावली",
+            "सह्याद्रि",
+            "शिवालिक",
+            "विंध्य"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: सह्याद्रि। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q11",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "चिलिका झील किस राज्य में स्थित है?",
+          "options": [
+            "बिहार",
+            "राजस्थान",
+            "ओडिशा",
+            "असम"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: ओडिशा। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q12",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "लोकटक झील किस राज्य में है?",
+          "options": [
+            "केरल",
+            "ओडिशा",
+            "गुजरात",
+            "मणिपुर"
+          ],
+          "correctOption": 3,
+          "explanation": "सही उत्तर: मणिपुर। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q13",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "थार मरुस्थल का प्रमुख भाग किस भारतीय राज्य में है?",
+          "options": [
+            "राजस्थान",
+            "तमिलनाडु",
+            "बिहार",
+            "पश्चिम बंगाल"
+          ],
+          "correctOption": 0,
+          "explanation": "सही उत्तर: राजस्थान। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q14",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "नर्मदा नदी मुख्यतः किस दिशा में बहकर समुद्र में मिलती है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर",
+            "दक्षिण"
+          ],
+          "correctOption": 1,
+          "explanation": "सही उत्तर: पश्चिम। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-geography-q15",
+          "subject": "General Knowledge",
+          "subjectId": "gk",
+          "topic": "भारत का भूगोल",
+          "topicName": "भारत का भूगोल",
+          "topicId": "geography",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "मानसून में भारत को अधिकांश वर्षा किस मौसमी पवन से मिलती है?",
+          "options": [
+            "उत्तर-पूर्व शीत पवन",
+            "स्थायी पछुआ पवन",
+            "दक्षिण-पश्चिम मानसून",
+            "ध्रुवीय पूर्वी पवन"
+          ],
+          "correctOption": 2,
+          "explanation": "सही उत्तर: दक्षिण-पश्चिम मानसून। यह भारतीय भूगोल का स्थापित तथ्य है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-percentage",
+      "title": "UP Police · प्रतिशत · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "Numerical and Mental Ability",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-percentage-q01",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "120 का 10% कितना होगा?",
+          "options": [
+            "12",
+            "13",
+            "14",
+            "11"
+          ],
+          "correctOption": 0,
+          "explanation": "10% = 10/100; इसलिए 120 × 10/100 = 12।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q02",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "250 का 20% कितना होगा?",
+          "options": [
+            "51",
+            "50",
+            "52",
+            "49"
+          ],
+          "correctOption": 1,
+          "explanation": "20% = 20/100; इसलिए 250 × 20/100 = 50।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q03",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "60 का 50% कितना होगा?",
+          "options": [
+            "31",
+            "32",
+            "30",
+            "29"
+          ],
+          "correctOption": 2,
+          "explanation": "50% = 50/100; इसलिए 60 × 50/100 = 30।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q04",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "90 का 30% कितना होगा?",
+          "options": [
+            "28",
+            "29",
+            "26",
+            "27"
+          ],
+          "correctOption": 3,
+          "explanation": "30% = 30/100; इसलिए 90 × 30/100 = 27।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q05",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "400 का 15% कितना होगा?",
+          "options": [
+            "60",
+            "61",
+            "62",
+            "59"
+          ],
+          "correctOption": 0,
+          "explanation": "15% = 15/100; इसलिए 400 × 15/100 = 60।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q06",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "200 में 15% की वृद्धि करने पर नया मान क्या होगा?",
+          "options": [
+            "231",
+            "230",
+            "232",
+            "229"
+          ],
+          "correctOption": 1,
+          "explanation": "वृद्धि = 200 × 15/100 = 30; नया मान = 200 + 30 = 230।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q07",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "160 में 25% की वृद्धि करने पर नया मान क्या होगा?",
+          "options": [
+            "201",
+            "202",
+            "200",
+            "199"
+          ],
+          "correctOption": 2,
+          "explanation": "वृद्धि = 160 × 25/100 = 40; नया मान = 160 + 40 = 200।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q08",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "500 में 12% की वृद्धि करने पर नया मान क्या होगा?",
+          "options": [
+            "561",
+            "562",
+            "559",
+            "560"
+          ],
+          "correctOption": 3,
+          "explanation": "वृद्धि = 500 × 12/100 = 60; नया मान = 500 + 60 = 560।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q09",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "80 में 35% की वृद्धि करने पर नया मान क्या होगा?",
+          "options": [
+            "108",
+            "109",
+            "110",
+            "107"
+          ],
+          "correctOption": 0,
+          "explanation": "वृद्धि = 80 × 35/100 = 28; नया मान = 80 + 28 = 108।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q10",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "240 में 10% की वृद्धि करने पर नया मान क्या होगा?",
+          "options": [
+            "265",
+            "264",
+            "266",
+            "263"
+          ],
+          "correctOption": 1,
+          "explanation": "वृद्धि = 240 × 10/100 = 24; नया मान = 240 + 24 = 264।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q11",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "किसी संख्या का 30% = 72 है। मूल संख्या क्या है?",
+          "options": [
+            "241",
+            "242",
+            "240",
+            "239"
+          ],
+          "correctOption": 2,
+          "explanation": "यदि x का 30% = 72 है, तो x = 72 × 100/30 = 240।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q12",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "किसी संख्या का 25% = 85 है। मूल संख्या क्या है?",
+          "options": [
+            "341",
+            "342",
+            "339",
+            "340"
+          ],
+          "correctOption": 3,
+          "explanation": "यदि x का 25% = 85 है, तो x = 85 × 100/25 = 340।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q13",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "किसी संख्या का 40% = 144 है। मूल संख्या क्या है?",
+          "options": [
+            "360",
+            "361",
+            "362",
+            "359"
+          ],
+          "correctOption": 0,
+          "explanation": "यदि x का 40% = 144 है, तो x = 144 × 100/40 = 360।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q14",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "किसी संख्या का 15% = 90 है। मूल संख्या क्या है?",
+          "options": [
+            "601",
+            "600",
+            "602",
+            "599"
+          ],
+          "correctOption": 1,
+          "explanation": "यदि x का 15% = 90 है, तो x = 90 × 100/15 = 600।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-percentage-q15",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "प्रतिशत",
+          "topicName": "प्रतिशत",
+          "topicId": "percentage",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "किसी संख्या का 12% = 48 है। मूल संख्या क्या है?",
+          "options": [
+            "401",
+            "402",
+            "400",
+            "399"
+          ],
+          "correctOption": 2,
+          "explanation": "यदि x का 12% = 48 है, तो x = 48 × 100/12 = 400।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-ratio",
+      "title": "UP Police · अनुपात व समानुपात · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "Numerical and Mental Ability",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-ratio-q01",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "दो राशियों का अनुपात 2:3 है और उनका योग 50 है। पहली राशि क्या है?",
+          "options": [
+            "20",
+            "21",
+            "22",
+            "19"
+          ],
+          "correctOption": 0,
+          "explanation": "कुल भाग = 5; पहली राशि = 50 × 2/5 = 20।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q02",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "दो राशियों का अनुपात 3:4 है और उनका योग 84 है। पहली राशि क्या है?",
+          "options": [
+            "37",
+            "36",
+            "38",
+            "35"
+          ],
+          "correctOption": 1,
+          "explanation": "कुल भाग = 7; पहली राशि = 84 × 3/7 = 36।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q03",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "दो राशियों का अनुपात 4:5 है और उनका योग 81 है। पहली राशि क्या है?",
+          "options": [
+            "37",
+            "38",
+            "36",
+            "35"
+          ],
+          "correctOption": 2,
+          "explanation": "कुल भाग = 9; पहली राशि = 81 × 4/9 = 36।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q04",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "दो राशियों का अनुपात 5:7 है और उनका योग 96 है। पहली राशि क्या है?",
+          "options": [
+            "41",
+            "42",
+            "39",
+            "40"
+          ],
+          "correctOption": 3,
+          "explanation": "कुल भाग = 12; पहली राशि = 96 × 5/12 = 40।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q05",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "दो राशियों का अनुपात 7:8 है और उनका योग 120 है। पहली राशि क्या है?",
+          "options": [
+            "56",
+            "57",
+            "58",
+            "55"
+          ],
+          "correctOption": 0,
+          "explanation": "कुल भाग = 15; पहली राशि = 120 × 7/15 = 56।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q06",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "A:B = 2:5 और B = 45 है। A का मान ज्ञात करें।",
+          "options": [
+            "19",
+            "18",
+            "20",
+            "17"
+          ],
+          "correctOption": 1,
+          "explanation": "A = B × 2/5 = 45 × 2/5 = 18।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q07",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "A:B = 3:7 और B = 63 है। A का मान ज्ञात करें।",
+          "options": [
+            "28",
+            "29",
+            "27",
+            "26"
+          ],
+          "correctOption": 2,
+          "explanation": "A = B × 3/7 = 63 × 3/7 = 27।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q08",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "A:B = 4:9 और B = 81 है। A का मान ज्ञात करें।",
+          "options": [
+            "37",
+            "38",
+            "35",
+            "36"
+          ],
+          "correctOption": 3,
+          "explanation": "A = B × 4/9 = 81 × 4/9 = 36।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q09",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "A:B = 5:8 और B = 72 है। A का मान ज्ञात करें।",
+          "options": [
+            "45",
+            "46",
+            "47",
+            "44"
+          ],
+          "correctOption": 0,
+          "explanation": "A = B × 5/8 = 72 × 5/8 = 45।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q10",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "A:B = 7:11 और B = 99 है। A का मान ज्ञात करें।",
+          "options": [
+            "64",
+            "63",
+            "65",
+            "62"
+          ],
+          "correctOption": 1,
+          "explanation": "A = B × 7/11 = 99 × 7/11 = 63।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q11",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "A:B = 2:3 और B:C = 4:5 हैं। यदि C = 75 है, तो A क्या है?",
+          "options": [
+            "41",
+            "42",
+            "40",
+            "39"
+          ],
+          "correctOption": 2,
+          "explanation": "पहले B = C × 4/5; फिर A = B × 2/3 = 40।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q12",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "A:B = 3:4 और B:C = 5:6 हैं। यदि C = 96 है, तो A क्या है?",
+          "options": [
+            "61",
+            "62",
+            "59",
+            "60"
+          ],
+          "correctOption": 3,
+          "explanation": "पहले B = C × 5/6; फिर A = B × 3/4 = 60।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q13",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "A:B = 4:5 और B:C = 3:7 हैं। यदि C = 105 है, तो A क्या है?",
+          "options": [
+            "36",
+            "37",
+            "38",
+            "35"
+          ],
+          "correctOption": 0,
+          "explanation": "पहले B = C × 3/7; फिर A = B × 4/5 = 36।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q14",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "A:B = 5:6 और B:C = 7:8 हैं। यदि C = 96 है, तो A क्या है?",
+          "options": [
+            "71",
+            "70",
+            "72",
+            "69"
+          ],
+          "correctOption": 1,
+          "explanation": "पहले B = C × 7/8; फिर A = B × 5/6 = 70।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-ratio-q15",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "अनुपात व समानुपात",
+          "topicName": "अनुपात व समानुपात",
+          "topicId": "ratio",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "A:B = 2:7 और B:C = 3:5 हैं। यदि C = 70 है, तो A क्या है?",
+          "options": [
+            "13",
+            "14",
+            "12",
+            "11"
+          ],
+          "correctOption": 2,
+          "explanation": "पहले B = C × 3/5; फिर A = B × 2/7 = 12।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-simple-interest",
+      "title": "UP Police · साधारण ब्याज · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "Numerical and Mental Ability",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-simple-interest-q01",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "1000 रुपये पर 5% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+          "options": [
+            "100",
+            "101",
+            "102",
+            "99"
+          ],
+          "correctOption": 0,
+          "explanation": "साधारण ब्याज = मूलधन × दर × समय /100 = 1000 × 5 × 2/100 = 100 रुपये।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q02",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "2000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?",
+          "options": [
+            "361",
+            "360",
+            "362",
+            "359"
+          ],
+          "correctOption": 1,
+          "explanation": "साधारण ब्याज = मूलधन × दर × समय /100 = 2000 × 6 × 3/100 = 360 रुपये।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q03",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "1500 रुपये पर 4% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?",
+          "options": [
+            "241",
+            "242",
+            "240",
+            "239"
+          ],
+          "correctOption": 2,
+          "explanation": "साधारण ब्याज = मूलधन × दर × समय /100 = 1500 × 4 × 4/100 = 240 रुपये।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q04",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "2500 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+          "options": [
+            "401",
+            "402",
+            "399",
+            "400"
+          ],
+          "correctOption": 3,
+          "explanation": "साधारण ब्याज = मूलधन × दर × समय /100 = 2500 × 8 × 2/100 = 400 रुपये।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q05",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "3000 रुपये पर 7% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?",
+          "options": [
+            "630",
+            "631",
+            "632",
+            "629"
+          ],
+          "correctOption": 0,
+          "explanation": "साधारण ब्याज = मूलधन × दर × समय /100 = 3000 × 7 × 3/100 = 630 रुपये।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q06",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "6% वार्षिक साधारण ब्याज पर 2 वर्ष में ब्याज 120 रुपये है। मूलधन क्या है?",
+          "options": [
+            "1001",
+            "1000",
+            "1002",
+            "999"
+          ],
+          "correctOption": 1,
+          "explanation": "मूलधन = ब्याज × 100/(दर × समय) = 120 × 100/(6 × 2) = 1000।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q07",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "5% वार्षिक साधारण ब्याज पर 3 वर्ष में ब्याज 300 रुपये है। मूलधन क्या है?",
+          "options": [
+            "2001",
+            "2002",
+            "2000",
+            "1999"
+          ],
+          "correctOption": 2,
+          "explanation": "मूलधन = ब्याज × 100/(दर × समय) = 300 × 100/(5 × 3) = 2000।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q08",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "9% वार्षिक साधारण ब्याज पर 2 वर्ष में ब्याज 360 रुपये है। मूलधन क्या है?",
+          "options": [
+            "2001",
+            "2002",
+            "1999",
+            "2000"
+          ],
+          "correctOption": 3,
+          "explanation": "मूलधन = ब्याज × 100/(दर × समय) = 360 × 100/(9 × 2) = 2000।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q09",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "8% वार्षिक साधारण ब्याज पर 3 वर्ष में ब्याज 480 रुपये है। मूलधन क्या है?",
+          "options": [
+            "2000",
+            "2001",
+            "2002",
+            "1999"
+          ],
+          "correctOption": 0,
+          "explanation": "मूलधन = ब्याज × 100/(दर × समय) = 480 × 100/(8 × 3) = 2000।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q10",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "10% वार्षिक साधारण ब्याज पर 2 वर्ष में ब्याज 600 रुपये है। मूलधन क्या है?",
+          "options": [
+            "3001",
+            "3000",
+            "3002",
+            "2999"
+          ],
+          "correctOption": 1,
+          "explanation": "मूलधन = ब्याज × 100/(दर × समय) = 600 × 100/(10 × 2) = 3000।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q11",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "1500 रुपये पर 6% वार्षिक साधारण ब्याज से 3 वर्ष बाद कुल राशि कितनी होगी?",
+          "options": [
+            "1771",
+            "1772",
+            "1770",
+            "1769"
+          ],
+          "correctOption": 2,
+          "explanation": "ब्याज = 1500 × 6 × 3/100 = 270; कुल राशि = 1500 + 270 = 1770।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q12",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "2400 रुपये पर 5% वार्षिक साधारण ब्याज से 4 वर्ष बाद कुल राशि कितनी होगी?",
+          "options": [
+            "2881",
+            "2882",
+            "2879",
+            "2880"
+          ],
+          "correctOption": 3,
+          "explanation": "ब्याज = 2400 × 5 × 4/100 = 480; कुल राशि = 2400 + 480 = 2880।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q13",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "3000 रुपये पर 8% वार्षिक साधारण ब्याज से 2 वर्ष बाद कुल राशि कितनी होगी?",
+          "options": [
+            "3480",
+            "3481",
+            "3482",
+            "3479"
+          ],
+          "correctOption": 0,
+          "explanation": "ब्याज = 3000 × 8 × 2/100 = 480; कुल राशि = 3000 + 480 = 3480।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q14",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "4000 रुपये पर 7% वार्षिक साधारण ब्याज से 3 वर्ष बाद कुल राशि कितनी होगी?",
+          "options": [
+            "4841",
+            "4840",
+            "4842",
+            "4839"
+          ],
+          "correctOption": 1,
+          "explanation": "ब्याज = 4000 × 7 × 3/100 = 840; कुल राशि = 4000 + 840 = 4840।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-simple-interest-q15",
+          "subject": "Numerical and Mental Ability",
+          "subjectId": "numerical",
+          "topic": "साधारण ब्याज",
+          "topicName": "साधारण ब्याज",
+          "topicId": "simple-interest",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "5000 रुपये पर 6% वार्षिक साधारण ब्याज से 5 वर्ष बाद कुल राशि कितनी होगी?",
+          "options": [
+            "6501",
+            "6502",
+            "6500",
+            "6499"
+          ],
+          "correctOption": 2,
+          "explanation": "ब्याज = 5000 × 6 × 5/100 = 1500; कुल राशि = 5000 + 1500 = 6500।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-number-series",
+      "title": "UP Police · संख्या श्रृंखला · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "Mental Aptitude, I.Q. and Reasoning Ability",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-number-series-q01",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "अगली संख्या चुनिए: 2, 5, 8, 11, 14, ?",
+          "options": [
+            "17",
+            "18",
+            "19",
+            "16"
+          ],
+          "correctOption": 0,
+          "explanation": "हर पद में 3 जोड़ा जाता है। 14 + 3 = 17।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q02",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "अगली संख्या चुनिए: 5, 9, 13, 17, 21, ?",
+          "options": [
+            "26",
+            "25",
+            "27",
+            "24"
+          ],
+          "correctOption": 1,
+          "explanation": "हर पद में 4 जोड़ा जाता है। 21 + 4 = 25।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q03",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "अगली संख्या चुनिए: 10, 15, 20, 25, 30, ?",
+          "options": [
+            "36",
+            "37",
+            "35",
+            "34"
+          ],
+          "correctOption": 2,
+          "explanation": "हर पद में 5 जोड़ा जाता है। 30 + 5 = 35।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q04",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "अगली संख्या चुनिए: 7, 14, 21, 28, 35, ?",
+          "options": [
+            "43",
+            "44",
+            "41",
+            "42"
+          ],
+          "correctOption": 3,
+          "explanation": "हर पद में 7 जोड़ा जाता है। 35 + 7 = 42।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q05",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "अगली संख्या चुनिए: 11, 20, 29, 38, 47, ?",
+          "options": [
+            "56",
+            "57",
+            "58",
+            "55"
+          ],
+          "correctOption": 0,
+          "explanation": "हर पद में 9 जोड़ा जाता है। 47 + 9 = 56।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q06",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "श्रृंखला का अगला पद बताइए: 1, 4, 9, 16, 25, ?",
+          "options": [
+            "37",
+            "36",
+            "38",
+            "35"
+          ],
+          "correctOption": 1,
+          "explanation": "हर पद का नियम 1 × n² + 0 है। n=6 पर 1 × 36 + 0 = 36।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q07",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "श्रृंखला का अगला पद बताइए: 3, 6, 11, 18, 27, ?",
+          "options": [
+            "39",
+            "40",
+            "38",
+            "37"
+          ],
+          "correctOption": 2,
+          "explanation": "हर पद का नियम 1 × n² + 2 है। n=6 पर 1 × 36 + 2 = 38।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q08",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "श्रृंखला का अगला पद बताइए: 3, 9, 19, 33, 51, ?",
+          "options": [
+            "74",
+            "75",
+            "72",
+            "73"
+          ],
+          "correctOption": 3,
+          "explanation": "हर पद का नियम 2 × n² + 1 है। n=6 पर 2 × 36 + 1 = 73।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q09",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "श्रृंखला का अगला पद बताइए: 5, 11, 21, 35, 53, ?",
+          "options": [
+            "75",
+            "76",
+            "77",
+            "74"
+          ],
+          "correctOption": 0,
+          "explanation": "हर पद का नियम 2 × n² + 3 है। n=6 पर 2 × 36 + 3 = 75।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q10",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "श्रृंखला का अगला पद बताइए: 7, 16, 31, 52, 79, ?",
+          "options": [
+            "113",
+            "112",
+            "114",
+            "111"
+          ],
+          "correctOption": 1,
+          "explanation": "हर पद का नियम 3 × n² + 4 है। n=6 पर 3 × 36 + 4 = 112।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q11",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "इस संख्या श्रृंखला में अगला पद क्या है? 1, 3, 6, 10, 15, ?",
+          "options": [
+            "22",
+            "23",
+            "21",
+            "20"
+          ],
+          "correctOption": 2,
+          "explanation": "अंतर क्रमशः 2, 3, 4, 5, 6 हैं। अगला अंतर 6, इसलिए उत्तर 21।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q12",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "इस संख्या श्रृंखला में अगला पद क्या है? 2, 5, 10, 17, 26, ?",
+          "options": [
+            "38",
+            "39",
+            "36",
+            "37"
+          ],
+          "correctOption": 3,
+          "explanation": "अंतर क्रमशः 3, 5, 7, 9, 11 हैं। अगला अंतर 11, इसलिए उत्तर 37।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q13",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "इस संख्या श्रृंखला में अगला पद क्या है? 3, 7, 14, 24, 37, ?",
+          "options": [
+            "53",
+            "54",
+            "55",
+            "52"
+          ],
+          "correctOption": 0,
+          "explanation": "अंतर क्रमशः 4, 7, 10, 13, 16 हैं। अगला अंतर 16, इसलिए उत्तर 53।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q14",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "इस संख्या श्रृंखला में अगला पद क्या है? 5, 7, 13, 23, 37, ?",
+          "options": [
+            "56",
+            "55",
+            "57",
+            "54"
+          ],
+          "correctOption": 1,
+          "explanation": "अंतर क्रमशः 2, 6, 10, 14, 18 हैं। अगला अंतर 18, इसलिए उत्तर 55।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-number-series-q15",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "संख्या श्रृंखला",
+          "topicName": "संख्या श्रृंखला",
+          "topicId": "number-series",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "इस संख्या श्रृंखला में अगला पद क्या है? 7, 10, 18, 31, 49, ?",
+          "options": [
+            "73",
+            "74",
+            "72",
+            "71"
+          ],
+          "correctOption": 2,
+          "explanation": "अंतर क्रमशः 3, 8, 13, 18, 23 हैं। अगला अंतर 23, इसलिए उत्तर 72।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-direction",
+      "title": "UP Police · दिशा ज्ञान · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "Mental Aptitude, I.Q. and Reasoning Ability",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-direction-q01",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "व्यक्ति पूर्व दिशा में 3 किमी, फिर उत्तर दिशा में 4 किमी चलता है। प्रारंभिक स्थान से उसकी सीधी दूरी कितनी होगी (किमी में)?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "4"
+          ],
+          "correctOption": 0,
+          "explanation": "शुद्ध विस्थापन = (3,4) किमी; दूरी = √(9 + 16) = 5 किमी।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q02",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "व्यक्ति पश्चिम दिशा में 5 किमी, फिर दक्षिण दिशा में 12 किमी चलता है। प्रारंभिक स्थान से उसकी सीधी दूरी कितनी होगी (किमी में)?",
+          "options": [
+            "14",
+            "13",
+            "15",
+            "12"
+          ],
+          "correctOption": 1,
+          "explanation": "शुद्ध विस्थापन = (-5,-12) किमी; दूरी = √(25 + 144) = 13 किमी।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q03",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "व्यक्ति उत्तर दिशा में 6 किमी, फिर पूर्व दिशा में 8 किमी चलता है। प्रारंभिक स्थान से उसकी सीधी दूरी कितनी होगी (किमी में)?",
+          "options": [
+            "11",
+            "12",
+            "10",
+            "9"
+          ],
+          "correctOption": 2,
+          "explanation": "शुद्ध विस्थापन = (8,6) किमी; दूरी = √(64 + 36) = 10 किमी।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q04",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "व्यक्ति दक्षिण दिशा में 8 किमी, फिर पश्चिम दिशा में 15 किमी चलता है। प्रारंभिक स्थान से उसकी सीधी दूरी कितनी होगी (किमी में)?",
+          "options": [
+            "18",
+            "19",
+            "16",
+            "17"
+          ],
+          "correctOption": 3,
+          "explanation": "शुद्ध विस्थापन = (-15,-8) किमी; दूरी = √(225 + 64) = 17 किमी।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q05",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "व्यक्ति पूर्व दिशा में 12 किमी, फिर उत्तर दिशा में 5 किमी चलता है। प्रारंभिक स्थान से उसकी सीधी दूरी कितनी होगी (किमी में)?",
+          "options": [
+            "13",
+            "14",
+            "15",
+            "12"
+          ],
+          "correctOption": 0,
+          "explanation": "शुद्ध विस्थापन = (12,5) किमी; दूरी = √(144 + 25) = 13 किमी।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q06",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "एक व्यक्ति पूर्व दिशा में 7 किमी, फिर उत्तर दिशा में 4 किमी, फिर पश्चिम दिशा में 2 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "उत्तर-पूर्व",
+            "पश्चिम",
+            "उत्तर-पश्चिम"
+          ],
+          "correctOption": 1,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन 5 किमी और उत्तर-दक्षिण का 4 किमी है; इसलिए दिशा उत्तर-पूर्व है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q07",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "एक व्यक्ति उत्तर दिशा में 9 किमी, फिर पश्चिम दिशा में 5 किमी, फिर दक्षिण दिशा में 3 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर-पश्चिम",
+            "उत्तर-पूर्व"
+          ],
+          "correctOption": 2,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन -5 किमी और उत्तर-दक्षिण का 6 किमी है; इसलिए दिशा उत्तर-पश्चिम है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q08",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "एक व्यक्ति दक्षिण दिशा में 8 किमी, फिर पूर्व दिशा में 6 किमी, फिर उत्तर दिशा में 2 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर-पूर्व",
+            "दक्षिण-पूर्व"
+          ],
+          "correctOption": 3,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन 6 किमी और उत्तर-दक्षिण का -6 किमी है; इसलिए दिशा दक्षिण-पूर्व है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q09",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "एक व्यक्ति पश्चिम दिशा में 10 किमी, फिर उत्तर दिशा में 6 किमी, फिर पूर्व दिशा में 4 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "उत्तर-पश्चिम",
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर-पूर्व"
+          ],
+          "correctOption": 0,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन -6 किमी और उत्तर-दक्षिण का 6 किमी है; इसलिए दिशा उत्तर-पश्चिम है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q10",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "एक व्यक्ति उत्तर दिशा में 10 किमी, फिर पूर्व दिशा में 9 किमी, फिर दक्षिण दिशा में 4 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "उत्तर-पूर्व",
+            "पश्चिम",
+            "उत्तर-पश्चिम"
+          ],
+          "correctOption": 1,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन 9 किमी और उत्तर-दक्षिण का 6 किमी है; इसलिए दिशा उत्तर-पूर्व है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q11",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक व्यक्ति पूर्व दिशा में 8 किमी, फिर उत्तर दिशा में 12 किमी, फिर पश्चिम दिशा में 5 किमी, फिर दक्षिण दिशा में 8 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "उत्तर",
+            "दक्षिण",
+            "उत्तर-पूर्व",
+            "पूर्व"
+          ],
+          "correctOption": 2,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन 3 किमी और उत्तर-दक्षिण का 4 किमी है; इसलिए दिशा उत्तर-पूर्व है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q12",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक व्यक्ति पश्चिम दिशा में 14 किमी, फिर उत्तर दिशा में 9 किमी, फिर पूर्व दिशा में 9 किमी, फिर दक्षिण दिशा में 5 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "पूर्व",
+            "पश्चिम",
+            "उत्तर-पूर्व",
+            "उत्तर-पश्चिम"
+          ],
+          "correctOption": 3,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन -5 किमी और उत्तर-दक्षिण का 4 किमी है; इसलिए दिशा उत्तर-पश्चिम है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q13",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक व्यक्ति उत्तर दिशा में 20 किमी, फिर पूर्व दिशा में 15 किमी, फिर दक्षिण दिशा में 8 किमी, फिर पश्चिम दिशा में 10 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "उत्तर-पूर्व",
+            "उत्तर-पश्चिम",
+            "दक्षिण-पूर्व",
+            "दक्षिण-पश्चिम"
+          ],
+          "correctOption": 0,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन 5 किमी और उत्तर-दक्षिण का 12 किमी है; इसलिए दिशा उत्तर-पूर्व है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q14",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक व्यक्ति दक्षिण दिशा में 18 किमी, फिर पश्चिम दिशा में 16 किमी, फिर उत्तर दिशा में 6 किमी, फिर पूर्व दिशा में 7 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "दक्षिण",
+            "दक्षिण-पश्चिम",
+            "पूर्व",
+            "पश्चिम"
+          ],
+          "correctOption": 1,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन -9 किमी और उत्तर-दक्षिण का -12 किमी है; इसलिए दिशा दक्षिण-पश्चिम है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-direction-q15",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "दिशा ज्ञान",
+          "topicName": "दिशा ज्ञान",
+          "topicId": "direction",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक व्यक्ति पूर्व दिशा में 25 किमी, फिर उत्तर दिशा में 16 किमी, फिर पश्चिम दिशा में 10 किमी, फिर दक्षिण दिशा में 8 किमी चलता है। वह शुरूआती स्थान की किस दिशा में है?",
+          "options": [
+            "पश्चिम",
+            "उत्तर-पश्चिम",
+            "उत्तर-पूर्व",
+            "दक्षिण-पूर्व"
+          ],
+          "correctOption": 2,
+          "explanation": "पूर्व-पश्चिम का शुद्ध विस्थापन 15 किमी और उत्तर-दक्षिण का 8 किमी है; इसलिए दिशा उत्तर-पूर्व है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
+    },
+    {
+      "id": "topic-seed-up-police-coding",
+      "title": "UP Police · कोडिंग-डिकोडिंग · Topic Practice",
+      "description": "Original educational questions for testing topic selection, difficulty, instant feedback, saved progress and reports. Not an official or previous-year paper.",
+      "category": "Mental Aptitude, I.Q. and Reasoning Ability",
+      "difficulty": "Mixed",
+      "icon": "book",
+      "examIds": [
+        "up-police"
+      ],
+      "examId": "up-police",
+      "audience": "student",
+      "type": "practice",
+      "topicPracticeOnly": true,
+      "available": true,
+      "topicPracticeSeed": "2026-11-05-v1",
+      "paperVersion": "topic-seed-v1",
+      "patternStatus": "original-practice-not-official",
+      "passPercent": 40,
+      "timing": {
+        "totalSeconds": 900,
+        "questionSeconds": 60,
+        "warningSeconds": 10
+      },
+      "defaultMode": "untimed",
+      "feedbackMode": "per-question",
+      "totalMarks": 15,
+      "negativeMarking": 0,
+      "marking": {
+        "correct": 1,
+        "incorrect": 0,
+        "unanswered": 0
+      },
+      "questions": [
+        {
+          "id": "topic-seed-up-police-coding-q01",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 1 स्थान आगे बढ़ाकर लिखा जाए, तो CAT का कूट क्या होगा?",
+          "options": [
+            "DBU",
+            "ECV",
+            "CAT",
+            "FDW"
+          ],
+          "correctOption": 0,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 1 स्थान आगे करके कूट मिलता है। इसलिए उत्तर DBU है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q02",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 1 स्थान आगे बढ़ाकर लिखा जाए, तो DOG का कूट क्या होगा?",
+          "options": [
+            "FQI",
+            "EPH",
+            "DOG",
+            "GRJ"
+          ],
+          "correctOption": 1,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 1 स्थान आगे करके कूट मिलता है। इसलिए उत्तर EPH है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q03",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 1 स्थान आगे बढ़ाकर लिखा जाए, तो SUN का कूट क्या होगा?",
+          "options": [
+            "UWP",
+            "SUN",
+            "TVO",
+            "VXQ"
+          ],
+          "correctOption": 2,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 1 स्थान आगे करके कूट मिलता है। इसलिए उत्तर TVO है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q04",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 1 स्थान आगे बढ़ाकर लिखा जाए, तो PEN का कूट क्या होगा?",
+          "options": [
+            "RGP",
+            "PEN",
+            "SHQ",
+            "QFO"
+          ],
+          "correctOption": 3,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 1 स्थान आगे करके कूट मिलता है। इसलिए उत्तर QFO है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q05",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Foundation",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 1 स्थान आगे बढ़ाकर लिखा जाए, तो BUS का कूट क्या होगा?",
+          "options": [
+            "CVT",
+            "DWU",
+            "BUS",
+            "EXV"
+          ],
+          "correctOption": 0,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 1 स्थान आगे करके कूट मिलता है। इसलिए उत्तर CVT है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q06",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 2 स्थान आगे बढ़ाकर लिखा जाए, तो MATH का कूट क्या होगा?",
+          "options": [
+            "PDWK",
+            "OCVJ",
+            "NBUI",
+            "QEXL"
+          ],
+          "correctOption": 1,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 2 स्थान आगे करके कूट मिलता है। इसलिए उत्तर OCVJ है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q07",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 2 स्थान आगे बढ़ाकर लिखा जाए, तो BOOK का कूट क्या होगा?",
+          "options": [
+            "ERRN",
+            "CPPL",
+            "DQQM",
+            "FSSO"
+          ],
+          "correctOption": 2,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 2 स्थान आगे करके कूट मिलता है। इसलिए उत्तर DQQM है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q08",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 2 स्थान आगे बढ़ाकर लिखा जाए, तो TRAIN का कूट क्या होगा?",
+          "options": [
+            "WUDLQ",
+            "USBJO",
+            "XVEMR",
+            "VTCKP"
+          ],
+          "correctOption": 3,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 2 स्थान आगे करके कूट मिलता है। इसलिए उत्तर VTCKP है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q09",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 3 स्थान आगे बढ़ाकर लिखा जाए, तो POWER का कूट क्या होगा?",
+          "options": [
+            "SRZHU",
+            "TSAIV",
+            "RQYGT",
+            "UTBJW"
+          ],
+          "correctOption": 0,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 3 स्थान आगे करके कूट मिलता है। इसलिए उत्तर SRZHU है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q10",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Medium",
+          "marks": 1,
+          "question": "यदि प्रत्येक अंग्रेज़ी अक्षर को 3 स्थान आगे बढ़ाकर लिखा जाए, तो SCHOOL का कूट क्या होगा?",
+          "options": [
+            "WGLSSP",
+            "VFKRRO",
+            "UEJQQN",
+            "XHMTTQ"
+          ],
+          "correctOption": 1,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 3 स्थान आगे करके कूट मिलता है। इसलिए उत्तर VFKRRO है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q11",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक कूट में प्रत्येक अंग्रेज़ी अक्षर को 2 स्थान आगे बढ़ाया जाता है। कूट ECV किस मूल शब्द के लिए है?",
+          "options": [
+            "DBU",
+            "ECV",
+            "CAT",
+            "FDW"
+          ],
+          "correctOption": 2,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 2 स्थान पीछे करके मूल शब्द मिलता है। इसलिए उत्तर CAT है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q12",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक कूट में प्रत्येक अंग्रेज़ी अक्षर को 3 स्थान आगे बढ़ाया जाता है। कूट GRJ किस मूल शब्द के लिए है?",
+          "options": [
+            "EPH",
+            "FQI",
+            "GRJ",
+            "DOG"
+          ],
+          "correctOption": 3,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 3 स्थान पीछे करके मूल शब्द मिलता है। इसलिए उत्तर DOG है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q13",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक कूट में प्रत्येक अंग्रेज़ी अक्षर को 2 स्थान आगे बढ़ाया जाता है। कूट UWP किस मूल शब्द के लिए है?",
+          "options": [
+            "SUN",
+            "TVO",
+            "UWP",
+            "VXQ"
+          ],
+          "correctOption": 0,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 2 स्थान पीछे करके मूल शब्द मिलता है। इसलिए उत्तर SUN है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q14",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक कूट में प्रत्येक अंग्रेज़ी अक्षर को 3 स्थान आगे बढ़ाया जाता है। कूट SHQ किस मूल शब्द के लिए है?",
+          "options": [
+            "QFO",
+            "PEN",
+            "RGP",
+            "SHQ"
+          ],
+          "correctOption": 1,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 3 स्थान पीछे करके मूल शब्द मिलता है। इसलिए उत्तर PEN है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        },
+        {
+          "id": "topic-seed-up-police-coding-q15",
+          "subject": "Mental Aptitude, I.Q. and Reasoning Ability",
+          "subjectId": "reasoning",
+          "topic": "कोडिंग-डिकोडिंग",
+          "topicName": "कोडिंग-डिकोडिंग",
+          "topicId": "coding",
+          "difficulty": "Advanced",
+          "marks": 1,
+          "question": "एक कूट में प्रत्येक अंग्रेज़ी अक्षर को 4 स्थान आगे बढ़ाया जाता है। कूट FSSO किस मूल शब्द के लिए है?",
+          "options": [
+            "CPPL",
+            "DQQM",
+            "BOOK",
+            "ERRN"
+          ],
+          "correctOption": 2,
+          "explanation": "अंग्रेज़ी वर्णमाला में हर अक्षर 4 स्थान पीछे करके मूल शब्द मिलता है। इसलिए उत्तर BOOK है।",
+          "origin": "original-practice-question",
+          "contentStatus": "training-fixture"
+        }
+      ]
     }
   ]
 }
