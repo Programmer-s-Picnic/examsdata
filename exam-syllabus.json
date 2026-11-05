@@ -93,7 +93,7 @@
       "totalQuestions": 150,
       "totalMarks": 300,
       "marksPerCorrect": 2,
-      "negativeMarking": false,
+      "negativeMarking": null,
       "source": "https://uppbpb.gov.in/FilesUploaded/Notice/CONSTABLE-VIGYAPTIc7be0cc8-3365-471e-9237-447c528d341a.pdf",
       "processSource": "https://uppbpb.gov.in/FilesUploaded/Notice/CONST-25OMRVIGGYAPTI05-02-2026590e47bd-d973-4a45-9007-b2a0a048b4f4.pdf",
       "sourcePages": [
@@ -101,7 +101,7 @@
         29
       ],
       "verificationStatus": "official",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-11-05",
       "sections": [
         {
           "id": "general-knowledge",
@@ -240,14 +240,16 @@
           ]
         }
       ],
-      "note": "Verified from the official UPPRPB Direct Recruitment-2025 notification, Appendix 1 (pages 28–29). Current written-exam process: 150 objective questions, 300 marks, 2 hours, +2 per correct answer and no negative marking.",
+      "note": "UPPRPB 2025 notification (Appendix 1, pages 28–29): 150 questions, 300 marks, 120 minutes, four written sections. February 2026 exam-process notice specifies +2 per correct answer, but does not state a wrong-answer deduction or section-wise question quotas. Topic coverage is indicative. Import remains subject to admin validation.",
       "adminValidation": {
         "status": "pending",
         "validatedBy": null,
         "validatedAt": null,
         "note": "Official syllabus import requires exam-site admin validation before student publication."
       },
-      "sourceDisplayPolicy": "government-only"
+      "sourceDisplayPolicy": "government-only",
+      "negativeMarkingStatus": "Not specified in 2025 written-examination process notice; earlier 2023 deduction must not be presumed",
+      "officialSubjectCounts": null
     }
   ],
   "updatedAt": "2026-10-07T11:30:00Z"
