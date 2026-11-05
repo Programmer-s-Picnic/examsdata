@@ -12875,15 +12875,15 @@
           "topicName": "रक्त संबंध",
           "difficulty": "Advanced",
           "marks": 1,
-          "question": "A, B का भाई है। B, C की पुत्री है। A, C का क्या है?",
+          "question": "A, B का भाई है। B, C का पुत्र है। A, C का क्या है?",
           "options": [
-            "पोता",
-            "नाती",
-            "चाचा",
-            "मामा"
+            "पिता",
+            "पुत्र",
+            "भतीजा",
+            "नाती"
           ],
           "correctOption": 1,
-          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘नाती’ है।",
+          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पुत्र’ है।",
           "origin": "original-practice-question",
           "contentStatus": "educational-review-needed"
         },
@@ -12898,13 +12898,13 @@
           "marks": 1,
           "question": "A, B की बहन है। B, C का पुत्र है। A, C की क्या है?",
           "options": [
-            "नातिन",
-            "बुआ",
-            "पोती",
-            "मौसी"
+            "दादी",
+            "मौसी",
+            "पुत्री",
+            "पोती"
           ],
           "correctOption": 2,
-          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पोती’ है।",
+          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पुत्री’ है।",
           "origin": "original-practice-question",
           "contentStatus": "educational-review-needed"
         },
@@ -12917,15 +12917,15 @@
           "topicName": "रक्त संबंध",
           "difficulty": "Advanced",
           "marks": 1,
-          "question": "A, B का पिता है। B, C की पुत्री है। A, C से क्या संबंध रखता है?",
+          "question": "A, B का पुत्र है। B, C का पुत्र है। A, C का क्या है?",
           "options": [
-            "दादा",
+            "नाती",
+            "पिता",
             "चाचा",
-            "मामा",
-            "नाना"
+            "पोता"
           ],
           "correctOption": 3,
-          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘नाना’ है।",
+          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पोता’ है।",
           "origin": "original-practice-question",
           "contentStatus": "educational-review-needed"
         }
@@ -17741,13 +17741,13 @@
           "marks": 2,
           "question": "A, B की बहन है। B, C का पुत्र है। A, C की क्या है?",
           "options": [
-            "नातिन",
-            "बुआ",
-            "पोती",
-            "मौसी"
+            "दादी",
+            "मौसी",
+            "पुत्री",
+            "पोती"
           ],
           "correctOption": 2,
-          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पोती’ है।",
+          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पुत्री’ है।",
           "origin": "original-practice-question",
           "contentStatus": "educational-review-needed",
           "sourceQuestionId": "constable-extra-blood-relations-q14",
@@ -19165,15 +19165,15 @@
           "topicName": "रक्त संबंध",
           "difficulty": "Advanced",
           "marks": 2,
-          "question": "A, B का पिता है। B, C की पुत्री है। A, C से क्या संबंध रखता है?",
+          "question": "A, B का पुत्र है। B, C का पुत्र है। A, C का क्या है?",
           "options": [
-            "दादा",
+            "नाती",
+            "पिता",
             "चाचा",
-            "मामा",
-            "नाना"
+            "पोता"
           ],
           "correctOption": 3,
-          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘नाना’ है।",
+          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पोता’ है।",
           "origin": "original-practice-question",
           "contentStatus": "educational-review-needed",
           "sourceQuestionId": "constable-extra-blood-relations-q15",
@@ -21623,15 +21623,15 @@
           "topicName": "रक्त संबंध",
           "difficulty": "Advanced",
           "marks": 2,
-          "question": "A, B का भाई है। B, C की पुत्री है। A, C का क्या है?",
+          "question": "A, B का भाई है। B, C का पुत्र है। A, C का क्या है?",
           "options": [
-            "पोता",
-            "नाती",
-            "चाचा",
-            "मामा"
+            "पिता",
+            "पुत्र",
+            "भतीजा",
+            "नाती"
           ],
           "correctOption": 1,
-          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘नाती’ है।",
+          "explanation": "कथन के पारिवारिक संबंधों को क्रम में जोड़ने पर सही संबंध ‘पुत्र’ है।",
           "origin": "original-practice-question",
           "contentStatus": "educational-review-needed",
           "sourceQuestionId": "constable-extra-blood-relations-q13",
