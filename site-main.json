@@ -187,6 +187,9 @@
     "sounds": true,
     "autosave": true,
     "bilingualOnboarding": true,
-    "publicLanding": true
+    "publicLanding": true,
+    "topicPractice": {
+      "enabled": true
+    }
   }
 }
