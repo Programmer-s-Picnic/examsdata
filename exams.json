@@ -5,9 +5,9 @@
       "name": "UP Police Constable",
       "available": true,
       "authority": "Uttar Pradesh Police Recruitment & Promotion Board (UPPRPB)",
-      "description": "Police recruitment preparation covering general knowledge, Hindi, numerical ability and reasoning.",
-      "status": "Direct Recruitment 2025 · written exam held 8–10 Jun 2026",
-      "negativeMarking": 0,
+      "description": "UP Police Constable (Civil Police and equivalent posts) preparation: official syllabus, original topic-wise MCQs, three 150-question practice mocks, exam guidance and approved previous-paper records.",
+      "status": "Direct Recruitment 2025 · final selection result announced 14 Oct 2026",
+      "negativeMarking": null,
       "icon": "police",
       "subjects": [
         "General Knowledge",
@@ -33,7 +33,7 @@
           "url": "https://uppbpb.gov.in/Home/Notice"
         }
       ],
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-11-05",
       "stages": [
         {
           "name": "Written examination",
@@ -50,6 +50,124 @@
         {
           "name": "Physical efficiency test",
           "description": "Consult the applicable notice for the current criteria and schedule."
+        }
+      ],
+      "officialPattern": {
+        "cycle": "Direct Recruitment-2025",
+        "noticeNumber": "PRPB-B (Constable PAC and other cadres)-07/2025",
+        "advertisementDate": "2025-12-31",
+        "questionCount": 150,
+        "maxMarks": 300,
+        "minutes": 120,
+        "marksPerCorrect": 2,
+        "mode": "Offline, OMR-based",
+        "subjects": [
+          "General Knowledge",
+          "General Hindi",
+          "Numerical and Mental Ability",
+          "Mental Aptitude, I.Q. and Reasoning Ability"
+        ],
+        "subjectCounts": "Not prescribed in the cited 2025 notification",
+        "negativeMarking": "Not specified in the 2025 written-exam process notice; do not assume the 2023 rule applies",
+        "questionLanguages": "General Hindi in Hindi; other subjects in Hindi and English",
+        "qualifyingPercent": {
+          "unreserved": 30,
+          "ews": 25,
+          "obc": 25,
+          "sc": 20,
+          "st": 20
+        },
+        "writtenDates": [
+          "2026-06-08",
+          "2026-06-09",
+          "2026-06-10"
+        ],
+        "lastCycleResultDate": "2026-10-14",
+        "officialSource": "https://uppbpb.gov.in/FilesUploaded/Notice/CONST-25OMRVIGGYAPTI05-02-2026590e47bd-d973-4a45-9007-b2a0a048b4f4.pdf",
+        "syllabusSource": "https://uppbpb.gov.in/FilesUploaded/Notice/CONSTABLE-VIGYAPTIc7be0cc8-3365-471e-9237-447c528d341a.pdf"
+      },
+      "physical2025": {
+        "label": "For recruitment 2025; verify again for later recruitments",
+        "menGeneralOBCSC": {
+          "heightCm": 168,
+          "chestCm": [
+            79,
+            84
+          ],
+          "minExpansionCm": 5
+        },
+        "menST": {
+          "heightCm": 160,
+          "chestCm": [
+            77,
+            82
+          ],
+          "minExpansionCm": 5
+        },
+        "womenGeneralOBCSC": {
+          "heightCm": 152,
+          "minWeightKg": 40
+        },
+        "womenST": {
+          "heightCm": 147,
+          "minWeightKg": 40
+        },
+        "pet": {
+          "men": {
+            "distanceKm": 4.8,
+            "minutes": 25
+          },
+          "women": {
+            "distanceKm": 2.4,
+            "minutes": 14
+          }
+        },
+        "officialSource": "https://uppbpb.gov.in/FilesUploaded/Notice/CONSTABLE-VIGYAPTIc7be0cc8-3365-471e-9237-447c528d341a.pdf",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      "studyPlan": [
+        {
+          "week": 1,
+          "focus": "General Hindi",
+          "activities": "Synonyms, antonyms, idioms, one-word substitutions, spelling and grammar foundations"
+        },
+        {
+          "week": 2,
+          "focus": "Mathematics I",
+          "activities": "Number system, percentages, ratio, HCF/LCM, simplification and averages"
+        },
+        {
+          "week": 3,
+          "focus": "General Knowledge I",
+          "activities": "Constitution, Indian history, UP geography and general science"
+        },
+        {
+          "week": 4,
+          "focus": "Reasoning I",
+          "activities": "Number series, coding, analogy, odd-one-out, direction and blood relations"
+        },
+        {
+          "week": 5,
+          "focus": "Mathematics II",
+          "activities": "Time and work, speed and distance, simple interest, profit/loss and data handling"
+        },
+        {
+          "week": 6,
+          "focus": "General Knowledge II",
+          "activities": "Economy, UP administration, environment, science revision, current affairs from verified sources"
+        },
+        {
+          "week": 7,
+          "focus": "Mixed timed practice",
+          "activities": "Take original 150-question mock A; review errors and revise weaker topics"
+        },
+        {
+          "week": 8,
+          "focus": "Final revision",
+          "activities": "Take original 150-question mocks B and C, revise notes, practice OMR marking and review official notices"
         }
       ]
     },
